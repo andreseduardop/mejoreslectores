@@ -1,0 +1,62 @@
+- id: skip_to_content
+  translation: saltar a contenido
+- id: nav_main_navigation
+  translation: Navegación principal
+- id: nav_button_menu
+  translation: MENÚ
+- id: discuss_show_comments_button
+  translation: Ver comentarios
+- id: discuss_comments_disabled
+  translation: Los comentarios están desabilitados.
+- id: discuss_js_disabled
+  translation: Habilite JavaScript para ver comentarios Disqus.
+- id: dark_theme
+  translation: "Modo oscuro"
+- id: table_of_contents
+  translation: Tabla de contenido
+- id: publish_date
+  translation: "Publicado:"
+- id: last_updated
+  translation: "Actualizado:"
+- id: tags
+  translation: "Temas:"
+- id: aria_label_tags
+  translation: temas
+- id: search_placeholder
+  translation: Buscar por título...
+- id: search_aria_label
+  translation: Buscar por título
+- id: related_articles_title
+  translation: Artículos Realacionados
+- id: texto_disponible_en_idiomas
+  translation: "También disponible en:"
+- id: read_more
+  translation: Leer más...
+- id: activate
+  translation: activar
+- id: go_to_home
+  translation: Ir al inicio.
+- id: page_no_found
+  translation: ¡Ups! Ha habido un error. La URL solicitada no se encontró en este servidor.
+- id: latest-articles
+  translation: "Artículos más recientes"
+- id: to_top
+  translation: Subir
+- id: go_to_top
+  translation: Ir arriba
+- id: views
+  translation: "Vistas:"
+- id: we-are-members
+  translation: Somos miembros de
+- id: js-disabled
+  translation: "Error: JavaScript está desactivado."
+- id: see-full-size-image
+  translation: "Ver imagen en tamaño completo"
+- id: licenced-under
+  translation: Licencia
+- id: licenced-link
+  translation: "https://creativecommons.org/licenses/by-nc/4.0/deed.es"
+- id: licenced-caption
+  translation: "Al compartir, incluya un enlace a esta página"
+- id: permission
+  translation: "Tiene permiso para usar, distribuir y reproducir este material en cualquier medio, siempre que se mencione la fuente y los autores"

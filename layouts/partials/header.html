@@ -1,0 +1,36 @@
+<header class="intro-and-nav" >
+  <div>
+    <div class="intro">
+      <!-- Logo -->
+      <a
+        class="logo"
+        href="{{ .Site.BaseURL | relLangURL }}" aria-label="{{ .Site.Title }} home page">
+        <img class="logo" src='{{ "images/logo.svg" | absURL }}' width="150" height="75" alt="[ Lectupedia - logo ]">
+      </a>
+    </div>
+    <!-- end Logo -->
+    
+    <!-- Lista de idiomas -->
+    <div class="translations-list">
+      {{ $currentPage := . }}
+      {{ range .Site.Home.Translations }}
+        {{ $homeTranslation := .Language }}
+        {{ $linkToTranslation := .Permalink }}
+        {{ range $currentPage.Translations }} 
+          {{ $sameLanguage := eq $homeTranslation .Language }} 
+          {{ if $sameLanguage }}
+            {{ $linkToTranslation = .Permalink }}
+          {{ end }}
+        {{ end }}  
+        <span><a class="available-language-item" href="{{ $linkToTranslation }}">{{ .Language.LanguageName }}</a></span><span> · </span>
+      {{ end }}
+          <span>{{ .Site.Home.Language.LanguageName }} </span>
+    </div>
+    <!-- end Lista de idiomas -->    
+    
+    {{ partial "nav.html" . }}
+    {{ if eq .Site.Params.moveFooterToHeader true }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+  </div>
+</header>

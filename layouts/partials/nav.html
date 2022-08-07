@@ -1,0 +1,23 @@
+<nav id="patterns-nav" class="patterns" >
+  <button id="menu-button" aria-expanded="false" aria-label='{{ T "nav_button_menu" }}'>
+    <svg viewBox="0 0 130 100" aria-hidden="true" focusable="false">
+      <use xlink:href="#menu"></use>
+    </svg>
+  </button>
+  <div id="expandable-menu">
+	  <ul id="patterns-list">
+	    {{- range .Site.Menus.nav }}
+	      <li class="pattern">
+	        <!-- | relLangURL is added for multilingual feature compatibility. 
+	        As indicated in: https://gohugo.io/content-management/multilingual/#menus -->
+	        <a class="menu-item" href="{{ .URL | relLangURL }}">
+	          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+	            <use xlink:href="#bookmark"></use>
+	          </svg>
+	          <span class="text">{{ .Name }}</span>
+	        </a>
+	      </li>
+	    {{ end }}
+	  </ul>
+	</div>    
+</nav>

@@ -1,0 +1,62 @@
+- id: skip_to_content
+  translation: skip to content
+- id: nav_main_navigation
+  translation: Main navigation
+- id: nav_button_menu
+  translation: MENU
+- id: discuss_show_comments_button
+  translation: Show comments
+- id: discuss_comments_disabled
+  translation: Disqus comments are disabled.
+- id: discuss_js_disabled
+  translation: Enable JavaScript to view Disqus comments.
+- id: dark_theme
+  translation: "Dark theme"
+- id: table_of_contents
+  translation: Table of contents
+- id: publish_date
+  translation: "Publish date:"
+- id: last_updated
+  translation: "Last updated:"
+- id: tags
+  translation: "Topics:"
+- id: aria_label_tags
+  translation: tags
+- id: search_placeholder
+  translation: Search by title...
+- id: search_aria_label
+  translation: Search by title
+- id: related_articles_title
+  translation: Related Posts
+- id: texto_disponible_en_idiomas
+  translation: "Also available in:"
+- id: read_more
+  translation: Read more...
+- id: activate
+  translation: activate
+- id: go_to_home
+  translation: Go to home.
+- id: page_no_found
+  translation: Oops! That’s an error. The requested URL was not found on this server.
+- id: latest-articles
+  translation: "Latest articles"
+- id: to_top
+  translation: Top
+- id: go_to_top
+  translation: Go to top
+- id: views
+  translation: "Views:"
+- id: we-are-members
+  translation: We are members of
+- id: js-disabled
+  translation: "Error: JavaScript is disabled."
+- id: see-full-size-image
+  translation: "See full-size image"
+- id: licenced-under
+  translation: "Licenced under"
+- id: licenced-link
+  translation: "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+- id: licenced-caption
+  translation: "When sharing, please include a link to this page"
+- id: permission
+  translation: "You have the permission to use, distribute, and reproduce this material in any medium, provided the source and authors are credited"
