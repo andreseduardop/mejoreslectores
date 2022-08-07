@@ -1,18 +1,20 @@
 :root {
-    --color-bg: #fffdf3;
-    --color-bg-spec: #f6ead5;
-    --color-strong: #cc330a;
+    --color-bg: #fefbeb;
+    --color-bg-spec: #f9c80e;
+    --color-strong: #da4a07;
     --color-txt: #111;
 }
 
 /* Fonts */
+/* fredoka-one-regular - latin */
 @font-face {
-    font-family: 'Bitter';
-    src: url('{{ "css/fonts/Bitter-800.woff2" | absURL }}') format('woff2'),
-    url('{{ "css/fonts/Bitter-800.woff" | absURL }}') format('woff');
-    font-weight: 800;
+    font-family: 'FredokaOne';
     font-style: normal;
+    font-weight: 400;
     font-display: swap;
+    src: local(''),
+       url('../fonts/fredoka-one-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/fredoka-one-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 *,
 *::before,
@@ -116,10 +118,11 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Bitter, "Arial Black", "Helvetica bold", sans-serif;
-    font-weight: 800;
+    font-family: FredokaOne, "Arial Black", "Helvetica bold", sans-serif;
+    font-weight: 400;
     line-height: 1.25;
     margin-top: 2rem;
+    color: var(--color-strong);
 }
 h1 {
     font-size: 1.75rem;
@@ -669,6 +672,16 @@ li>svg {
 
 a.logo {
     border-bottom: 0px solid;
+}
+
+/* Header - Título */
+.encabezado {
+    font-family: FredokaOne, "Arial Black", "Helvetica bold", sans-serif;
+    font-weight: 400;
+    line-height: 1.25;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
 }
 
 /* Header > Idiomas disponibles */

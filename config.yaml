@@ -5,9 +5,6 @@ theme: cupper-hugo-theme
 languageCode: es-co
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
-disableLanguages:
-  - fr
-disqusShortname: lectupedia
 enableGitInfo: true
 removePathAccents: true
 pluralizeListTitles: false
@@ -18,33 +15,13 @@ menu:
   nav:
     - name: Curso
       url: /curso/
-      weight: 2
-languages:
-  es:
-    languageName: Español
-    weight: 1
-  fr:
-    languageName: Français
-    weight: 3
-  en:
-    languageName: English
-    weight: 2
-    description: "Let's talk about reading. Mundus excolitur legendo."
-    homeMetaContent: "Let's talk about reading. Mundus excolitur legendo."
-    footer: "2021-2022· Lectupedia by [Andrés Eduardo Peña](https://www.linkedin.com/in/andreseduardop/) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)"
-    menu:
-      nav:
-        - name: Articles
-          url: /articles/
-          weight: 2
-        - name: Topics
-          url: /tags/
-          weight: 3
+      weight: 1
+
 taxonomies:
   tag: tags
 permalinks:
-  list: '/:slug/'
-  curso: '/:slug/'
+  list: '/:filename/'
+  # curso: '/:filename/'
 related:
   includeNewer: true
   threshold: 70
@@ -58,10 +35,10 @@ imaging:
   quality: 85
   
 params:
-  description: Hablemos sobre lectura. Mundus excolitur legendo.
-  homeMetaContent: Hablemos sobre lectura. Mundus excolitur legendo.
-  footer: "2021-2022· Lectupedia, por [Andrés Eduardo Peña](https://www.linkedin.com/in/andreseduardop/), está disponible bajo licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es)"
-  footer2: "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) (Mod). Deployed to [Netlify](https://www.netlify.com/)."
+  description: Taller Experimental de Comprensión Lectora.
+  homeMetaContent: Taller Experimental de Comprensión Lectora.
+  footer: ""
+  footer2: "© Andrés Peña y Jeysson Martín, 2022.<br>MAESTRÍA EN DISEÑO Y GESTIÓN DE ESCENARIOS VIRTUALES DE APRENDIZAJE.<BR> UNIVERSIDAD DE LA SALLE."
   dateFormat: 'Jan 2, 2006'
   author: Andrés Eduardo Peña
   images:

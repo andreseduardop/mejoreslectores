@@ -11,29 +11,9 @@
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . | resources.Minify | resources.Fingerprint "sha384" }}
   <link rel="stylesheet" type="text/css" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
 
-  <!-- Cargar otros estilos custom desde /assets/ -->
-  {{ with .Site.Params.customCss }}
-    {{ $customStyles := resources.Get . }}
-      {{ $styles01 := $customStyles | resources.ExecuteAsTemplate "css/custom-1.css" . | resources.Minify | resources.Fingerprint "sha384" }}
-        <link rel="stylesheet" type="text/css" href="{{ $styles01.RelPermalink }}" integrity="{{ $styles01.Data.Integrity }}">
-  {{ end }}
-  
   <!-- Precarga de fuentes -->
   {{ if not .IsHome }}
-    <link rel="preload" href='{{ "css/fonts/Bitter-800.woff2" | relURL }}' as="font" type="font/woff2" crossorigin>
-  {{ end }}
-
-  <!-- Preconexión a Disqus (para comentarios)  -->
-  {{ if .IsPage }}  
-    {{ with .Site.DisqusShortname }}
-    	{{ $myDisqus := print "https://" . ".disqus.com/" }}
-<!--     	<link rel="preconnect" href="{{ $myDisqus }}" crossorigin>
-    	<link rel="preconnect" href="https://disqus.com/" crossorigin>
-    	<link rel="preconnect" href="https://referrer.disqus.com/" crossorigin>
-    	<link rel="preconnect" href="https://links.services.disqus.com/" crossorigin>
-    	<link rel="preconnect" href="https://c.disquscdn.com/" crossorigin>
-    	<link rel="preconnect" href="https://cdn.viglink.com/" crossorigin> -->
-    {{ end }}
+    <link rel="preload" href='{{ "fonts/fredoka-one-v13-latin-regular.woff2" | relURL }}' as="font" type="font/woff2" crossorigin>
   {{ end }}
 
   <!-- Descripción meta -->
@@ -49,14 +29,13 @@
   {{ end }}
 
   <!-- Define favicon e íconos -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
-  <meta name="msapplication-TileColor" content="#efefef">
-  <!-- color en Chrome, Firefox OS and Opera -->
-  <meta name="theme-color" content="#efefef">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#f9c80e">
+<meta name="msapplication-TileColor" content="#fefbeb">
+<meta name="theme-color" content="#f9c80e">
 
 
   <!-- Title -->

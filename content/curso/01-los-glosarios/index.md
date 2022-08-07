@@ -11,5 +11,8 @@ toc: false
 description: "Los glosarios: vocabulario, organización alfabética, definiciones y sinónimos."
 ---
 
+1. Para iniciar, vamos a ver el siguiente video.
 
-Contenido [instrucccional]()
+
+{{< youtube GlmGcFMTnkY >}}
+
