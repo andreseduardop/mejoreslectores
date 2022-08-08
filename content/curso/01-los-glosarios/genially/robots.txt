@@ -1,0 +1,6 @@
+# Group 1
+User-agent: *
+User-agent: AdsBot-Google
+Disallow: /
+
+Sitemap: https://shower.center/sitemap.xml
