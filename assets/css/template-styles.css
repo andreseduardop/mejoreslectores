@@ -1,8 +1,10 @@
 :root {
     --color-bg: #fefbeb;
     --color-bg-spec: #f9c80e;
+    --color-bg-violet: #9c3dcc;
     --color-strong: #da4a07;
     --color-txt: #111;
+    --intro-width: 15rem;
 }
 
 /* Fonts */
@@ -243,7 +245,7 @@ th:empty {
 }
 .intro-and-nav {
     /*font-size: 1rem;*/
-    width: 15rem;
+    width: var(--intro-width);
     height: 100vh;
     position: fixed;
     top: 0;
@@ -269,7 +271,7 @@ th:empty {
     height: auto;
 }
 .main-and-footer {
-    margin-left: 15rem;
+    margin-left: var(--intro-width);
 }
 .main-and-footer>div {
     max-width: 40rem;
@@ -412,9 +414,9 @@ footer {
     font-size: 0.875rem;
 }
 .note .sign {
-    height: 2.25rem;
-    width: 2.25rem;
-    color: var(--color-strong);
+    height: 2rem;
+    width: 2rem;
+    /*color: var(--color-strong);*/
 }
 .note>div {
     margin-left: 0.75rem;
@@ -426,13 +428,27 @@ footer {
     margin-top: 0;
 }
 .note.warning {
+    padding: .75rem 0;
     border-left: 0;
+    background-color: var(--color-bg-spec);
     background-image: url({{ "css/images/stripe.svg" | absURL }});
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
 .note.warning>div {
     margin-left: 1.25rem;
+}
+.note.profe {
+    padding: .5rem 1rem;
+    border-left: 0;
+    background-color: var(--color-bg-spec);
+    background-image: url({{ "css/images/stripe.svg" | absURL }});
+    background-size: 0.5rem auto;
+    background-repeat: repeat-y;
+}
+.character {
+    height: 3.5rem;
+    width: 3.5rem;
 }
 
 /* Tick lists */
@@ -872,4 +888,8 @@ p img {
     height: 1.5rem;
     width: 1.5rem;
     margin-right: 0px;
+}
+/* Diccionario */
+.diccionario {
+    width: 100%;
 }
