@@ -1,7 +1,7 @@
 baseURL: 'https://mejoreslectores.com'
 title: MEJORES LECTORES
 theme: cupper-hugo-theme
-# googleAnalytics: 
+googleAnalytics: 'G-DGH72DH8MG'
 languageCode: es-co
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
