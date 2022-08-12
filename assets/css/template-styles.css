@@ -439,12 +439,13 @@ footer {
     margin-left: 1.25rem;
 }
 .note.profe {
+    cursor: default;
     padding: .5rem 1rem;
     border-left: 0;
     background-color: var(--color-bg-spec);
-    background-image: url({{ "css/images/stripe.svg" | absURL }});
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
+    background-image: url({{ "css/images/stripe.svg" | absURL }});
 }
 .character {
     height: 3.5rem;
@@ -886,10 +887,16 @@ p img {
 .social-icons a svg
 {
     height: 1.5rem;
-    width: 1.5rem;
     margin-right: 0px;
+    width: 1.5rem;
 }
-/* Diccionario */
-.diccionario {
-    width: 100%;
+/* Cursor help */
+main {
+    cursor: help;
+} 
+#glosario-lista {
+    cursor: help;
+}
+h1 {
+    cursor: default;
 }

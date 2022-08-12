@@ -1,0 +1,2 @@
+var H5P=H5P||{};H5P.JoubelMessageDialog=(function($){function JoubelMessageDialog($container,message){var timeout;var removeDialog=function(){$warning.remove();clearTimeout(timeout);$container.off('click.messageDialog');};var $warning=$('<div/>',{'class':'joubel-message-dialog',text:message}).appendTo($container);timeout=setTimeout(removeDialog,3000);$container.on('click.messageDialog',removeDialog);return $warning;}
+return JoubelMessageDialog;})(H5P.jQuery);

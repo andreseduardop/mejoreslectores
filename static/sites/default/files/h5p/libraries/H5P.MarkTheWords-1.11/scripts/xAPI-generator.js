@@ -1,0 +1,10 @@
+H5P.MarkTheWords=H5P.MarkTheWords||{};H5P.MarkTheWords.XapiGenerator=(function($){function XapiGenerator(markTheWords){this.generateAnsweredEvent=function(){var xAPIEvent=markTheWords.createXAPIEventTemplate('answered');var objectDefinition=createDefinition(markTheWords);$.extend(true,xAPIEvent.getVerifiedStatementValue(['object','definition']),objectDefinition);xAPIEvent.setScoredResult(markTheWords.getScore(),markTheWords.getMaxScore(),markTheWords,true,markTheWords.getScore()===markTheWords.getMaxScore());var userResult={response:getUserSelections(markTheWords)};$.extend(xAPIEvent.getVerifiedStatementValue(['result']),userResult);return xAPIEvent;};}
+function createDefinition(markTheWords){var definition={};definition.description={'en-US':replaceLineBreaks(markTheWords.params.taskDescription)};definition.type='http://adlnet.gov/expapi/activities/cmi.interaction';definition.interactionType='choice';definition.correctResponsesPattern=[getCorrectResponsesPattern(markTheWords)];definition.choices=getChoices(markTheWords);definition.extensions={'https://h5p.org/x-api/line-breaks':markTheWords.getIndexesOfLineBreaks()};return definition;}
+function replaceLineBreaks(description){var sanitized=$('<div>'+description+'</div>').text();return sanitized.replace(/(\n)+/g,'<br/>');}
+function getChoices(markTheWords){return markTheWords.selectableWords.map(function(word,index){var text=word.getText();if(text.charAt(0)==='*'&&text.charAt(text.length-1)==='*'){text=text.substr(1,text.length-2);}
+return{id:index.toString(),description:{'en-US':$('<div>'+text+'</div>').text()}};});}
+function getUserSelections(markTheWords){return markTheWords.selectableWords.reduce(function(prev,word,index){if(word.isSelected()){prev.push(index);}
+return prev;},[]).join('[,]');}
+function getCorrectResponsesPattern(markTheWords){return markTheWords.selectableWords.reduce(function(prev,word,index){if(word.isAnswer()){prev.push(index);}
+return prev;},[]).join('[,]');}
+return XapiGenerator;})(H5P.jQuery);

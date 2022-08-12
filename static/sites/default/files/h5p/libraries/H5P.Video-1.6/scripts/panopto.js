@@ -1,0 +1,24 @@
+H5P.VideoPanopto=(function($){function Panopto(sources,options,l10n){var self=this;var player;var playbackRate=1;let canHasPlay;var id='h5p-panopto-'+numInstances;numInstances++;var $wrapper=$('<div/>');var $placeholder=$('<div/>',{id:id,html:'<div>'+l10n.loading+'</div>'}).appendTo($wrapper);var create=function(){if(!$placeholder.is(':visible')||player!==undefined){return;}
+if(window.EmbedApi===undefined){loadAPI(create);return;}
+var width=$wrapper.width();if(width<200){width=200;}
+const videoId=getId(sources[0].path);player=new EmbedApi(id,{width:width,height:width*(9/16),serverName:videoId[0],sessionId:videoId[1],videoParams:{interactivity:'none',showtitle:false,autohide:true,offerviewer:false,autoplay:false,showbrand:false,start:0,hideoverlay:!options.controls,},events:{onIframeReady:function(){$placeholder.children(0).text('');player.loadVideo();self.trigger('containerLoaded');self.trigger('resize');},onReady:function(){self.trigger('loaded');if(player.hasCaptions()){const captions=[];const captionTracks=player.getCaptionTracks();for(trackIndex in captionTracks){captions.push(new H5P.Video.LabelValue(captionTracks[trackIndex],trackIndex));}
+currentTrack=player.getSelectedCaptionTrack();currentTrack=captions[currentTrack]?captions[currentTrack]:null;self.trigger('captions',captions);}
+if(!canHasPlay){self.pause();}},onStateChange:function(state){if(state>-1&&state<4){self.trigger('stateChange',state);}},onPlaybackRateChange:function(){self.trigger('playbackRateChange',self.getPlaybackRate());},onError:function(){self.trigger('error',l10n.unknownError);},onLoginShown:function(){$placeholder.children().first().remove();self.trigger('loaded');}}});};self.pressToPlay=true;self.appendTo=function($container){$container.addClass('h5p-panopto').append($wrapper);create();};self.getQualities=function(){};self.getQuality=function(){};self.setQuality=function(quality){};self.play=function(){canHasPlay=true;if(!player||!player.playVideo){return;}
+player.playVideo();};self.pause=function(){canHasPlay=false;if(!player||!player.pauseVideo){return;}
+try{player.pauseVideo();}
+catch(err){}};self.seek=function(time){if(!player||!player.seekTo){return;}
+player.seekTo(time);};self.getCurrentTime=function(){if(!player||!player.getCurrentTime){return;}
+return player.getCurrentTime();};self.getDuration=function(){if(!player||!player.getDuration){return;}
+return player.getDuration();};self.getBuffered=function(){};self.mute=function(){if(!player||!player.muteVideo){return;}
+player.muteVideo();};self.unMute=function(){if(!player||!player.unmuteVideo){return;}
+player.unmuteVideo();};self.isMuted=function(){if(!player||!player.isMuted){return;}
+return player.isMuted();};self.getVolume=function(){if(!player||!player.getVolume){return;}
+return player.getVolume()*100;};self.setVolume=function(level){if(!player||!player.setVolume){return;}
+player.setVolume(level/100);};self.getPlaybackRates=function(){return[0.25,0.5,1,1.25,1.5,2];};self.getPlaybackRate=function(){if(!player||!player.getPlaybackRate){return;}
+return player.getPlaybackRate();};self.setPlaybackRate=function(newPlaybackRate){if(!player||!player.setPlaybackRate){return;}
+player.setPlaybackRate(newPlaybackRate);};self.setCaptionsTrack=function(track){if(!track){player.disableCaptions();currentTrack=null;}
+else{player.enableCaptions(track.value+'');currentTrack=track;}};self.getCaptionsTrack=function(){return currentTrack;};self.on('resize',function(){if(!$wrapper.is(':visible')){return;}
+if(!player){create();return;}
+$wrapper.css({width:'100%',height:'100%'});var width=$wrapper[0].clientWidth;var height=options.fit?$wrapper[0].clientHeight:(width*(9/16));$wrapper.css({width:width+'px',height:height+'px'});const $iframe=$placeholder.children('iframe');if($iframe.length){$iframe.attr('width',width);$iframe.attr('height',height);}});let currentTrack;}
+Panopto.canPlay=function(sources){return getId(sources[0].path);};var getId=function(url){const matches=url.match(/^[^\/]+:\/\/([^\/]*panopto\.[^\/]+)\/Panopto\/.+\?id=(.+)$/);if(matches&&matches.length===3){return[matches[1],matches[2]];}};var loadAPI=function(loaded){if(window.onPanoptoEmbedApiReady!==undefined){var original=window.onPanoptoEmbedApiReady;window.onPanoptoEmbedApiReady=function(id){loaded(id);original(id);};}
+else{var tag=document.createElement('script');tag.src='https://developers.panopto.com/scripts/embedapi.min.js';var firstScriptTag=document.getElementsByTagName('script')[0];firstScriptTag.parentNode.insertBefore(tag,firstScriptTag);window.onPanoptoEmbedApiReady=loaded;}};var numInstances=0;return Panopto;})(H5P.jQuery);H5P.videoHandlers=H5P.videoHandlers||[];H5P.videoHandlers.push(H5P.VideoPanopto);

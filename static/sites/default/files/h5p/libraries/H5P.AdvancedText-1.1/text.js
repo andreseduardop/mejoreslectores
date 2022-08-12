@@ -1,0 +1,2 @@
+H5P.AdvancedText=(function($,EventDispatcher){function AdvancedText(parameters,id){var self=this;EventDispatcher.call(this);var html=(parameters.text===undefined?'<em>New text</em>':parameters.text);self.attach=function($container){$container.addClass('h5p-advanced-text').html(html);};}
+AdvancedText.prototype=Object.create(EventDispatcher.prototype);AdvancedText.prototype.constructor=AdvancedText;return AdvancedText;})(H5P.jQuery,H5P.EventDispatcher);

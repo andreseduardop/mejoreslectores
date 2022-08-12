@@ -1,0 +1,26 @@
+var H5P=H5P||{};H5P.JoubelSpeechBubble=(function($){var $currentSpeechBubble;var $currentContainer;var $tail;var $innerTail;var removeSpeechBubbleTimeout;var currentMaxWidth;var DEFAULT_MAX_WIDTH=400;var iDevice=navigator.userAgent.match(/iPod|iPhone|iPad/g)?true:false;function JoubelSpeechBubble($container,text,maxWidth){maxWidth=maxWidth||DEFAULT_MAX_WIDTH;currentMaxWidth=maxWidth;$currentContainer=$container;this.isCurrent=function($tip){return $tip.is($currentContainer);};this.remove=function(){remove();};var fadeOutSpeechBubble=function($speechBubble){if(!$speechBubble){return;}
+clearTimeout(removeSpeechBubbleTimeout);$speechBubble.removeClass('show');setTimeout(function(){if($speechBubble){$speechBubble.remove();$speechBubble=undefined;}},500);};if($currentSpeechBubble!==undefined){remove();}
+var $h5pContainer=getH5PContainer($container);fadeOutSpeechBubble($currentSpeechBubble);$tail=$('<div class="joubel-speech-bubble-tail"></div>');$innerTail=$('<div class="joubel-speech-bubble-inner-tail"></div>');var $innerBubble=$('<div class="joubel-speech-bubble-inner">'+
+'<div class="joubel-speech-bubble-text">'+text+'</div>'+
+'</div>').prepend($innerTail);$currentSpeechBubble=$('<div class="joubel-speech-bubble" aria-live="assertive">').append([$tail,$innerBubble]).appendTo($h5pContainer);setTimeout(function(){$currentSpeechBubble.addClass('show');},0);position($currentSpeechBubble,$currentContainer,maxWidth,$tail,$innerTail);H5P.$body.on('mousedown.speechBubble',handleOutsideClick);H5P.$window.on('resize','',handleResize);$container.parents('.h5p-dialog').on('mousedown.speechBubble',handleOutsideClick);if(iDevice){H5P.$body.css('cursor','pointer');}
+return this;}
+H5P.externalDispatcher.on('domHidden',function(event){if($currentSpeechBubble!==undefined&&event.data.$dom.find($currentContainer).length!==0){remove();}});function getH5PContainer($container){var $h5pContainer=$container.closest('.h5p-frame');if(!$h5pContainer.length){$h5pContainer=$container.closest('.h5p-container');}
+return $h5pContainer;}
+function handleResize(){position($currentSpeechBubble,$currentContainer,currentMaxWidth,$tail,$innerTail);}
+function position($currentSpeechBubble,$container,maxWidth,$tail,$innerTail){var $h5pContainer=getH5PContainer($container);var offset=getOffsetBetween($h5pContainer,$container);var direction=(offset.bottom>offset.top?'bottom':'top');var tipWidth=offset.outerWidth*0.9;var bubbleWidth=tipWidth>maxWidth?maxWidth:tipWidth;var bubblePosition=getBubblePosition(bubbleWidth,offset);var tailPosition=getTailPosition(bubbleWidth,bubblePosition,offset,$container.width());var fontSize=16;$currentSpeechBubble.css(bubbleCSS(direction,bubbleWidth,bubblePosition,fontSize));var preparedTailCSS=tailCSS(direction,tailPosition);$tail.css(preparedTailCSS);$innerTail.css(preparedTailCSS);}
+var remove=function(){H5P.$body.off('mousedown.speechBubble');H5P.$window.off('resize','',handleResize);$currentContainer.parents('.h5p-dialog').off('mousedown.speechBubble');if(iDevice){H5P.$body.css('cursor','');}
+if($currentSpeechBubble!==undefined){$currentSpeechBubble.removeClass('show');clearTimeout(removeSpeechBubbleTimeout);removeSpeechBubbleTimeout=setTimeout(function(){$currentSpeechBubble.remove();$currentSpeechBubble=undefined;},500);}};function handleOutsideClick(event){if(event.target===$currentContainer[0]){return;}
+remove();$currentContainer=undefined;}
+function getBubblePosition(bubbleWidth,offset){var bubblePosition={};var tailOffset=9;var widthOffset=bubbleWidth/2;bubblePosition.top=offset.top+offset.innerHeight;bubblePosition.bottom=offset.bottom+offset.innerHeight+tailOffset;if(offset.left<widthOffset){bubblePosition.left=3;}
+else if((offset.left+widthOffset)>offset.outerWidth){bubblePosition.left=offset.outerWidth-bubbleWidth-3;}
+else{bubblePosition.left=offset.left-widthOffset+(offset.innerWidth/2);}
+return bubblePosition;}
+function getTailPosition(bubbleWidth,bubblePosition,offset,iconWidth){var tailPosition={};var leftBoundary=9;var rightBoundary=bubbleWidth-20;tailPosition.left=offset.left-bubblePosition.left+(iconWidth/2)-6;if(tailPosition.left<leftBoundary){tailPosition.left=leftBoundary;}
+if(tailPosition.left>rightBoundary){tailPosition.left=rightBoundary;}
+tailPosition.top=-6;tailPosition.bottom=-6;return tailPosition;}
+function bubbleCSS(direction,width,position,fontSize){if(direction==='top'){return{width:width+'px',bottom:position.bottom+'px',left:position.left+'px',fontSize:fontSize+'px',top:''};}
+else{return{width:width+'px',top:position.top+'px',left:position.left+'px',fontSize:fontSize+'px',bottom:''};}}
+function tailCSS(direction,position){if(direction==='top'){return{bottom:position.bottom+'px',left:position.left+'px',top:''};}
+else{return{top:position.top+'px',left:position.left+'px',bottom:''};}}
+function getOffsetBetween($outer,$inner){var outer=$outer[0].getBoundingClientRect();var inner=$inner[0].getBoundingClientRect();return{top:inner.top-outer.top,right:outer.right-inner.right,bottom:outer.bottom-inner.bottom,left:inner.left-outer.left,innerWidth:inner.width,innerHeight:inner.height,outerWidth:outer.width,outerHeight:outer.height};}
+return JoubelSpeechBubble;})(H5P.jQuery);
