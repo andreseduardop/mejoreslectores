@@ -35,6 +35,7 @@ imaging:
   quality: 85
   
 params:
+  redirigirHome: 'curso/nombres-propios/'
   description: Taller Experimental de Comprensión Lectora.
   homeMetaContent: Taller Experimental de Comprensión Lectora.
   footer: ""
