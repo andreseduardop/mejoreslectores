@@ -1,5 +1,5 @@
 ---
-title: "Actividad Nombres propios"
+title: "Cargando..."
 date: 2022-07-11
 # weight: 10
 tags: 
@@ -13,5 +13,5 @@ description: "Los glosarios: vocabulario, organización alfabética, definicione
 
 
 {{< profe >}}
-En un momento verás aquí el contenido de la clase de hoy.
+Por favor, espera unos segundos para ver el contenido...
 {{< /profe >}}

@@ -1,5 +1,5 @@
 ---
-title: "Actividad Nombres propios"
+title: "Actividad 01: Nombres propios"
 date: 2022-07-11
 # weight: 10
 tags: 
@@ -24,6 +24,10 @@ Podrás hacer doble clic en cada palabra que no conozcas para que aparezca su si
 ## Una vida para la libertad
 
 Al atardecer, un barco velero se aproxima al puerto de Cádiz en la Península Ibérica. Se llama el San Gabriel y en él traen desde Cuba a varios presos políticos provenientes del Nuevo Reino de Granada. Llevan setenta días navegando y más de un año detenidos, pero uno de ellos tiene un plan para fugarse antes de la madrugada. 
+
+{{< profe >}}
+Recuerda que puedes hacer doble clic en cada palabra que no conozcas para que aparezca su significado.
+{{< /profe >}}
 
 Un par de meses atrás, en enero de 1796, cruzaron el mar Caribe en la ruta de Cartagena de Indias a la ciudad de La Habana. Iban a bordo algunos pasajeros, la tripulación y el grupo de prisioneros. El virrey de esos dominios, el español José de Ezpeleta, había ordenado que partieran en una fragata de guerra, pero cuando la caravana de caballeros y soldados de custodia llegó a Cartagena sólo pudieron embarcarlos en el Floridablanca, un bergantín de correos que partía para la isla. 
 

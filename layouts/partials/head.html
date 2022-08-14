@@ -2,9 +2,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Redirigir el home a una página específica. -->
   {{ if .IsHome }}
     <meta http-equiv="Refresh"content="0; URL={{ with .Site.Params.RedirigirHome }}{{ . }}{{ end  }}">
   {{ end }}
+  <!-- end Redirigir home -->
+
+
   {{ hugo.Generator }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="robots" content="max-image-preview:large">
