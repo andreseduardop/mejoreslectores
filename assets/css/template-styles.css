@@ -1,8 +1,8 @@
 :root {
     --color-bg: #fefbeb;
-    --color-bg2: #FCF5CA;
+    --color-bg2: #fcf5ca;
     --color-bg-spec: #f9c80e;
-    --color-bg-violet: #9c3dcc;
+    --color-bg-violet: #E5B8FF;
     --color-strong: #da4a07;
     --color-txt: #202;
     --intro-width: 15rem;
@@ -208,7 +208,7 @@ main ol {
     margin-left: 1.5rem;
 }
 main li+li {
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
 }
 main ul ul,
 main ol ol,
@@ -323,7 +323,7 @@ th:empty {
     margin-left: var(--intro-width);
 }
 .main-and-footer>div {
-    max-width: 35rem;
+    max-width: 33rem;
     margin: 0 auto;
     padding: 1rem;
 }
@@ -459,13 +459,24 @@ footer {
 
 /* Notes and warnings */
 .note {
+    background-repeat: repeat-y;
+    background-size: 0.5rem auto;
     border-left: 0.5rem solid;
-    font-size: 0.875rem;
+    border-left: 0;
+    cursor: default;
+    font-family: Arial;
+    font-size: .8rem;
+    padding: .5rem 1rem;
+    background-image: url({{ "css/images/stripe.svg" | absURL }});
 }
 .note .sign {
     height: 2rem;
     width: 2rem;
     /*color: var(--color-strong);*/
+}
+.note p {
+    margin-top: 0rem;
+    padding-left: 0rem;
 }
 .note>div {
     margin-left: 0.75rem;
@@ -477,28 +488,29 @@ footer {
     margin-top: 0;
 }
 .note.warning {
-    padding: .75rem 0;
-    border-left: 0;
     background-color: var(--color-bg-spec);
-    background-image: url({{ "css/images/stripe.svg" | absURL }});
-    background-size: 0.5rem auto;
-    background-repeat: repeat-y;
-}
-.note.warning>div {
-    margin-left: 1.25rem;
 }
 .note.profe {
-    cursor: default;
-    padding: .5rem 1rem;
-    border-left: 0;
+    background-color: var(--color-bg-violet);
+}
+.note.profe p {
+    background-color: inherit;
+    text-indent: 0;
+}
+.note.truco {
     background-color: var(--color-bg-spec);
-    background-size: 0.5rem auto;
-    background-repeat: repeat-y;
-    background-image: url({{ "css/images/stripe.svg" | absURL }});
+}
+.note.truco p {
+    background-color: inherit;
+    text-indent: 0;
+}
+.note ul {
+    margin: 0rem 1rem;
+    padding: .5rem 0rem;
 }
 .character {
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 4rem;
+    width: 4rem;
 }
 
 /* Tick lists */
@@ -951,6 +963,7 @@ h1 {
 }
 main p {
     padding: .25rem 1rem;
+    text-indent: 68px;
 }
 main p:hover {
     background-color: var(--color-bg2);

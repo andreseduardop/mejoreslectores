@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Actividad 1: Los glosarios on MEJORES LECTORES</title>
-    <link>https://mejoreslectores.com/</link>
-    <description>Recent content in Actividad 1: Los glosarios on MEJORES LECTORES</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-co</language>
-    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mejoreslectores.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Actividad 1: Los glosarios</title>
-      <link>https://mejoreslectores.com/curso/01-los-glosarios/</link>
-      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mejoreslectores.com/curso/01-los-glosarios/</guid>
-      <description>¿Qué vamos a lograr?¿Cómo lo vamos a lograr?Para iniciar, vamos a ver el siguiente video. ¿Qué he aprendido?</description>
-    </item>
-    
-  </channel>
-</rss>
