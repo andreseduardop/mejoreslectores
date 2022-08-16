@@ -5,7 +5,9 @@
 
   <!-- Redirigir el home a una página específica. -->
   {{ if .IsHome }}
-    <meta http-equiv="Refresh"content="0; URL={{ with .Site.Params.RedirigirHome }}{{ . }}{{ end  }}">
+    {{ if .Site.Params.RedirigirHome }}
+      <meta http-equiv="Refresh"content="0; URL={{ with .Site.Params.RedirigirUrl }}{{ . }}{{ end  }}">
+    {{ end }}
   {{ end }}
   <!-- end Redirigir home -->
 
@@ -40,6 +42,7 @@
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
   {{ end }}
+  {{ $title = $title | plainify | safeHTML }}
   <title>{{ $title }}</title>
 
   <!-- Define favicon e íconos -->

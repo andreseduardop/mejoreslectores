@@ -12,16 +12,26 @@ description: "Vamos a conocer el objetivo de este taller y su metodología. Apre
 ---
 
 
-{{< profe titulo="¿Qué vamos a lograr?">}}
+{{< profe >}}
 
-Hola. Hoy vamos a conocer el objetivo de este taller y su metodología. 
+Hola.  
+Hola vamos a realizar un viaje juntos Te prometo que será divertido en este viaje conoceremos personajes que tal vez te resulten familiares Peter pan Wendy y sus amigos.
+Hoy vamos a conocer el objetivo de este taller y su metodología. Aprenderemos cómo se desarrollará cada actividad, cómo utilizar cada guía y cómo se realizará la evaluación.
+
+{{< /profe >}}
+
+## ¿Cómo lo vamos a lograr?
+
+{{< profe >}}
+
+Hola.  
+Hoy vamos a conocer el objetivo de este taller y su metodología. Aprenderemos cómo se desarrollará cada actividad, cómo utilizar cada guía y cómo se realizará la evaluación.
 
 {{< /profe >}}
 
 
 
 {{< profe >}}
-Hoy vamos a conocer el objetivo de este taller y su metodología. 
 
 - Vamos a leer atentamente el siguiente texto.
 - Identificaremos cada palabra que extraña o desconocida.

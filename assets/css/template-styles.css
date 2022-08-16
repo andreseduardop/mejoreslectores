@@ -155,7 +155,7 @@ h6 {
     font-weight: 800;
     line-height: 1.25;
     margin-top: 2rem;
-    color: var(--color-strong);
+    color: var(--color-txt);
 }
 h1 {
     font-size: 1.75rem;
@@ -450,7 +450,7 @@ footer {
     font-family: Arial;
     font-size: .8rem;
     padding: .5rem 1rem;
-    background-image: url({{ "css/images/stripe.svg" | absURL }});
+    background-image: url("/css/images/stripe.svg");
 }
 .note .sign {
     height: 2rem;
@@ -937,13 +937,10 @@ p img {
 }
 /* Cursor help */
 main p {
-    cursor: url(/images/cursor.png) 0 0, url(/images/cursor.svg) 0 0, help;
+    /*cursor: url("/css/images/cursor.png") 0 2, url("/css/images/cursor.svg") 0 1, help;*/
 } 
 #glosario-lista {
     cursor: help;
-}
-h1 {
-    cursor: default;
 }
 main p {
     padding: .25rem 1rem;

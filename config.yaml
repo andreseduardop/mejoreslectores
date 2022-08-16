@@ -1,5 +1,5 @@
 baseURL: 'https://mejoreslectores.com'
-title: MEJORES LECTORES
+title: MEJORES&nbsp;LECTORES
 theme: cupper-hugo-theme
 googleAnalytics: 'G-DGH72DH8MG'
 languageCode: es-co
@@ -35,7 +35,8 @@ imaging:
   quality: 85
   
 params:
-  redirigirHome: 'curso/01-introduccion/'
+  redirigirUrl: 'curso/00-preparacion/'
+  redirigirHome: false
   description: Taller Experimental de Comprensión Lectora.
   homeMetaContent: Taller Experimental de Comprensión Lectora.
   footer: ""
@@ -43,7 +44,7 @@ params:
   dateFormat: 'Jan 2, 2006'
   author: Andrés Eduardo Peña
   images:
-    - images/site-feature-image.jpg
+    - images/site-feature-image.png
   katex: false
   darkThemeAsDefault: false
   headingLinks: false
