@@ -1,9 +1,17 @@
+<!-- Obtener variables del shortcode -->
+{{ $titulo := .Get "titulo" }}
 <aside aria-label="profe" class="note profe">
   <div>
     <svg class="character" aria-hidden="true" viewBox="0 0 40 40" focusable="false">
       <use xlink:href="#profe"></use>
     </svg> 
-    <br>
-    {{ .Inner | markdownify }}
+    {{ with $titulo }}
+      <p>
+        <span class="title">{{ . | markdownify }}</span>
+      </p>
+    {{ end }}
+    <p>
+      {{ .Inner | markdownify }}
+    </p>
   </div>
 </aside>

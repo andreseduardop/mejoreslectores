@@ -1,5 +1,5 @@
 ---
-title: "Actividad 01: Introducción"
+title: "Actividad 01:&ensp;Introducción"
 date: 2022-08-15
 weight: 10
 tags: 
@@ -12,21 +12,30 @@ description: "Vamos a conocer el objetivo de este taller y su metodología. Apre
 ---
 
 
+{{< profe titulo="¿Qué vamos a lograr?">}}
+
+Hola. Hoy vamos a conocer el objetivo de este taller y su metodología. 
+
+{{< /profe >}}
+
+
+
 {{< profe >}}
-**INSTRUCCIONES**
+Hoy vamos a conocer el objetivo de este taller y su metodología. 
+
 - Vamos a leer atentamente el siguiente texto.
-- Identeificaremos cada palabra que extraña o desconocida.
+- Identificaremos cada palabra que extraña o desconocida.
 - Haciendo doble clic sobre cada palabra desconocida, aparecerá su significado.
 {{< /profe >}}
 
+## Subtítulo 
 
 Al atardecer, un barco velero se aproxima al puerto de Cádiz en la Península Ibérica. Se llama el San Gabriel y en él traen desde Cuba a varios presos políticos provenientes del Nuevo Reino de Granada. Llevan setenta días navegando y más de un año detenidos, pero uno de ellos tiene un plan para fugarse antes de la madrugada. 
 
 
 
-{{< truco >}}
-**TRUCO**  
-Recordemos que es posible hacer doble clic en cada palabra desconocida para que aparezca el significado.
+{{< truco titulo="TRUCO">}}
+Recordemos que es posible hacer doble clic en cada palabra desconocida para descubrir significado.
 {{< /truco >}}
 
 
