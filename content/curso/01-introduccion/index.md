@@ -57,7 +57,7 @@ El diccionario es una herramienta muy importante, veamos un video un poco más a
 {{< youtube "b_wwzMCiiGE" >}}
 
 {{< profe >}}
-Con este conocimiento, ahora vamos a leer el siguiente texto y buscaremos en el diccionario las palabras raras o desconocidas.
+Con este conocimiento, ahora vamos a leer el siguiente texto y buscaremos en el diccionario todas las palabras raras o desconocidas que vayamos encontrando.
 {{< /profe >}}
 
 {{< truco >}}
@@ -77,7 +77,7 @@ Habían salido de Bogotá, tres meses antes, diez presos con doce granaderos arm
 
 {{< profe-actividad >}}
 ¿Estás buscando los significados de todas las palabras raras y desconocidas que encuentras en el texto?  
-Porque es muy fácil... sólo hacer **doble clic** en cada palabra que no conoces.  
+Porque es muy fácil. Como te contó Aike, sólo tienes que hacer **doble clic** en cada palabra que no conoces, para ver su definición.  
 <br>
 Bueno, examinemos qué tal te va en el siguiente juego.  
 <br>
@@ -104,7 +104,7 @@ La vida de Nariño es la vida de una persona que abandonó comodidades y privile
 
 {{< profe >}}
 Para afianzar lo que hemos aprendido, vamos a elaborar un **Glosario**.  
-En el cuaderno, escribe las palabras desconocidas que encontraste, junto con su definición. Como si fuese un muy pequeño diccionario, apúntalas en orden alfabético.
+En el cuaderno, escribe las palabras desconocidas que encontraste, junto con su definición. Como si fuese un muy pequeño diccionario, apúntalas en **orden alfabético**.
 {{< /profe >}}
 
 {{< truco >}}
@@ -112,6 +112,6 @@ La profe Zelma piensa que hacer un glosario es divertido. Pero seamos sinceros, 
 <br>
 Te voy a enseñar un truco para que podamos hacerlo de muy fácil y rápido. En la franja amarilla que aparece al lado izquierdo de la pantalla verás una lista de todas las palabras que has consultado. Puedes usar esta lista para hacer tu glosario.
 
-Y otro truco: allí también puedes hacer doble clic para recordar su significado. 😉
+Y, otro truco: allí también puedes hacer doble clic para recordar su significado. 😉
 
 {{< /truco >}}
