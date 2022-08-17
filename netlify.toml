@@ -20,7 +20,7 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Content-Security-Policy = '''
-    default-src https: 'self' 'unsafe-inline';
+    default-src https: 'self' 'unsafe-inline' 'unsafe-eval';
 		'''
 		X-DNS-Prefetch-Control = "on"
 
