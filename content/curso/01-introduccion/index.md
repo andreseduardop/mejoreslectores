@@ -80,10 +80,9 @@ Habían salido de Bogotá, tres meses antes, diez presos con doce granaderos arm
 Porque es muy fácil. Como te contó Aike, sólo tienes que hacer **doble clic** en cada palabra que no conoces, para ver su definición.  
 <br>
 Bueno, examinemos qué tal te va en el siguiente juego.  
-<br>
+{{< /profe-actividad >}}
 {{< actividad
   src="/curso/01-introduccion/actividades/102-definiciones-embarcaciones.html" >}}
-{{< /profe-actividad >}}
 
 ---
 
