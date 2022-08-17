@@ -459,9 +459,10 @@ footer {
 }
 .note p {
     margin-top: 0rem;
-    padding-left: 0rem;
+    padding: 0rem;
 }
 .note>div {
+    margin-top: .5rem;
     margin-left: 0.75rem;
 }
 .note>div>img:first-child {
@@ -475,6 +476,11 @@ footer {
 }
 .note.profe {
     background-color: var(--color-bg-violet);
+}
+.note.profe.actividad {
+    background-color: white;
+    font-size: .9rem;
+    line-height: 1.5;
 }
 .note.truco {
     background-color: var(--color-bg-spec);
@@ -937,15 +943,21 @@ p img {
 }
 /* Cursor help */
 main p {
-    /*cursor: url("/css/images/cursor.png") 0 2, url("/css/images/cursor.svg") 0 1, help;*/
+    cursor: url("/css/images/cursor.png") 0 2, url("/css/images/cursor.svg") 0 1, help;
 } 
 #glosario-lista {
     cursor: help;
 }
+
+/* Resaltado de párrafos en los textos de lectura */
 main p {
     padding: .25rem 1rem;
     text-indent: 68px;
 }
 main p:hover {
     background-color: var(--color-bg2);
+}
+/* Formato para iframes con actividades */
+.iframe-actividad {
+    margin-top: 0;
 }

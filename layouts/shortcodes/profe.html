@@ -1,17 +1,26 @@
 <!-- Obtener variables del shortcode -->
 {{ $titulo := .Get "titulo" }}
+{{ $icono := .Get "icono" }}
 <aside aria-label="profe" class="note profe">
   <div>
-    <svg class="character" aria-hidden="true" viewBox="0 0 40 40" focusable="false">
-      <use xlink:href="#profe"></use>
-    </svg> 
+    <!-- Agrega ícono -->
+    {{ if eq $icono false }}
+    {{ else }}
+      <svg class="character" aria-hidden="true" viewBox="0 0 40 40" focusable="false">
+        <use xlink:href="#profe"></use>
+      </svg> 
+    {{ end }}
+    <!-- Agrega titulo -->
     {{ with $titulo }}
       <p>
         <span class="title">{{ . | markdownify }}</span>
       </p>
     {{ end }}
-    <p>
-      {{ .Inner | markdownify }}
-    </p>
+    <!-- Agrega contenido -->
+    {{ with .Inner }}
+      <p>
+        {{ . | markdownify }}
+      </p>
+    {{ end }}
   </div>
 </aside>

@@ -35,8 +35,8 @@ imaging:
   quality: 85
   
 params:
-  redirigirUrl: 'curso/00-preparacion/'
-  redirigirHome: false
+  redirigirUrl: 'curso/01-introduccion/'
+  redirigirHome: true
   description: Taller Experimental de Comprensión Lectora.
   homeMetaContent: Taller Experimental de Comprensión Lectora.
   footer: ""

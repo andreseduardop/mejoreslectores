@@ -6,7 +6,7 @@ tags:
 - cursos
 - comprensión lectora
 - vocabulario
-draft: false
+draft: true
 toc: false
 description: "Los glosarios: vocabulario, organización alfabética, definiciones y sinónimos."
 ---
