@@ -1,5 +1,5 @@
 ---
-title: "Actividad 01:&ensp;Introducción.<br>Palabras raras y desconocidas"
+title: "Actividad 01:&ensp;Introducción"
 date: 2022-08-15
 weight: 10
 tags: 
@@ -80,9 +80,9 @@ Habían salido de Bogotá, tres meses antes, diez presos con doce granaderos arm
 Porque es muy fácil. Como te contó Aike, sólo tienes que hacer **doble clic** en cada palabra que no conoces, para ver su definición.  
 <br>
 Bueno, examinemos qué tal te va en el siguiente juego.  
-{{< /profe-actividad >}}
 {{< actividad
   src="/curso/01-introduccion/actividades/102-definiciones-embarcaciones.html" >}}
+{{< /profe-actividad >}}
 
 ---
 

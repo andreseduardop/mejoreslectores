@@ -6,7 +6,7 @@ tags:
 - cursos
 - comprensión lectora
 - vocabulario
-draft: false
+draft: true
 toc: false
 description: "Vamos a prepararnos para iniciar nuestro taller."
 ---

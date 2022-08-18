@@ -1,4 +1,6 @@
 <footer>
+  <div>
+  </div>
   <!-- Lineas de texto  -->
   <div class="footer1">
     {{- with .Site.Params.footer -}}
@@ -6,8 +8,10 @@
     {{- end -}}
   </div>
   <div class="footer3">
-  {{- with .Site.Params.footer2 -}}
-    {{- . | markdownify -}}
-  {{- end -}}
+    {{- with .Site.Params.footer2 -}}
+      {{- . | markdownify -}}
+    {{- end -}}
+    <br>
+    <a href="{{ "/curso/" | relURL }}">Índice del curso</a>
   </div>
 </footer>

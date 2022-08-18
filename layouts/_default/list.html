@@ -1,18 +1,9 @@
 {{ define "main" }}
 <main id="main">
-  <h1>{{ .Title }}</h1>
+  <h1>{{- .Title | markdownify -}}</h1>
 
-  <!-- Agrego contenido desde el index.md -->
+  <!-- Agrego contenido desde el _index.md -->
   {{ .Content }}
-  
-  {{ if site.Params.search }}
-  <input
-    id="search"
-    type="text"
-    placeholder="{{ T "search_placeholder" }}"
-    aria-label="{{ T "search_aria_label" }}"
-  />
-  {{ end }}
   <ul class="patterns-list" id="list">
     {{ range .Pages.ByTitle }}
     <li>

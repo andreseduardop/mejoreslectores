@@ -1,7 +1,10 @@
 <!-- Obtener variables del shortcode -->
 {{ $titulo := .Get "titulo" }}
 {{ $icono := .Get "icono" }}
-<aside aria-label="profe" class="note profe">
+<aside 
+  id="nota-profe-{{ .Inner | md5 }}" 
+  class="note profe"
+  aria-label="profe">
   <div>
     <!-- Agrega ícono -->
     {{ if eq $icono false }}
