@@ -12,6 +12,6 @@ Es un país desarrollado que, por sus ingresos, es la quinta economía mundial. 
 [**VOLVER**](../londres)
 
 ![](../img/reino-unido-mapa.png)
-<small>**Fig.1:** Mapa de Europa, en el que se relsata la ubicación de Reino unido.</small>
+<small>**Fig.1:** Mapa de Europa, en el que se resalta la ubicación de Reino unido.</small>
 
 [**VOLVER**](../londres)

@@ -1,5 +1,5 @@
 ---
-title: "Actividad 01:&ensp;Introducción"
+title: "Actividad 01:&ensp;El diccionario"
 date: 2022-08-15
 weight: 10
 tags: 
@@ -37,15 +37,12 @@ Veamos ahora un breve video sobre la forma en que se ordenan alfabéticamente la
 Recuerda colocarte tus audífonos. 🎧  
 {{< /profe >}}
 
-{{< youtube "OskfBGraJZk?controls=0" >}}
+{{< youtube "g9h2V77uDoA" >}}
 
 <br>
 
-{{< profe-actividad >}}
+{{< profe-actividad numero="101" >}}
 Ahora, un pequeño juego para ver qué tan bien entendiste la explicación del video.  
-<br>
-{{< actividad
-  src="/curso/01-introduccion/actividades/101-ordenar-palabras.html" >}}
 {{< /profe-actividad >}}
 
 
@@ -54,7 +51,7 @@ Ahora que dominas la organización alfabética de palabras, avancemos.
 El diccionario es una herramienta muy importante, veamos un video un poco más avanzado sobre éste. 
 {{< /profe >}}
 
-{{< youtube "b_wwzMCiiGE" >}}
+{{< youtube "aPJYl285VQY" >}}
 
 {{< profe >}}
 Con este conocimiento, ahora vamos a leer el siguiente texto y buscaremos en el diccionario todas las palabras raras o desconocidas que vayamos encontrando.
@@ -75,13 +72,11 @@ Un par de meses atrás, en enero de 1796, cruzaron el mar Caribe en la ruta de C
 
 Habían salido de Bogotá, tres meses antes, diez presos con doce granaderos armados, un teniente y un cabo, rumbo a Honda para bajar por el Magdalena hasta la costa. Viajaron a caballo hasta el puerto fluvial y tuvieron que pagar por los animales de carga, como lo hicieron después desde Barranca a Cartagena. Cada uno iba con dinero, equipaje, y con su catre y su almofrej, que era la funda en que se llevaba la cama de camino. Estaban comprometidos bajo palabra, así que no portaban cadenas e incluso podían haber viajado con sus esposas e hijos. 
 
-{{< profe-actividad >}}
+{{< profe-actividad numero="102" >}}
 ¿Estás buscando los significados de todas las palabras raras y desconocidas que encuentras en el texto?  
 Porque es muy fácil. Como te contó Aike, sólo tienes que hacer **doble clic** en cada palabra que no conoces, para ver su definición.  
 <br>
 Bueno, examinemos qué tal te va en el siguiente juego.  
-{{< actividad
-  src="/curso/01-introduccion/actividades/102-definiciones-embarcaciones.html" >}}
 {{< /profe-actividad >}}
 
 ---
@@ -109,8 +104,10 @@ En el cuaderno, escribe las palabras desconocidas que encontraste, junto con su 
 {{< truco >}}
 La profe Zelma piensa que hacer un glosario es divertido. Pero seamos sinceros, ¿a quién no le aburre tener que hacer un glosario?  
 <br>
-Te voy a enseñar un truco para que podamos hacerlo de muy fácil y rápido. En la franja amarilla que aparece al lado izquierdo de la pantalla verás una lista de todas las palabras que has consultado. Puedes usar esta lista para hacer tu glosario.
-
+Te voy a enseñar un truco para que podamos hacerlo de muy fácil y rápido. En la franja amarilla que aparece al lado izquierdo de la pantalla de tu computador* verás una lista de todas las palabras que has consultado. Puedes usar esta lista para hacer tu glosario.  
+<br> 
+\* Si ingresas desde un dispositivo móvil, probablemente la fraja amarilla se presentará en la parte superior.  
+<br>
 Y, otro truco: allí también puedes hacer doble clic para recordar su significado. 😉
 
 {{< /truco >}}

@@ -12,8 +12,6 @@ toc: false
 description: "Conocimientos previos."
 ---
 
-
-
 {{< profe >}}
 Hola. Soy tu profe Zelma, de nuevo. Como sabes, este es un taller de lectura, pero... **¿te has preguntado qué libro leeremos a lo largo de nuestro taller?** ¡Pues hoy lo revelaremos!  
 <br>

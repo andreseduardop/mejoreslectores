@@ -1,7 +1,10 @@
 {{ define "main" }}
   <main id="main">
-    <h1>{{- .Title | markdownify -}}</h1>
-    <hr>
+    <div class="encabezado">
+      <h1>{{- .Title | markdownify -}}</h1>
+      <hr>
+    </div>
+    <br>
     {{ .Content }}
     <!-- Librería para ajustar el tamaño de las actividades h5p -->
     <script src="/lib/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>

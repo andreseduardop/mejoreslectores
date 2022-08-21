@@ -6,29 +6,30 @@
     --color-strong: #da4a07;
     --color-txt: #202;
     --intro-width: 15rem;
-    --font-headers: "Bitter";
+    --font-headers: "Courier Prime";
     --font-text: "Courier Prime";
 }
 
 /* Fonts */
-/* bitter-800 - latin */
+/* barlow-condensed-500 - latin */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Barlow Condensed';
   font-style: normal;
-  font-weight: 800;
+  font-weight: 500;
   src: local(''),
-       url('../fonts/bitter-v28-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/bitter-v28-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../fonts/barlow-condensed-v12-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/barlow-condensed-v12-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-/* bitter-800italic - latin */
+/* barlow-condensed-500italic - latin */
 @font-face {
-  font-family: 'Bitter';
+  font-family: 'Barlow Condensed';
   font-style: italic;
-  font-weight: 800;
+  font-weight: 500;
   src: local(''),
-       url('../fonts/bitter-v28-latin-800italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/bitter-v28-latin-800italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../fonts/barlow-condensed-v12-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/barlow-condensed-v12-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* courier-prime-regular - latin */
 @font-face {
   font-family: 'Courier Prime';
@@ -46,6 +47,24 @@
   src: local(''),
        url('../fonts/courier-prime-v7-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/courier-prime-v7-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* courier-prime-700 - latin */
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/courier-prime-v7-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/courier-prime-v7-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* courier-prime-700italic - latin */
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: italic;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/courier-prime-v7-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/courier-prime-v7-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 *,
@@ -151,29 +170,28 @@ h4,
 h5,
 h6 {
     cursor: default;
-    font-family: var(--font-headers);, FredokaOne, "Arial Black", "Helvetica bold", sans-serif;
-    font-weight: 800;
-    line-height: 1.25;
-    margin-top: 2rem;
+    font-family: var(--font-headers), "Arial Black", "Helvetica bold", sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 2.5rem;
     color: var(--color-txt);
 }
 h1 {
-    font-size: 1.75rem;
-    color: var(--color-txt);
+    font-size: 1.8rem;
 }
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 li h2 {
     margin-top: 0.25rem;
 }
 h3 {
-    font-size: 1.25rem;
+    font-size: 1.4rem;
 }
 h4,
 h5,
 h6 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     text-transform: uppercase;
 }
 h1>a,
@@ -240,7 +258,7 @@ button {
 /* Forms */
 label {
     display: inline-block;
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 
 /* Tables */
@@ -273,7 +291,7 @@ th:empty {
 .wrapper {
     position: relative;
     margin-top: 0;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 .intro-and-nav {
     /*font-size: 1rem;*/
@@ -302,13 +320,25 @@ th:empty {
     max-width: 12rem;
     height: auto;
 }
+.glosario {
+    overflow-y: auto;
+    margin-top: .75rem;
+}
+/* oculta el título del glosario */
+#glosario-titulo {
+    visibility: hidden;
+}
+/* muetra el título del glosario cuando hay términos (li)  */
+#glosario-titulo:has(+div li) {
+    visibility: visible;
+}
 .main-and-footer {
     margin-left: var(--intro-width);
 }
 .main-and-footer>div {
     max-width: 33rem;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 2rem 1rem 1rem;
 }
 main {
     display: block;
@@ -482,6 +512,9 @@ footer {
     font-size: .9rem;
     line-height: 1.5;
 }
+.note.profe.actividad iframe {
+    margin-top: 0;
+}
 .note.truco {
     background-color: var(--color-bg-spec);
 }
@@ -580,20 +613,6 @@ li>svg {
 }
 
 /* Media queries */
-
-/* auto Dakr Theme */
-@media (prefers-color-scheme: dark) {
-    html {
-        filter: invert(100%);
-    }
-    * {
-        background-color: inherit;
-    }
-    img:not([src*=".svg"]),
-    .badges-footer a {
-        filter: invert(100%);
-    }
-}
 
 @media screen and (max-width: 45em) {
     html {
@@ -744,29 +763,22 @@ a.logo {
 
 /* Header - Título */
 .encabezado {
-    font-family: FredokaOne, "Arial Black", "Helvetica bold", sans-serif;
-    font-weight: 400;
     line-height: 1.25;
-    margin-top: 2rem;
-    font-size: 1.5rem;
+    margin-top: 0px;
+    padding: 0.5rem 0rem;
+    position: sticky;
     text-align: center;
+    top: 0px;
+    z-index: 1;
 }
-
-/* Header > Idiomas disponibles */
-.translations-list {
-    flex: 0 0 auto;
-    font-size: 0.875rem;
-    text-transform: uppercase;
-    text-align: center;
-    line-height: 1.75;
-    margin-top: 0.5rem;
-    margin-bottom: 0.1rem;
+.encabezado > h1, 
+.encabezado > hr {
+    font-family: 'Barlow Condensed', "Arial Black", "Helvetica bold", sans-serif;;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 0.75rem;
+    line-height: 1;
 }
-a.available-language-item {
-    color: inherit;
-    border-bottom: 1px solid;
-}
-/* end Idiomas disponibles */
 
 /* Nav > Menú */
 
@@ -794,28 +806,7 @@ a.menu-item {
 }
 /* end sección de Artículos Relacionados */
 
-/* aplicable al item de traduccione disponibles */
-
-/* para el layout single.html */
-
-.available-languages {
-    margin-top: 0;
-    font-size: 0.85rem;
-}
-.active-language-tag {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    border-bottom: 0px;
-}
-.available-language-tag {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    border-bottom: 1px solid;
-}
-/* end item de traduccione disponibles */
-
 /* Botón volver arriba ⇧ */
-
 #btnTop {
     display: none; 
     position: fixed;
@@ -844,24 +835,6 @@ a.menu-item {
 /* end Botón */
 
 /* footer */
-
-.badges-footer {
-    /* define after: */
-}
-.badges-footer a {
-    line-height: 2.5;
-    margin-right: 1rem;
-    padding: 0.25rem 0.5rem;
-    color: var(--color-txt);
-    font-weight: normal;
-    white-space: nowrap;
-}
-.badges-gray {
-    background-color: #ccc;
-}
-.badges-green {
-    background-color: #9dd29f;
-}
 .footer1 {
     /*margin-top: 1rem;*/
 }
@@ -905,48 +878,12 @@ p img {
     margin: 0.75rem 0;
 }
 
-/* Shortcode imagenes (imagne con link) */
-.imagen-enlace .img-link {
-    border: none;
-}
-.imagen-enlace figcaption::before {
-    content: '';
-}
-
-/* Shortcode figure (infografías) */
-.infografia img {
-    transition: all .3s ease; 
-    /*height: 50vh; // Deforma la imagen, por forzar la altura */
-}
-.infografia img:hover {
-    box-shadow: 0 5px 15px rgba(0,0,0,.3);
-    cursor: zoom-in;
-    opacity: .9;    
-}
-.infografia .img-link {
-    border: none;
-    cursor: zoom-in;
-}
-
-
-/* Íconos con enlaces a redes sociales */
-.social-icons {
-    text-align: left;
-}
-.social-icons a:hover {
-    border: 0;
-}
-.social-icons a svg
-{
-    height: 1.5rem;
-    margin-right: 0px;
-    width: 1.5rem;
-}
+/* FORMATO PÁRRAFOS */
 /* Cursor help */
 main p {
     cursor: url("/css/images/cursor.png") 0 2, url("/css/images/cursor.svg") 0 1, help;
 } 
-#glosario-lista {
+.glosario ul li {
     cursor: help;
 }
 
@@ -958,7 +895,11 @@ main p {
 main p:hover {
     background-color: var(--color-bg2);
 }
-/* Formato para iframes con actividades */
-.iframe-actividad {
-    margin-top: 0;
+/* evitar la indentación en las imágenes  */
+p:has(img), 
+p:has(picture),
+p:has(figure) {
+    text-indent: 0px;
+    text-align: center;
 }
+/* end FORMATO PÁRRAFOS */

@@ -1,6 +1,10 @@
 <!-- Obtener variables del shortcode -->
+{{ $numero := .Get "numero" }}
 {{ $titulo := .Get "titulo" }}
 {{ $icono := .Get "icono" }}
+<!-- obtener recurso -->
+{{ $actividad := .Page.Resources.GetMatch (printf "*/%s*html" $numero) }}
+
 <aside 
   id="nota-profe-actividad{{ .Inner | md5 }}" 
   class="note profe actividad"
@@ -24,6 +28,18 @@
       <p>
         {{ . | markdownify }}
       </p>
+      <br>
+    {{ end }}
+    {{ with $actividad }}
+      <iframe class="iframe-actividad" 
+        src="{{ .RelPermalink }}" 
+        frameborder="0" 
+        allowfullscreen="allowfullscreen" 
+        allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" 
+        title="Actividad-{{ .RelPermalink | md5 }}">
+      </iframe>
+      <!-- Cada actividad requiere una librería js para ajustar 
+      el tamaño. Ésta se incluye en el layout single.html -->      
     {{ end }}
   </div>
 </aside>
