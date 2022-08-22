@@ -25,6 +25,6 @@ Luego de leer toda la información que puedas encontrar, **elabora en tu cuadern
 
 
 {{< truco >}}
-La clave aquí es que, luego de leer el texto, ingreses a los enlaces que se presentan [**resaltados en color**](#). Y allí continúes leyendo de la misma forma e ingresando a todos los enlaces que encuentres.
+La clave aquí es que, luego de leer el texto de esta página, ingreses a los enlaces que se presentan [**resaltados en color**](#). Y allí continúes leyendo de la misma forma e ingresando a todos los enlaces que encuentres.
 {{< /truco >}}
 

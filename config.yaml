@@ -35,7 +35,7 @@ imaging:
   quality: 85
   
 params:
-  redirigirUrl: 'curso/02-conocimientos-previos/'
+  redirigirUrl: 'curso/03-sustantivos-propios/'
   redirigirHome: true
   description: Taller Experimental de Comprensión Lectora.
   homeMetaContent: Taller Experimental de Comprensión Lectora.
