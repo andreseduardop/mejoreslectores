@@ -33,16 +33,17 @@ Pero, no le cuentes a la profe Zelma.
 
 ## 1. Aparece Peter (continuación)
 
-De todas las islas maravillosas, la de Nunca Jamás es la más <mark>acogedora</mark> y la más <mark>comprimida</mark>: no se trata de un lugar grande y desparramado, con incómodas distancias entre una aventura y la siguiente, sino que todo está agradablemente amontonado. Cuando se juega en ella durante el día con las sillas y el mantel, no da ningún miedo, pero en los dos minutos antes de quedarse uno dormido se hace casi realidad. Por eso se ponen luces en las mesitas de noche.
+De todas las islas maravillosas, la de Nunca Jamás es la más <mark>acogedora</mark> y la más <mark>comprimida</mark>: no se trata de un lugar grande y <mark>desparramado</mark>, con incómodas distancias entre una aventura y la siguiente, sino que todo está agradablemente <mark>damontonado</mark>. Cuando se juega en ella durante el día con las sillas y el mantel, no da ningún miedo, pero en los dos minutos antes de quedarse uno dormido se hace casi realidad. Por eso se ponen luces en las mesitas de noche.
 
 {{< truco >}}
-Cuando leí esta novela por primera vez, resalté todas las palabras que me resultaban desconocidas. Para ver mi selección sólo tienes que pasar el cursor del mouse sobre cada párrafo.  
+Cuando leí esta novela por primera vez, resalté todas las palabras que no entendí. Para ver mi selección solo tienes que pasar el cursor del mouse sobre cada párrafo.  
 
 Puedes usar mi selección para elaborar la tuya. Y recuerda apuntarlas en tu glosario, junto con la definición.
 {{< /truco >}}
 
-A veces, en el transcurso de sus viajes por las mentes de sus hijos, la señora Darling encontraba cosas que no conseguía entender y de éstas la más desconcertante era la palabra Peter. No conocía a ningún Peter y, sin embargo, en las mentes de John y Michael aparecía aquí y allá, mientras que la de Wendy empezaba a estar invadida por todas partes de él. El nombre destacaba en letras mayores que las de cualquier otra palabra y mientras la señora Darling lo contemplaba le daba la impresión de que tenía un aire curiosamente descarado.
--Sí, es bastante descarado -admitió Wendy a regañadientes. Su madre le había estado preguntando.
+A veces, en el transcurso de sus viajes por las mentes de sus hijos, la señora Darling encontraba cosas que no conseguía entender y de éstas la más <mark>ddesconcertante</mark> era la palabra Peter. No conocía a ningún Peter y, sin embargo, en las mentes de John y Michael aparecía aquí y allá, mientras que la de Wendy empezaba a estar invadida por todas partes de él. El nombre destacaba en letras mayores que las de cualquier otra palabra y mientras la señora Darling lo contemplaba le daba la impresión de que tenía un aire curiosamente descarado.
+
+-Sí, es bastante descarado -admitió Wendy a <mark>regañadientes</mark>, cuando su madre le había estado preguntando por él.
 
 -Pero, ¿quién es, mi vida?
 
@@ -62,15 +63,13 @@ La señora Darling pidió consejo al señor Darling, pero éste sonrió sin darl
 
 Pero no se pasaba y no tardó el molesto niño en darle un buen susto a la señora Darling.
 
-Los niños corren las aventuras más raras sin inmutarse. Por ejemplo, puede que se acuerden de comentar, una semana después de que haya ocurrido la cosa, que cuando estuvieron en el bosque se encontraron con su difunto padre y jugaron con él. De esta forma tan despreocupada fue como una mañana Wendy reveló un hecho inquietante. Aparecieron unas cuantas hojas de árbol en el suelo del cuarto de los niños, hojas que ciertamente no habían estado allí cuando los niños se fueron a la cama y la señora Darling se estaba preguntando de dónde habrían salido cuando Wendy dijo con una sonrisa indulgente:
+Los niños corren las aventuras más raras sin <mark>inmutarse</mark>. Por ejemplo, puede que se acuerden de comentar, una semana después de que haya ocurrido la cosa, que cuando estuvieron en el bosque se encontraron con su difunto padre y jugaron con él. De esta forma tan despreocupada fue como una mañana Wendy reveló un hecho <mark>inquietante</mark>. Aparecieron unas cuantas hojas de árbol en el suelo del cuarto de los niños, hojas que ciertamente no habían estado allí cuando los niños se fueron a la cama y la señora Darling se estaba preguntando de dónde habrían salido cuando Wendy dijo con una sonrisa <mark>indulgente</mark>:
 
 -¡Seguro que ha sido ese Peter otra vez! 
 
 -¿Qué quieres decir, Wendy?
 
--Está muy mal que no barra -dijo Wendy, suspirando. Era una niña muy pulcra.
-
-Explicó con mucha claridad que le parecía que a veces Peter se metía en el cuarto de los niños por la noche y se sentaba a los pies de su cama y tocaba la flauta para ella. Por desgracia nunca se despertaba, así que no sabía cómo lo sabía, simplemente lo sabía.
+-Está muy mal que no barra -dijo Wendy, suspirando. Ella era una niña muy <mark>pulcra</mark> y explicó con mucha claridad que le parecía que a veces Peter se metía en el cuarto de los niños por la noche y se sentaba a los pies de su cama y tocaba la flauta para ella. Por desgracia ella nunca se despertaba, así que no sabía cómo lo sabía, simplemente lo sabía.
 
 -Pero qué bobadas dices, preciosa. Nadie puede entrar en la casa sin llamar.
 
@@ -90,7 +89,7 @@ La señora Darling no sabía qué pensar, pues a Wendy todo aquello le parecía 
 
 Bueno, seguro que lo había soñado.
 
-Pero, por otra parte, allí estaban las hojas. La señora Darling las examinó atentamente: eran hojas secas, pero estaba segura de que no eran de ningún árbol propio de Inglaterra. Gateó por el suelo, escudriñándolo a la luz de una vela en busca de huellas de algún pie extraño. Metió el atizador por la chime-nea y golpeó las paredes. Dejó caer una cinta métrica desde la ventana hasta la acera y era una caída en picado de treinta pies, sin ni siquiera un canalón al que agarrarse para trepar.
+Pero, por otra parte, allí estaban las hojas. La señora Darling las examinó atentamente: eran hojas secas, pero estaba segura de que no eran de ningún árbol propio de Inglaterra. <mark>Gateó</mark> por el suelo, <mark>escudriñándolo</mark> a la luz de una vela en busca de huellas de algún pie extraño. Metió el <mark>atizador</mark> por la chimenea y golpeó las paredes. Dejó caer una cinta métrica desde la ventana hasta la acera y era una caída en picado de treinta pies, sin ni siquiera un <mark>canalón</mark> al que agarrarse para trepar.
 
 Desde luego, Wendy lo había soñado.
 
@@ -98,11 +97,11 @@ Pero Wendy no lo había soñado, según se demostró a la noche siguiente, la no
 
 La noche de la que hablamos todos los niños se encontraban una vez más acostados. Daba la casualidad de que era la tarde libre de Nana y la señora Darling los bañó y cantó para ellos hasta que uno por uno le fueron soltando la mano y se deslizaron en el país de los sueños.
 
-Tenían todos un aire tan seguro y apacible que se sonrió por sus temores y se sentó tranquilamente a coser junto al fuego.
+Tenían todos un aire tan seguro y <mark>apacible</mark> que se sonrió por sus temores y se sentó tranquilamente a coser junto al <mark>fuego</mark>.
 
-Era una prenda para Michael, que en el día de su cumpleaños iba a empezar a usar camisas. Sin embargo, el fuego daba calor y el cuarto de los niños estaba apenas iluminado por tres lamparillas de noche y al poco rato la labor quedó en el regazo de la señora Darling. Luego ésta empezó a dar cabezadas con gran delicadeza. Estaba dormida. Miradlos a los cuatro, Wendy y Michael allí, John aquí y la señora Darling junto al fuego. Debería haber habido una cuarta lamparilla.
+Era un pantalón para Michael, que en el día de su cumpleaños iba a empezar a usar camisas. Sin embargo, el fuego daba calor y el cuarto de los niños estaba apenas iluminado por tres lamparillas de noche y al poco rato la labor quedó en el <mark>regazo</mark> de la señora Darling. Luego ésta empezó a dar <mark>cabezadas</mark> con gran delicadeza. Estaba dormida. Miradlos a los cuatro, Wendy y Michael allí, John aquí y la señora Darling junto al fuego. Debería haber habido una cuarta lamparilla.
 
-Mientras dormía tuvo un sueño. Soñó que el País de Nunca jamás estaba demasiado cerca y que un extraño chiquillo había conseguido salir de él. No le daba miedo, pues tenía la impresión de haberlo visto ya en las caras de muchas muje-res que no tienen hijos. Quizás también se encuentre en las caras de algunas madres. Pero en su sueño había rasgado el velo que oscurece el País de Nunca Jamás y vio que Wendy, John y Michael atisbaban por el hueco.
+Mientras dormía tuvo un sueño. Soñó que el País de Nunca jamás estaba demasiado cerca y que un extraño chiquillo había conseguido salir de él. No le daba miedo, pues tenía la impresión de haberlo visto ya en las caras de muchas mujeres que no tienen hijos. Quizás también se encuentre en las caras de algunas madres. Pero en su sueño había rasgado el velo que oscurece el País de Nunca Jamás y vio que Wendy, John y Michael <mark>atisbaban</mark> por el hueco.
 
 El sueño de por sí no habría tenido importancia alguna, pero mientras soñaba, la ventana del cuarto de los niños se abrió de golpe y un chiquillo se posó en el suelo. Iba acompañado de una curiosa luz, no más grande que un puño, que revoloteaba por la habitación como un ser vivo y creo que debió de ser esta luz lo que despertó a la señora Darling.
 
