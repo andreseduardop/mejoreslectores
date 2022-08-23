@@ -4,8 +4,7 @@ date: 2022-05-15
 # weight: 01
 tags: 
 - cursos
-- comprensión lectora
-- vocabulario
+- comprension
 draft: true
 toc: false
 description: "Vamos a prepararnos para iniciar nuestro taller."

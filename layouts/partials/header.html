@@ -10,17 +10,26 @@
     </div>
     <!-- end Logo -->
 
-    <!-- Lista de palabras -->
-    <div id="glosario-titulo">
-      <strong>
-        GLOSARIO
-      </strong>
+    <!-- Presentación -->
+    {{ if .IsHome }}
+    <div>
+      Un curso online de entrenamiento en estrategias de comprensión lectora.
     </div>
-    <div class="ticks glosario" id="seccion-glosario">
-        <ul id="glosario-lista"></ul>      
-      <template id="glosario-item">
-        <li>uno</li>
-      </template>
-    </div>
+    {{ end }}
+
+    <!-- Glosario -->
+    {{ if eq .Page.Section "curso" }}
+      <div id="glosario-titulo">
+        <strong>
+          GLOSARIO
+        </strong>
+      </div>
+      <div class="ticks glosario" id="seccion-glosario">
+          <ul id="glosario-lista"></ul>      
+        <template id="glosario-item">
+          <li>uno</li>
+        </template>
+      </div>
+    {{ end }}
   </div>
 </header>

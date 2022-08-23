@@ -374,11 +374,11 @@ th:empty {
 
 /* oculta el título del glosario */
 #glosario-titulo {
-    visibility: hidden;
+    /*visibility: hidden;*/
 }
 /* muetra el título del glosario cuando hay términos (li)  */
 #glosario-titulo:has(+div li) {
-    visibility: visible;
+    /*visibility: visible;*/
 }
 .main-and-footer {
     margin-left: var(--intro-width);

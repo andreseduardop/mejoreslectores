@@ -1,5 +1,5 @@
 ---
-title: "Actividad 03:&ensp;Descubriendo los personajes"
+title: "Actividad 04:&ensp;Practiquemos lo aprendido"
 date: 2022-08-17
 layout: single
 weight: 20

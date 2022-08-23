@@ -5,8 +5,7 @@ layout: single
 weight: 20
 tags: 
 - cursos
-- comprensión lectora
-- vocabulario
+- comprension
 draft: false
 toc: false
 description: "Conocimientos previos."
