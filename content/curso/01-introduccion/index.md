@@ -1,5 +1,5 @@
 ---
-title: "Actividad 01:&ensp;El diccionario"
+title: "Actividad 01:&ensp;Aprendiendo nuevas palabras"
 date: 2022-08-15
 weight: 10
 tags: 

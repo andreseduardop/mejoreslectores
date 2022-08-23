@@ -1,5 +1,5 @@
 ---
-title: "Actividad 03:&ensp;Sustantivos propios"
+title: "Actividad 03:&ensp;Descubriendo los personajes"
 date: 2022-08-17
 layout: single
 weight: 20
@@ -14,19 +14,29 @@ description: "Sustantivos propios."
 
 
 {{< profe >}}
-
+Hola. Soy la profe Zelma, ¿me recuerdas?  
+<br>
+En una lección anterior, hablamos de la importancia de identificar cada una de las palabras que aparecen en un texto. Hoy hablaremos sobre un tipo de palabras llamadas **sustantivos**.  
+<br>
 Los **sustantivos** son la clase de palabras que designan todas las cosas que conocemos, concretas y abstractas, animadas e inanimadas, ya sean objetos, lugares, sujetos, conceptos, entre otras. Según el tipo de referente al que aluden, se pueden clasificar en:
 
 - **Sustantivos propios**. Se refieren a entidades únicas y singulares: personas, animales, países, ciudades, ríos, marcas, obras artísticas, entre otras. No llevan artículo y se escriben con mayúscula inicial, independientemente de su ubicación en la oración. Por ejemplo: Argentina, Cancún, Pablo, Julieta.
 
 - **Sustantivos comunes**. Se refieren a personas, animales, objetos y conceptos en general. No mencionan a un miembro en particular dentro de una clase, sino que identifican las cosas de una manera genérica. Suelen ir acompañados de un artículo y se escriben en minúscula, salvo que sean comienzo de oración. Por ejemplo: perro, humildad, silla, avión.
 
-Así, si decimos “mesa”, nos referimos a un objeto genérico del que existen infinidad de ejemplares de diferente tipo (de madera, de plástico, con ruedas, ratona, redonda, ovalada, blanca, marrón, entre muchos otros). En cambio, si decimos “México”, nos referimos a un país específico de América. Precisamente por esto, los sustantivos propios, a diferencia de los comunes, no suelen tener variación en número.  
+Así, si decimos “mesa”, nos referimos a un objeto genérico del que existen infinidad de ejemplares (y pueden ser de diferente tipo, como: mesa de madera, de plástico, con ruedas, ratona, redonda, ovalada, blanca, marrón, entre muchas otras). Por esto, "mesa" es un sustantivo común.  
+<br>
+En cambio, si decimos “México”, nos referimos a un país específico de América. Precisamente por esto, los sustantivos propios, a diferencia de los comunes, no suelen tener variación en número.  
 <br>
 Los sustantivos propios más frecuentes son los **antropónimos** (nombres de personas) y los **topónimos** (nombres de lugares), pero no son los únicos. También los apodos, las instituciones, las festividades, los nombres de seres mitológicos, los personajes de ficción, los nombres de bandas de música, los planetas, los astros, entre otros, se consideran sustantivos propios y se escriben con mayúscula inicial.  
 <br>
-**Para tener en cuenta:** Cuando un nombre propio está compuesto por más de una palabra, todas deben comenzar con mayúscula, salvo los artículos y las preposiciones. Por ejemplo: _Río de Janeiro, Banco Interamericano de Desarrollo, Museo de Arte Moderno_.
 {{< /profe >}}
+
+{{< truco >}}
+Aquí está de nuevo Aike, para darte una pista...  
+<br>
+Los nombres de los personajes y lugares en un relato se componen de sustantivos propios. Por eso, cuando un nombre está compuesto por más de una palabra, todas deben comenzar con mayúscula, salvo los artículos y las preposiciones. Por ejemplo: _Río de Janeiro, Banco Interamericano de Desarrollo, Museo de Arte Moderno_.
+{{< /truco >}}
 
 
 {{< youtube 0cR02kExPu8 >}}
@@ -37,22 +47,27 @@ Los sustantivos propios más frecuentes son los **antropónimos** (nombres de pe
     titulo= ""
     icono=true
     >}}
-Finalmente, un ejercicio para practicar el reconocimiento de sustantivos propios. A continuación, tu reto es encontrar y resaltar todos los nombres que aparecen en el texto.  
+A continuación, utilizaremos lo que hemos visto para identificar los personajes y lugares en un relato. Tu reto es encontrar y resaltar todos los nombres que aparecen en el texto.  
 <br>
 **Pistas:**
-- Los nombres se componen de uno o más sustantivos propios.
-- Si encuentras un nombre compuesto de dos o más palabras, marca cada una de las palabras que pertenezcan al nombre.
-- Los nombres propios inician siempre con una letra mayúscula.
+- Cada nombre se puede componer de uno o más sustantivos propios.
+- Los sustantivos propios se identifican porque inician con una letra mayúscula.
+- Un nombre puede incluir artículos o preposiciones, que se escriben en minúscula y también hacen parte del nombre.
+- Si encuentras un nombre compuesto de dos o más palabras, marca cada una de estas.
 {{< /profe-actividad >}}
 
 
 ---
 
 {{< profe >}}
-Ahora comenzaremos con la lectura de la novela "Peter Pan y Wendy". Para mejorar nuestra comprensión de la misma, estaremos atentos a las personas y lugares que se van presentando. Para esto, apunta en tu cuaderno los nombres de los personajes y lugares, a medida que los vayas encontrando. Y junto a cada nombre, puedes agregar las descripciones o características que se mencionen en el texto.  
+Al fin, ha llegado el momento. Ahora estamos preparados para iniciar con la lectura de la novela "Peter Pan y Wendy". Para mejorar nuestra comprensión de esta famosa historia, estaremos atentos a los personajes y lugares que se van presentando para apuntarlos en el cuaderno. Y junto a cada nombre, agregaremos las descripciones o características que se mencionen en el texto.  
 
 Recuerda aplicar lo que aprendiste hace un momento, acerca de los **sustantivos propios**, para que puedas identificar más fácilmente los nombres.
 {{< /profe >}}
+
+
+{{< imagen src="img/portada.jpg" 
+    caption="Portada del libro">}}
 
 
 ## 1. Aparece Peter
@@ -70,11 +85,11 @@ Así es como la conquistó el señor Darling: los numerosos caballeros que habí
 El señor Darling se vanagloriaba ante Wendy de que la madre de ésta no sólo lo quería, sino que lo respetaba. Era uno de esos hombres astutos que lo saben todo acerca de las acciones y las cotizaciones. Por supuesto, nadie entiende de eso realmente, pero él daba la impresión de que sí lo entendía y comentaba a menudo que las cotizaciones estaban en alza y las acciones en baja con un aire que habría hecho que cualquier mujer lo respetara.
 
 {{< truco >}}
-Hola. ¿Me recuerdas? Soy Aike.  
-<br>
+Hola.  
+
 Vengo a hacerte notar que ya han aparecido al menos tres personajes. ¿Los identificaste? y, ¿apuntaste sus nombres en el cuaderno? ¿y sus características?  
 
-El narrador ya describió algunos rasgos de la personalidad dulce de la señora Darling. Y describió también, con algo de sarcasmo, al señor Darling.
+El narrador ya describió algunos rasgos de la personalidad dulce de la señora Darling. Y describió también, con algo de ironía, al señor Darling.
 {{< /truco >}}
 
 La señora Darling se casó de blanco y al principio llevaba las cuentas perfectamente, casi con alegría, como si fuera un juego, y no se le escapaba ni una col de Bruselas; pero poco a poco empezaron a desaparecer coliflores enteras y en su lugar aparecían dibujos de bebés sin cara. Los dibujaba cuando debería haber estado haciendo la suma total. Eran los presentimientos de la señora Darling.
@@ -90,7 +105,7 @@ Wendy llegó la primera, luego John y por fin Michael. Durante un par de semanas
 Y así fue pasando el tiempo y cada vez daba un total distinto; pero al final Wendy pudo quedarse, con las paperas reducidas a doce chelines y seis peniques y los dos tipos de sarampión considerados como uno solo.
 Con John se produjo la misma agitación y Michael se libró aún más por los pelos, pero se quedaron con los dos y pronto se veía a los tres caminando en fila rumbo al jardín de Infancia de la señora Fulsom, acompañados de su niñera.
 
-A la señora Darling le encantaba tener todo como es debido y el señor Darling estaba obsesionado por ser exactamente igual que sus vecinos, de forma que, como es lógico, tenían una niñera. Como eran pobres, debido a la cantidad de leche que bebían los niños, su niñera era una <mark>remilgada</mark> perra de Terranova, llamada Nana, que no había pertenecido a nadie en concreto hasta que los Darling la contrataron. Sin embargo, los niños siempre le habían parecido importantes y los Darling la conocieron en los jardines de Kensington, donde pasaba la mayor parte de su tiempo libre asomando el hocico al interior de los cochecitos de los bebés y era muy odiada por las niñeras descuidadas, a las que seguía hasta sus casas y luego se quejaba de ellas ante sus señoras. Demostró ser una joya de niñera. Qué <mark>meticulosa</mark> era a la hora del baño, lo mismo que en cualquier momento de la noche si uno de sus tutelados hacía el menor ruido. Por supuesto, su perrera estaba en el cuarto de los niños. Tenía una habilidad especial para saber cuándo no se debe ser indulgente con una tos y cuándo lo que hace falta es abrigar la garganta con un calcetín. Hasta el fin de sus días tuvo fe en remedios anticuados como el ruibarbo y soltaba gruñidos de desprecio ante toda esa charla tan de moda sobre los gérmenes y cosas así. Era una lección de decoro verla cuando escoltaba a los niños hasta la escuela, caminando con tranquilidad a su lado si se portaban bien y obligándolos a ponerse en fila otra vez si se dispersaban. En la época en que John comenzó a ir al colegio jamás se olvidó de su jersey y normalmente llevaba un paraguas en la boca por si llovía. En la escuela de la señorita Fulsom hay una habitación en el bajo donde esperan las niñeras. Ellas se sentaban en los bancos, mientras que Nana se echaba en el suelo, pero ésa era la única diferencia. Ellas hacían como si no la vieran, pues pensaban que pertenecía a una clase social inferior a la suya y ella despreciaba su charla superficial. Le molestaba que las amistades de la señora Darling visitaran el cuarto de los niños, pero si llegaban, primero le quitaba rápidamente a Michael el delantal y le ponía el de bordados azules, le arreglaba a Wendy la ropa y le alisaba el pelo a John.
+A la señora Darling le encantaba tener todo como es debido y el señor Darling estaba obsesionado por ser exactamente igual que sus vecinos, de forma que, como es lógico, tenían una niñera. Como eran pobres, debido a la cantidad de leche que bebían los niños, su niñera era una remilgada perra de Terranova, llamada Nana, que no había pertenecido a nadie en concreto hasta que los Darling la contrataron. Sin embargo, los niños siempre le habían parecido importantes y los Darling la conocieron en los jardines de Kensington, donde pasaba la mayor parte de su tiempo libre asomando el hocico al interior de los cochecitos de los bebés y era muy odiada por las niñeras descuidadas, a las que seguía hasta sus casas y luego se quejaba de ellas ante sus señoras. Demostró ser una joya de niñera. Qué meticulosa era a la hora del baño, lo mismo que en cualquier momento de la noche si uno de sus tutelados hacía el menor ruido. Por supuesto, su perrera estaba en el cuarto de los niños. Tenía una habilidad especial para saber cuándo no se debe ser indulgente con una tos y cuándo lo que hace falta es abrigar la garganta con un calcetín. Hasta el fin de sus días tuvo fe en remedios anticuados como el ruibarbo y soltaba gruñidos de desprecio ante toda esa charla tan de moda sobre los gérmenes y cosas así. Era una lección de decoro verla cuando escoltaba a los niños hasta la escuela, caminando con tranquilidad a su lado si se portaban bien y obligándolos a ponerse en fila otra vez si se dispersaban. En la época en que John comenzó a ir al colegio jamás se olvidó de su jersey y normalmente llevaba un paraguas en la boca por si llovía. En la escuela de la señorita Fulsom hay una habitación en el bajo donde esperan las niñeras. Ellas se sentaban en los bancos, mientras que Nana se echaba en el suelo, pero ésa era la única diferencia. Ellas hacían como si no la vieran, pues pensaban que pertenecía a una clase social inferior a la suya y ella despreciaba su charla superficial. Le molestaba que las amistades de la señora Darling visitaran el cuarto de los niños, pero si llegaban, primero le quitaba rápidamente a Michael el delantal y le ponía el de bordados azules, le arreglaba a Wendy la ropa y le alisaba el pelo a John.
 
 Ninguna guardería podría haber funcionado con mayor corrección y el señor Darling lo sabía, pero a veces se preguntaba inquieto si los vecinos hacían comentarios.
 
@@ -104,17 +119,27 @@ La señora Darling supo por primera vez de Peter cuando estaba ordenando la imag
 
 No sé si habéis visto alguna vez un mapa de la mente de una persona. A veces los médicos trazan mapas de otras partes vuestras y vuestro propio mapa puede resultar interesantísimo, pero a ver si alguna vez los pilláis trazando el mapa de la mente de un niño, que no sólo es confusa, sino que no para de dar vueltas. Tiene líneas en zigzag como las oscilaciones de la temperatura en un gráfico cuando tenéis fiebre y que probablemente son los caminos de la isla, pues el País de Nunca Jamás es siempre una isla, más o menos, con asombrosas pinceladas de color aquí y allá, con arrecifes de coral y embarcaciones de aspecto veloz en alta mar, con salvajes y guaridas solitarias y gnomos que en su mayoría son sastres, cavernas por las que corre un río, príncipes con seis hermanos mayores, una choza que se descompone rápidamente y una señora muy bajita y anciana con la nariz ganchuda. Si eso fuera todo sería un mapa sencillo, pero también está el primer día de escuela, la religión, los padres, el estanque redondo, la costura, asesinatos, ejecuciones, verbos que rigen dativo, el día de comer pastel de chocolate, ponerse tirantes, dime la tabla del nueve, tres peniques por arrancarse un diente uno mismo y muchas cosas más que son parte de la isla o, si no, constituyen otro mapa que se transparenta a través del primero y todo ello es bastante confuso, sobre todo porque nada se está quieto.
 
-Como es lógico, los Países del Nunca jamás son muy distintos. El de John, por ejemplo, tenía una laguna con flamencos que volaban por encima y que John cazaba con una escopeta, mientras que Michael, que era muy pequeño, tenía un flamenco con lagunas que volaban por encima. John vivía en una barca encallada del revés en la arena, Michael en una tienda india, Wendy en una casa de hojas muy bien cosidas. John no tenía amigos, Michael tenía amigos por la noche, Wendy tenía un lobito abandonado por sus padres; pero en general los Países de Nunca Jamás tienen un parecido de familia y si se colocaran inmóviles en fila uno tras otro se podría decir que las narices son idénticas, etcétera. A estas mágicas tierras arriban siempre los niños con sus barquillas cuando juegan. También nosotros hemos estado allí: aún podemos oír el ruido del oleaje, aunque ya no desembarcaremos jamás.
+Como es lógico, los Países del Nunca Jamás son muy distintos. El de John, por ejemplo, tenía una laguna con flamencos que volaban por encima y que John cazaba con una escopeta, mientras que Michael, que era muy pequeño, tenía un flamenco con lagunas que volaban por encima. John vivía en una barca encallada del revés en la arena, Michael en una tienda india, Wendy en una casa de hojas muy bien cosidas. John no tenía amigos, Michael tenía amigos por la noche, Wendy tenía un lobito abandonado por sus padres; pero en general los Países de Nunca Jamás tienen un parecido de familia y si se colocaran inmóviles en fila uno tras otro se podría decir que las narices son idénticas, etcétera. A estas mágicas tierras arriban siempre los niños con sus barquillas cuando juegan. También nosotros hemos estado allí: aún podemos oír el ruido del oleaje, aunque ya no desembarcaremos jamás.
 
 {{< profe >}}
-Vamos terminando la actividad de hoy.
-Hoy aprendimos a identificar sustantivos propios. Y estos nos ayudan a identificar los personajes y lugares importantes del texto.
-
-Recuerda:
+Hemos terminado nuestra lectura de hoy.
+Conocimos a la familia Darling y aprendimos a identificar sustantivos propios. Y cómo estos nos ayudan a identificar los personajes y lugares importantes de un texto.  
+<br>
+Para finalizar, recuerda:
 - Copiar en tu cuaderno la lista de personajes, con la descripción de sus rasgos y características, según lo cuenta el narrador.
 - Copiar en la sección de glosario de tu cuaderno, las palabras raras o desconocidas que encontraste, junto con su definición.
 {{< /profe >}}
 
 {{< truco >}}
-Si estuviste bien atento a la lectura, es posible que hayas encontrado estas palabras y las tengas en tu glosario: comisura, simultáneamente, cotizaciones, implorante, remilgada, meticulosa, cofia, guaridas.
+Una última pista, para ti.  
+Si estuviste bien atento a la lectura, es posible que hayas encontrado estas palabras y las tengas en tu glosario: comisura, vanagloriarse, simultáneamente, implorante, remilgada, meticulosa, cofia, guaridas.
+{{< /truco >}}
+
+{{< profe >}}
+¡Aike! ¡No les hagas la tarea!
+{{< /profe >}}
+
+{{< truco >}}
+Perdón, profe Zelma. No les hice todo, sólo es una pequeña ayudita.  
+Je, je, je.
 {{< /truco >}}

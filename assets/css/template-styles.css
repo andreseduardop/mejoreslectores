@@ -7,7 +7,7 @@
     --color-txt: #220022;
     --intro-width: 15rem;
     --font-sans: Roboto, Arial, Lato, Helvetica, sans-serif;
-    --font-mono: "Courier Prime", "Menlo", "Monaco", "Roboto Mono", "Courier New", "Lucida Console", "Courier" monospace;
+    --font-mono: "Courier Prime", "Menlo", "Monaco", "Roboto Mono", "Courier New", "Lucida Console", "Courier", monospace;
 }
 
 /* Fonts */
@@ -821,7 +821,7 @@ a.logo {
 }
 .encabezado > h1, 
 .encabezado > hr {
-    color: var(--color-strong);
+    color: var(--color-txt);
     font-family: 'Yanone Kaffeesatz', "Arial Black", "Helvetica bold", sans-serif;
     font-size: 2rem;
     font-weight: 400;
