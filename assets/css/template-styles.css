@@ -536,7 +536,7 @@ footer {
     /*color: var(--color-strong);*/
 }
 .note p {
-    margin-top: 0rem;
+    margin-top: 0rem !important; 
     padding: 0rem;
 }
 .note>div {
