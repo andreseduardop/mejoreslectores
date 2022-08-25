@@ -35,9 +35,9 @@ Veamos en el siguiente video los tipos de ajetivos y algunos ejemplos.
 
 
 {{< profe >}}
-Ahora continuaremos con la historia de Peter Pan y Wendy. Y, para que puedas practicar lo que hemos explicado sobre los adjetivos, los verás resaltados con <mark class="adj">color verde</mark>, al pasar el cursor del mouse sobre cáda párrafo de la lectura.  
+Ahora continuaremos con la historia de Peter Pan y Wendy. Y, para poder practicar lo explicado sobre los adjetivos, estos aparecerán resaltados con color <mark class="adj">verde</mark>, al pasar el cursor del mouse sobre cáda párrafo de la lectura.  
 <br>
-Encontrarás que los adjetivos son palabras bastante frecuentes. Y veremos cómo, cada vez que aparecen, agregan o cambian el significado de la frase.
+Comprobaremos que los adjetivos son palabras bastante frecuentes. Y veremos cómo, cada vez que aparecen, agregan o cambian el significado de la frase.
 {{< /profe >}}
 
 ---
@@ -246,14 +246,22 @@ Pero Wendy era más <mark class="adj">perceptiva</mark>.
 -Ése no es el ladrido de queja de Nana -dijo, sin sospechar lo que estaba a punto de ocurrir-, ése es el ladrido de cuando huele <mark class="adj">algún</mark> peligro…
 
 
------
+---
+
 
 {{< profe-actividad 
     numero="0501" 
     titulo= ""
     icono=true
     >}}
-Finalicemos la lección de hoy con un juego para practicar la identificación de los adjetivos.
+Hemos terminado la lectura por hoy. La siguiente lección veremos por qué Nana está ladrando tan preocupada.  
+<br>
+Y tú, ¿te haz fijado en los adjetivos y ya estás listo para identificarlos?  
+ 
+Veámoslo con un juego para practicar.
 {{< /profe-actividad >}}
 
-
+{{< profe >}}
+Termina el juego, hasta alcanzar una puntuación perfecta. Si no lo has logrado aún, presiona el botón Reintetar.
+Luego, copia el párrafo completo en el cuaderno, subrayando los diez adjetivos que contiene.
+{{< /profe >}}
