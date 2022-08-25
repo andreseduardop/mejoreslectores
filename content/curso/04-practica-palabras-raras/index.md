@@ -2,7 +2,7 @@
 title: "Actividad 04:&ensp;Practiquemos lo aprendido"
 date: 2022-08-17
 layout: single
-weight: 20
+weight: 40
 tags: 
 - cursos
 - comprension

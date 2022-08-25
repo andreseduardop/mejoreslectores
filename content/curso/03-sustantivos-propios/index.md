@@ -2,7 +2,7 @@
 title: "Actividad 03:&ensp;Descubriendo los personajes"
 date: 2022-08-17
 layout: single
-weight: 20
+weight: 30
 tags: 
 - cursos
 - comprension

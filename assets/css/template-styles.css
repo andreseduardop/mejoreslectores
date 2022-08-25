@@ -3,6 +3,7 @@
     --color-bg-highlighted: #fcf5ca;
     --color-bg-header: #f9c80e;
     --color-bg-violet: #E5B8FF;
+    --color-bg-green: #66E1DD;
     --color-strong: #da4a07;
     --color-txt: #220022;
     --intro-width: 15rem;
@@ -952,6 +953,11 @@ p:has(figure) {
     text-align: center;
 }
 /* end FORMATO PÁRRAFOS */
+
+/* Resaltando palabras */
 p:hover mark {
     background-color: var(--color-bg-violet);
+}
+p:hover mark.adj {
+    background-color: var(--color-bg-green);
 }
