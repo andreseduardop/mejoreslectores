@@ -26,16 +26,16 @@ Veámoslo primero con un video.
 
 
 {{< profe >}}
-Entonces, el adjetivo es una clase de palabra que modifica o nos da más información sobre el sustantivo. Así, un adejetivo puede cambiar ampliamente el significdo de una frase y por esto es importante aprender a reconocerlos.  
+Entonces, el adjetivo es una clase de palabra que modifica o nos da más información sobre el sustantivo. Así, un adjetivo puede cambiar ampliamente el significado de una frase y por esto es importante aprender a reconocerlos.  
 <br>
-Veamos en el siguiente video los tipos de ajetivos y algunos ejemplos.
+Veamos en el siguiente video los tipos de adjetivos y algunos ejemplos.
 {{< /profe >}}
 
 {{< youtube W7BexjuLaQ8 >}}
 
 
 {{< profe >}}
-Ahora continuaremos con la historia de Peter Pan y Wendy. Y, para poder practicar lo explicado sobre los adjetivos, estos aparecerán resaltados con color <mark class="adj">verde</mark>, al pasar el cursor del mouse sobre cáda párrafo de la lectura.  
+Ahora continuaremos con la historia de Peter Pan y Wendy. Y, para poder practicar lo explicado sobre los adjetivos, estos aparecerán resaltados con color <mark class="adj">verde</mark>, al pasar el cursor del mouse sobre cada párrafo de la lectura.  
 <br>
 Comprobaremos que los adjetivos son palabras bastante frecuentes. Y veremos cómo, cada vez que aparecen, agregan o cambian el significado de la frase.
 {{< /profe >}}
@@ -231,11 +231,11 @@ Por alguna razón habían adquirido la costumbre de llamar a Liza “los criados
 
 Los niños se echaron a llorar y Nana corrió hasta él <mark class="adj">suplicante</mark>, pero él la apartó. Volvía a sentirse un hombre <mark class="adj">fuerte</mark>. 
 
--Es <mark class="adj">inútil</mark>, es <mark class="adj">inútil</mark> -exclamó-, el lugar que te corresponde es el patio y allí es donde te voy a atar en este <mark class="adj">mismo</mark> <mark class="adj">instante</mark>.
+-Es <mark class="adj">inútil</mark>, es <mark class="adj">inútil</mark> -exclamó-, el lugar que te corresponde es el patio y allí es donde te voy a atar en este <mark class="adj">mismo</mark> instante.
 
 -George, George -susurró la señora Darling-, recuerda lo que te he dicho sobre ese chiquillo.
 
-Pero, ay, él no la escuchó. Estaba dispuesto a demostrar quién era el amo de esa casa y cuando las órdenes no consiguieron hacer salir a Nana de su perrera, la sacó engatusándola con <mark class="adj">dulces</mark> palabras y agarrándola bruscamente, la arrastró fuera del cuarto de los niños. Todo aquello se debía a su carácter demasiado <mark class="adj">afectuoso</mark>, que ansiaba ser objeto de admiración. Cuando la hubo atado en el patio <mark class="adj">trasero</mark>, el <mark class="adj">desdichado</mark> padre se fue y se sentó en el pasillo, con los puños en las cienes.
+Pero, ay, él no la escuchó. Estaba dispuesto a demostrar quién era el amo de esa casa y cuando las órdenes no consiguieron hacer salir a Nana de su perrera, la sacó engatusándola con <mark class="adj">dulces</mark> palabras y agarrándola bruscamente, la arrastró fuera del cuarto de los niños. Todo aquello se debía a su carácter <mark class="adj">demasiado</mark> <mark class="adj">afectuoso</mark>, que ansiaba ser objeto de admiración. Cuando la hubo atado en el patio <mark class="adj">trasero</mark>, el <mark class="adj">desdichado</mark> padre se fue y se sentó en el pasillo, con los puños en las cienes.
 
 Entretanto la señora Darling había metido a los niños en la cama en medio de un <mark class="adj">inusitado</mark> silencio y había encendido sus lamparillas de noche. Oían ladrar a Nana y John dijo lloriqueando:
 
@@ -256,7 +256,7 @@ Pero Wendy era más <mark class="adj">perceptiva</mark>.
     >}}
 Hemos terminado la lectura por hoy. La siguiente lección veremos por qué Nana está ladrando tan preocupada.  
 <br>
-Y tú, ¿te haz fijado en los adjetivos y ya estás listo para identificarlos?  
+Y tú, ¿te has fijado en los adjetivos y ya estás listo para identificarlos?  
  
 Veámoslo con un juego para practicar.
 {{< /profe-actividad >}}
