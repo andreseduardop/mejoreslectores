@@ -1,6 +1,6 @@
 ---
 title: "Actividad 05:&ensp;Los adjetivos"
-date: 2022-08-17
+date: 2022-08-25
 layout: single
 weight: 50
 tags: 
@@ -14,8 +14,11 @@ description: "Sustantivos propios y palabras desconocidas."
 
 {{< profe >}}
 Hola.  
-Hoy vamos a hablar de los adjetivos. ¿Sabes qué son?
+Recordemos que los sustantivos son palabras que utilizamos para nombrar personas, animales, objetos o cosas.  
 
+Hoy vamos a hablar de otro tipo de palabras muy importantes: los **adjetivos**. ¿Sabes qué son y para qué sirven?  
+
+Veámoslo primero con un video.
 {{< /profe >}}
 
 
@@ -23,21 +26,21 @@ Hoy vamos a hablar de los adjetivos. ¿Sabes qué son?
 
 
 {{< profe >}}
-El adjetivo es una clase de palabra que califica al sustantivo en la oración, aporta información adicional o complementa su significado. El adjetivo se coloca delante o después del sustantivo, concordando en género y número.
-
-Los adjetivos determinan a los sustantivos al especificar o resaltar sus características. Por ejemplo:
-
-- La pelota amarilla.
-- El carro viejo.  
-
-También se utilizan ampliamente para realizar descripciones generales o abstractas. Por ejemplo:
-- El color amarillo de las flores (sin especificar el tipo de flor)
-- Fue una difícil competencia (siendo difícil un adjetivo abstracto).
+Entonces, el adjetivo es una clase de palabra que modifica o nos da más información sobre el sustantivo. Así, un adejetivo puede cambiar ampliamente el significdo de una frase y por esto es importante aprender a reconocerlos.  
+<br>
+Veamos en el siguiente video los tipos de ajetivos y algunos ejemplos.
 {{< /profe >}}
+
+{{< youtube W7BexjuLaQ8 >}}
+
 
 {{< profe >}}
-Para que puedas aprender a distinguirlos, los he resaltado con color verde en la lectura. Verás que los adjetivos son palabras bastante frecuentes. Y que cada vez que aparecen agregan o cambian el significado de la frase.
+Ahora continuaremos con la historia de Peter Pan y Wendy. Y, para que puedas practicar lo que hemos explicado sobre los adjetivos, los verás resaltados con <mark class="adj">color verde</mark>, al pasar el cursor del mouse sobre cáda párrafo de la lectura.  
+<br>
+Encontrarás que los adjetivos son palabras bastante frecuentes. Y veremos cómo, cada vez que aparecen, agregan o cambian el significado de la frase.
 {{< /profe >}}
+
+---
 
 
 ## 2. La sombra (continuación)
@@ -123,7 +126,7 @@ A su esposa le pareció que era la ocasión de hablarle del chiquillo. Al princi
 
 -¿Te acuerdas? Todavía estábamos hablando de ello -dice el señor Darling-, cuando entró Nana con la medicina de Michael. Nana, nunca volverás a llevar el frasco en la boca y todo por mi culpa.
 
-Siendo como era un hombre <mark class="adj">fuerte</mark>, no hay duda de que tuvo una actitud <mark class="adj">bastante</mark> <mark class="adj">tonta</mark> con lo de la medicina. Si alguna debilidad tenía, ésta era creer que toda su vida había tomado medicinas con valentía y por eso, en <mark class="adj">esta</mark> ocasión, cuando Michael rehuyó la cuchara que Nana llevaba en la boca, dijo en tono <mark class="adj">reprobador</mark>:
+Siendo como era un hombre <mark class="adj">fuerte</mark>, no hay duda de que tuvo una actitud <mark class="adj">bastante</mark> <mark class="adj">tonta</mark> con lo de la medicina. Si alguna debilidad tenía, ésta era creer que <mark class="adj">toda</mark> su vida había tomado medicinas con valentía y por eso, en <mark class="adj">esta</mark> ocasión, cuando Michael rehuyó la cuchara que Nana llevaba en la boca, dijo en tono <mark class="adj">reprobador</mark>:
 
 -Pórtate como un hombre, Michael.
 
@@ -144,7 +147,7 @@ No lo había perdido exactamente: se había encaramado en medio de la noche a lo
 
 Y salió corriendo antes de que pudiera detenerla. Al instante se le bajaron los humos de una forma <mark class="adj">curiosísima</mark>. 
 
--John -dijo, estremeciéndose-, es un brebaje asqueroso. Es esa cosa horrible, dulzona y pegajosa.
+-John -dijo, estremeciéndose-, es un brebaje <mark class="adj">asqueroso</mark>. Es esa cosa <mark class="adj">horrible</mark>, dulzona y pegajosa.
 
 -Será cosa de un momento, papá -dijo John alegremente y entonces entró Wendy corriendo con la medicina en un vaso.
 
@@ -206,7 +209,7 @@ Era del color de la leche, pero los niños no tenían el sentido del humor de su
 
 -Nana, perrita -dijo, dándole palmaditas-, te he puesto un poco de leche en el tazón, Nana.
 
-Nana, meneando la cola, corrió hacia la taza y empezó a lamer la medicina. En seguida lanzó una mirada al señor Darling, pero no una mirada de rabia, sino una mirada en que mostraba su gran lagrimal rojo, de esas que inspiran lástima, y fue a meterse en su perrera.
+Nana, meneando la cola, corrió hacia la taza y empezó a lamer la medicina. En seguida lanzó una mirada al señor Darling, pero no una mirada de rabia, sino una mirada en que mostraba su gran lagrimal <mark class="adj">rojo</mark>, de esas que inspiran lástima, y fue a meterse en su perrera.
 
 El señor Darling estaba <mark class="adj">avergonzadísimo</mark> de sí mismo, pero no cedió. En medio de un <mark class="adj">horrible</mark> silencio la señora Darling olisqueó el tazón.
 
@@ -214,11 +217,11 @@ El señor Darling estaba <mark class="adj">avergonzadísimo</mark> de sí mismo,
 
 -Sólo era una broma -rugió él, mientras ella consolaba a los chicos y Wendy abrazaba a Nana.
 
--Pues sí que sirve de mucho -dijo él amargamente-, que yo me mate tratando de hacer gracias en esta casa.
+-Pues sí que sirve de mucho -dijo él amargamente-, que yo me mate tratando de hacer gracias en <mark class="adj">esta</mark> casa.
 
 Y Wendy seguía abrazando a Nana.
 
--Muy bien -gritó él-. ¡Mímala! A mí nadie me mima. ¡No, claro que no! Yo sólo soy el que trae el pan a esta casa, así que por qué habría que mimarme, ¿¡a ver por qué, por qué, por qué!?
+-Muy bien -gritó él-. ¡Mímala! A mí nadie me mima. ¡No, claro que no! Yo sólo soy el que trae el pan a <mark class="adj">esta</mark> casa, así que por qué habría que mimarme, ¿¡a ver por qué, por qué, por qué!?
 
 -George -le rogó la señora Darling-, no grites tanto, que ten van a oír los criados.
 
@@ -241,3 +244,16 @@ Entretanto la señora Darling había metido a los niños en la cama en medio de 
 Pero Wendy era más <mark class="adj">perceptiva</mark>.
 
 -Ése no es el ladrido de queja de Nana -dijo, sin sospechar lo que estaba a punto de ocurrir-, ése es el ladrido de cuando huele <mark class="adj">algún</mark> peligro…
+
+
+-----
+
+{{< profe-actividad 
+    numero="0501" 
+    titulo= ""
+    icono=true
+    >}}
+Finalicemos la lección de hoy con un juego para practicar la identificación de los adjetivos.
+{{< /profe-actividad >}}
+
+
