@@ -4,6 +4,7 @@
     --color-bg-header: #f9c80e;
     --color-bg-violet: #E5B8FF;
     --color-bg-green: #66E1DD;
+    --color-bg-orange: #FB9F74;
     --color-strong: #da4a07;
     --color-txt: #220022;
     --intro-width: 15rem;
@@ -960,4 +961,7 @@ p:hover mark {
 }
 p:hover mark.adj {
     background-color: var(--color-bg-green);
+}
+p:hover mark.verbo {
+    background-color: var(--color-bg-orange);
 }

@@ -1,6 +1,6 @@
 ---
 title: "Actividad 05:&ensp;Los adjetivos"
-date: 2022-08-25
+date: 2022-08-24
 layout: single
 weight: 50
 tags: 
