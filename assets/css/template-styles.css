@@ -955,13 +955,15 @@ p:has(figure) {
 }
 /* end FORMATO PÁRRAFOS */
 
-/* Resaltando palabras */
+/* Para resaltar palabras */
 p:hover mark {
     background-color: var(--color-bg-violet);
 }
-p:hover mark.adj {
+/* para resaltar adjetivos  */
+p:hover mark[adj] {
     background-color: var(--color-bg-green);
 }
-p:hover mark.verbo {
+/* para resaltar verbos */
+p:hover mark[v] {
     background-color: var(--color-bg-orange);
 }

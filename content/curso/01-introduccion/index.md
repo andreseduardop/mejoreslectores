@@ -46,14 +46,14 @@ Ahora, un pequeño juego para ver qué tan bien entendiste la explicación del v
 
 
 {{< profe >}}
-Ahora que dominas la organización alfabética de palabras, avancemos.  
-El diccionario es una herramienta muy importante, veamos un video un poco más avanzado sobre éste. 
+Ahora que dominas la organización alfabética de palabras, continuemos.  
+El diccionario es una herramienta muy importante, veamos un video un poco más avanzado sobre el uso de este. 
 {{< /profe >}}
 
 {{< youtube "aPJYl285VQY" >}}
 
 {{< profe >}}
-Con este conocimiento, ahora vamos a leer el siguiente texto y buscaremos en el diccionario todas las palabras raras o desconocidas que vayamos encontrando.
+Ahora vamos a leer un texto y buscaremos en el diccionario todas las palabras raras o desconocidas que vayamos encontrando en él.
 {{< /profe >}}
 
 {{< truco >}}
