@@ -31,7 +31,7 @@ Ahora, veamos en detalle cómo se conjugan los verbos.
 {{< profe >}}
 Estamos listos para continuar con la historia de Peter Pan y Wendy. Y, para poder practicar lo que acabamos de ver sobre los verbos, estos aparecerán resaltados con color <mark v>naranja</mark>, al pasar el cursor del _mouse_ sobre cada párrafo de la lectura.  
 <br>
-Si en la lección sobre los adjetivos vimos que estos son bastante frecuentes, hoy veremos que los verbos son aún más frecuentes que los adjetivos y son muy importantes porque nos cuentan los sucesos, lo que pasa y ucurre a los personajes.
+Si en la lección sobre los adjetivos vimos que estos son bastante frecuentes, hoy veremos que los verbos son aún más frecuentes que los adjetivos y son muy importantes porque nos cuentan los sucesos, lo que pasa y ocurre a los personajes.
 {{< /profe >}}
 
 {{< truco >}}

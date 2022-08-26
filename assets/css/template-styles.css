@@ -232,6 +232,9 @@ h5>a,
 h6>a {
     font-weight: normal;
 }
+.bigger {
+  font-size: larger;
+}
 
 /* Lists */
 main ul,
