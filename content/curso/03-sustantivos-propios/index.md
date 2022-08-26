@@ -42,7 +42,7 @@ Los nombres de los personajes y lugares en un relato se componen de sustantivos 
 
 
 {{< profe-actividad 
-    numero="101" 
+    numero="0301" 
     titulo= ""
     icono=true
     >}}

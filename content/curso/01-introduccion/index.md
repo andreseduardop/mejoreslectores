@@ -40,7 +40,7 @@ Recuerda colocarte tus audífonos. 🎧
 
 <br>
 
-{{< profe-actividad numero="101" >}}
+{{< profe-actividad numero="0101" >}}
 Ahora, un pequeño juego para ver qué tan bien entendiste la explicación del video.  
 {{< /profe-actividad >}}
 
@@ -71,7 +71,7 @@ Un par de meses atrás, en enero de 1796, cruzaron el mar Caribe en la ruta de C
 
 Habían salido de Bogotá, tres meses antes, diez presos con doce granaderos armados, un teniente y un cabo, rumbo a Honda para bajar por el Magdalena hasta la costa. Viajaron a caballo hasta el puerto fluvial y tuvieron que pagar por los animales de carga, como lo hicieron después desde Barranca a Cartagena. Cada uno iba con dinero, equipaje, y con su catre y su almofrej, que era la funda en que se llevaba la cama de camino. Estaban comprometidos bajo palabra, así que no portaban cadenas e incluso podían haber viajado con sus esposas e hijos. 
 
-{{< profe-actividad numero="102" >}}
+{{< profe-actividad numero="0102" >}}
 ¿Estás buscando los significados de todas las palabras raras y desconocidas que encuentras en el texto?  
 Porque es muy fácil. Como te contó Aike, sólo tienes que hacer **doble clic** en cada palabra que no conoces, para ver su definición.  
 <br>
