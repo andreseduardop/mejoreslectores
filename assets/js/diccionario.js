@@ -1,3 +1,4 @@
+// Funciones para BUSQUEDA DE PALABRAS
 // Al hacer doble clic en una palabra del texto: buscarla en la RAE
 // y agregarla al glosario
 var contenido = document.getElementById("main");

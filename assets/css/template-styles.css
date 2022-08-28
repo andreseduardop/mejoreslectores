@@ -232,6 +232,13 @@ h5>a,
 h6>a {
     font-weight: normal;
 }
+hr {
+/*    height: 1px;
+    color: var(--color-strong);
+    background-color: var(--color-strong);
+    border: none;*/
+    border-top: 2px solid var(--color-txt);
+}
 .bigger {
   font-size: larger;
 }
@@ -286,6 +293,7 @@ button {
     color: var(--color-bg);
     padding: .25em 1.5em .35em;
     border: 0;
+    border-radius: 5px;
 }
 
 /* Forms */
@@ -308,7 +316,7 @@ table {
 th,
 td {
     border: 2px solid;
-    border-color: var(--color-bg-header);
+    border-color: var(--color-txt);
     padding: 0.5rem;
     line-height: 1.25;
     margin: 0;
@@ -824,16 +832,15 @@ a.logo {
     top: 0px;
     z-index: 1;
 }
-.encabezado > h1, 
-.encabezado > hr {
+.encabezado > h1,
+.encabezado > hr  {
     color: var(--color-txt);
     font-family: 'Yanone Kaffeesatz', "Arial Black", "Helvetica bold", sans-serif;
     font-size: 2rem;
     font-weight: 400;
-    margin-top: 0.75rem;
     line-height: 1;
+    margin-top: 0.75rem;
 }
-
 /* Nav > Menú */
 
 a.menu-item {
@@ -969,4 +976,56 @@ p:hover mark[adj] {
 /* para resaltar verbos */
 p:hover mark[v] {
     background-color: var(--color-bg-orange);
+}
+
+/* Sección de encuesta */
+#encuesta {
+    font-family: var(--font-sans);
+    margin-top: 6rem;
+    opacity: 1;
+    text-align: center;
+    visibility: visible;
+}
+/* estilo para el título */
+#encuesta h2 {
+    color: var(--color-strong);
+    font-family: var(--font-sans);
+    font-size: 1.2rem;
+    margin-bottom: .8rem;
+}
+/* estilo para el texto */
+#encuesta>*  {
+    font-size: .8rem;
+}
+#encuesta table {
+    font-family: var(--font-sans);
+    font-size: .7rem;
+    margin: 1.5rem auto 2rem;
+    text-align: center;
+}
+#encuesta th {
+    border: none;
+    border-color: transparent;
+    padding: 0 1rem;
+    /*line-height: 1.25;*/
+    margin: 0;
+}
+#encuesta td {
+    border: none;
+    border-color: transparent;
+    padding: 0.5rem 0.75rem;
+    margin: 0;
+    vertical-align: top;
+    user-select: none;
+}
+#encuesta #resultados td {
+    user-select: auto;
+}
+#encuesta.activada td:hover,
+#encuesta.activada td:hover img {
+    cursor: pointer;
+}
+#encuesta.activada td:hover {
+    background-color: var(--color-bg-highlighted);
+    outline: 4px solid var(--color-bg-orange);
 }

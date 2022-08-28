@@ -46,7 +46,3 @@
 	<link rel="stylesheet" href="{{ $searchCss.RelPermalink }}"></link>
 {{ end }}
 
-<!-- cargar Custom javascript indicado en config.toml -->
-{{ range .Site.Params.customJs }}
-  <script src="{{ . | relURL }}"></script>
-{{ end }}

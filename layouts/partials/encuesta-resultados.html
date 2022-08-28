@@ -1,0 +1,56 @@
+<div id="encuesta">
+  <span>Resultados a la pregunta:</span><br>
+  <h2>¿Cómo te sentiste en esta clase?<br></h2>
+  <span>Haz clic en en la frase que describa mejor cómo te sientes.</span>
+  <table id="resultados-encuesta-actividades">
+    <thead id="encabezado">
+      <tr>
+        <td data-calificacion="1">
+          <br><br><br><strong>Actividad</strong></td>
+        <td data-calificacion="1">
+          <img src="/images/emojis/1-agotado.png">
+          <br><br>Me aburrí<br>mucho</td>
+        <td data-calificacion="2">
+          <img src="/images/emojis/2-bostezo.png">
+          <br><br>Me aburrí<br>un poquito</td>
+        <td data-calificacion="3">
+          <img src="/images/emojis/3-normal.png">
+          <br><br>Normal</td>
+        <td data-calificacion="4">
+          <img src="/images/emojis/4-feliz.png">
+          <br><br>Aprendí<br>algo</td>
+        <td data-calificacion="5">
+          <img src="/images/emojis/5-divertido.png">
+          <br><br>Estuvo<br>divertida</td>
+      </tr>
+    </thead>
+    <tbody id="resultados">
+      <!-- busca e itera por todas las páginas de la sección curso -->
+      {{ range where .Site.Pages "Section" "curso" }}
+      <!-- Selecciona únicamente las páginas cuyo título inicia con "Actividad" -->
+      {{ $titulo := substr .Title 0 9 }}
+        {{ if eq $titulo "Actividad" }}
+          {{ $actividadNumero := substr .Title 10 2 }}
+          <tr id="actividad-{{ $actividadNumero }}">
+            <td id="voto-{{ $actividadNumero }}-0">{{ $actividadNumero }}</td>
+            <!-- itera por los números 1 al 5 buscando los contarores almacenados para cada uno -->
+          {{ range (slice 1 2 3 4 5) }}
+            {{ $funcionNombre := printf "%s%s%v" "cb" $actividadNumero . }}
+            {{ $elemento := printf "voto-%s-%v" $actividadNumero . }}
+            <td id="{{ $elemento }}">
+            <script>
+              // Maneja el callback, reemplazndo el contenido de cada celda <td> con el valor devuelto por JSONP
+            function {{ $funcionNombre | safeJS }}(response) {
+                document.getElementById({{$elemento}}).innerText = response.value;
+              };        
+            </script>
+            <!-- Llamada JSONP consultando por el elemento, con callback a la funcionNombre -->
+            <script async src="https://api.countapi.xyz/get/mejoreslectores.com/{{$elemento}}?callback={{ $funcionNombre }}"></script>        
+            </td>
+          {{ end }}
+          </tr>
+        {{ end }}
+      {{ end }}      
+    </tbody>
+  </table>
+</div>

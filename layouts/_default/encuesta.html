@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <main id="main">
+    <div class="encabezado">
+      <h1>{{- .Title | markdownify -}}</h1>
+      <hr>
+    </div>
+    {{ .Content }}
+    <br>
+  {{ partial "encuesta-resultados" . }}
+  </main>
+{{ end }}

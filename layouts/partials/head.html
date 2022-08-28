@@ -11,6 +11,12 @@
   {{ end }}
   <!-- end Redirigir home -->
 
+  <!-- Meta Robots -->
+  {{ if eq .Params._build.list "never" }}
+    <meta name="robots" content="noindex" />
+  {{ else }}
+    <meta name="robots" content="max-image-preview:large">
+  {{ end }}
 
   {{ hugo.Generator }}
   <link rel="canonical" href="{{ .Permalink }}">

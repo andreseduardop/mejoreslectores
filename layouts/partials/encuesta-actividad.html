@@ -1,0 +1,45 @@
+<aside class="activada" id="encuesta">
+  <h2>¿Cómo te sentiste en esta clase?</h2>
+  <span>Haz clic en en la frase que describa mejor cómo te sientes.</span>
+  <table>
+    <tbody>
+      {{ $actividadNumero := substr .Title 10 2 }}
+      <tr data-actividad="{{ $actividadNumero }}">
+        <td data-calificacion="1">
+          <img src="/images/emojis/1-agotado.png">
+          <br><br>Me aburrí<br>mucho</td>
+        <td data-calificacion="2">
+          <img src="/images/emojis/2-bostezo.png">
+          <br><br>Me aburrí<br>un poquito</td>
+        <td data-calificacion="3">
+          <img src="/images/emojis/3-normal.png">
+          <br><br>Normal</td>
+        <td  data-calificacion="4">
+          <img src="/images/emojis/4-feliz.png">
+          <br><br>Aprendí<br>algo</td>
+        <td  data-calificacion="5">
+          <img src="/images/emojis/5-divertido.png">
+          <br><br>Estuvo<br>divertida</td>
+      </tr>
+    </tbody>
+  </table>
+</aside>
+<!-- Options for encuesta script -->
+{{ $buildOptions := (dict 
+  "bundle" true
+  "format" "iife"
+  "targetPath" "js/encuesta.min.js" 
+  "minify" true) }}
+{{ if .Site.IsServer }}
+  {{ $buildOptions = (dict
+    "bundle" true
+    "format" "iife"
+    "targetPath" "js/encuesta.js"
+    "minify" false
+    "sourceMap" "inline") }}
+<!-- Get encuesta JS -->
+{{ end }}
+{{- $encuestaScript := resources.Get "js/encuesta.js" | js.Build $buildOptions | resources.Fingerprint "sha384" -}}
+
+  <!-- Load encuesta script -->
+  <script src='{{ $encuestaScript.RelPermalink  }}' integrity='{{ $encuestaScript.Data.Integrity }}' defer></script>
