@@ -11,6 +11,8 @@ toc: false
 description: "Oraciones simples. Sujeto, verbo y predicado."
 ---
 
+{{< imagen >}}
+
 
 {{< profe >}}
 Hola.  
@@ -30,8 +32,7 @@ La Oración es el fragmento más pequeño capaz de comunicar una idea completame
 - **Sujeto:** quien realiza la acción del verbo → **Mi amigo Juan** tiene una bicicleta.
 - **Predicado:** indica lo que hace el sujeto → Mi amigo Juan **tiene una bicicleta**.
 
-Las oraciones pueden ser: simples o compuestas. Las oraciones simples se distinguen porque están formadas por **un único verbo** en forma personal:  
-Ellos **trajeron** dulces.  
+Las oraciones pueden ser: simples o compuestas. Las oraciones simples se distinguen porque están formadas por **un único verbo**: _Ellos **trajeron** dulces._  
 <br>
 Ahora, vamos a continuar leyendo "Peter Pan y Wendy". Y durante la lectura trata de identificar oraciones simples, compuestas por sujeto y predicado.  
 <br>
@@ -46,7 +47,7 @@ El trabajo de hoy es:
 ## 3. ¡Vámonos, Vámonos! (continuación)
 
 
-(<mark o>Peter y Wendy <mark v><ruby>estaban<rt>verbo</rt></ruby></mark> conversando</mark>…)
+(<mark o><ruby>Peter y Wendy<rt>sujeto</rt></ruby> <mark v><ruby>estaban<rt>verbo</rt></ruby></mark> conversando</mark>…)
 
 Cuando las personas de nuestro entorno son presentadas, es costumbre que se pregunten la edad y por ello Wendy, a la que siempre le gustaba hacer las cosas correctamente, le preguntó a Peter cuántos años tenía. La verdad es que no era una pregunta que le sentara muy bien: era como un examen en el que se pregunta sobre matemática, cuando lo que uno quiere es que le pregunten sobre música.
 
@@ -328,7 +329,7 @@ Hemos terminado por hoy.
 ¿Cuántas palabras desconocidas encontraste?
 La primera vez que yo lo leí encontré 30.
 
-¿Quieres algo de ayuda? Haz clic en el siguiente botón: &ensp;<button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar palabras</button>
+¿Quieres algo de ayuda? Haz clic en este botón: &ensp;<button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar palabras</button>
 
 Y se resaltarán en el texto todas las palabras desconocidas que encontré cuando lo leí por primera vez.
 {{< /truco >}}
