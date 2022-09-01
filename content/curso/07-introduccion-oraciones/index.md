@@ -1,14 +1,14 @@
 ---
-title: "Actividad 07:&ensp;Introducción a las oraciones"
+title: "Actividad 07:&ensp;Identificando oraciones simples"
 date: 2022-08-25
 layout: single
-weight: 60
+weight: 70
 tags: 
 - cursos
 - comprension
 draft: false
 toc: false
-description: "Los verbos, tiempo infinitivo y conjugación."
+description: "Oraciones simples. Sujeto, verbo y predicado."
 ---
 
 
@@ -96,7 +96,7 @@ Ups.
 Bueno, continuemos con la lectura...
 {{< /profe >}}
 
-Wendy le echó una mirada de intensa admiración y Peter pensó que era porque se había escapado, pero en realidad era porque conocía a las hadas. Wendy había llevado una vida tan recluida que conocer hadas le parecía una maravilla. Hizo un <mark oculta>torrente</mark> de preguntas sobre ellas, con sorpresa por parte de él, ya que le resultaban bastante molestas, porque lo estorbaban y cosas así y de hecho a veces tenía que darles algún <mark oculta>bofetón</mark>. Sin embargo, en general le gustaban y le contó el origen de las hadas.
+Wendy le echó una mirada de intensa admiración y Peter pensó que era porque se había escapado, pero en realidad era porque conocía a las hadas. Wendy había llevado una vida tan <mark oculta>recluida</mark> que conocer hadas le parecía una maravilla. Hizo un <mark oculta>torrente</mark> de preguntas sobre ellas, con sorpresa por parte de él, ya que le resultaban bastante molestas, porque lo estorbaban y cosas así y de hecho a veces tenía que darles algún <mark oculta>bofetón</mark>. Sin embargo, en general le gustaban y le contó el origen de las hadas.
 
 -Mira, Wendy, cuando el primer bebé se rio por primera vez, su risa se rompió en mil pedazos y éstos se <mark oculta>esparcieron</mark> y ése fue el origen de las hadas.
 
