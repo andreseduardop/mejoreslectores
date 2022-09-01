@@ -296,6 +296,7 @@ button {
     padding: .25em .8em .35em;
     border: 0;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 /* Forms */
@@ -980,6 +981,7 @@ p:hover mark[v] {
     background-color: var(--color-bg-orange);
 }
 p:hover mark[o] {
+    background-color: var(--color-bg-grey);
 }
 /* para ocultar marcas */
 p:hover mark[oculta] {
