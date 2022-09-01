@@ -3,7 +3,9 @@
     --color-bg-highlighted: #fcf5ca;
     --color-bg-header: #f9c80e;
     --color-bg-violet: #E5B8FF;
-    --color-bg-green: #66E1DD;
+    --color-bg-green: #78CEA0;
+    --color-bg-grey:  #BFBFBF;
+    --color-bg-turq: #66E1DD;
     --color-bg-orange: #FB9F74;
     --color-strong: #da4a07;
     --color-txt: #220022;
@@ -291,7 +293,7 @@ button {
     font-size: 1em;
     background: var(--color-strong);
     color: var(--color-bg);
-    padding: .25em 1.5em .35em;
+    padding: .25em .8em .35em;
     border: 0;
     border-radius: 5px;
 }
@@ -977,6 +979,17 @@ p:hover mark[adj] {
 p:hover mark[v] {
     background-color: var(--color-bg-orange);
 }
+p:hover mark[o] {
+}
+/* para ocultar marcas */
+p:hover mark[oculta] {
+    background-color: inherit;
+}
+/* hacer visibles marcas sin necesidad de hover */
+p mark[visible] {
+    background-color: var(--color-bg-violet);
+}
+
 
 /* Sección de encuesta */
 #encuesta {
