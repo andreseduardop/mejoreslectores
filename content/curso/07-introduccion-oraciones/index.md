@@ -28,15 +28,20 @@ Hoy vamos a ver cómo se combinan con otras palabras para formar oraciones.
 {{< profe >}}
 Resumiendo…  
 
-La Oración es el fragmento más pequeño capaz de comunicar una idea completamente y mantener su independencia sintáctica. Está formada por:
-- **Sujeto:** quien realiza la acción del verbo → **Mi amigo Juan** tiene una bicicleta.
-- **Predicado:** indica lo que hace el sujeto → Mi amigo Juan **tiene una bicicleta**.
+La Oración es el fragmento más pequeño capaz de comunicar una idea completamente y mantener su independencia sintáctica. Está formada por:  
+<br>
+- **Sujeto:** quien realiza la acción del verbo.  
+_(**Mi amigo Juan** tiene una bicicleta.)_  
+<br>
+- **Predicado:** indica lo que hace el sujeto.  
+_(Mi amigo Juan **tiene una bicicleta**.)_  
+<br>
 
 Las oraciones pueden ser: simples o compuestas. Las oraciones simples se distinguen porque están formadas por **un único verbo**: _Ellos **trajeron** dulces._  
 <br>
 Ahora, vamos a continuar leyendo "Peter Pan y Wendy". Y durante la lectura trata de identificar oraciones simples, compuestas por sujeto y predicado.  
 <br>
-El trabajo de hoy es: 
+**El trabajo de hoy es:** 
 - Copiar en tu cuaderno al menos 10 oraciones simples que encuentres en la lectura.
 - Identificar las palabras desconocidas y copiarlas en el glosario de tu cuaderno, junto con su significado.
 {{< /profe >}}
@@ -66,18 +71,21 @@ En realidad, no tenía ni idea; sólo tenía sospechas, pero dijo a la ventura:
 -No quiero ser mayor jamás -dijo con <mark oculta>vehemencia</mark>-. Quiero ser siempre un niño y divertirme. Así que me escapé a los jardines de Kensington y viví mucho, mucho tiempo entre las hadas.
 
 {{< truco >}}
-- Recuerda que una oración simple tiene un único verbo, es decir, una acción que es realizada por el sujeto.  
+- Recuerda que **una oración simple tiene un único verbo**, es decir, una acción que es realizada por el sujeto.  
 Por ejemplo: "_<ruby>Wendy<rp>(</rp><rt>sujeto</rt><rp>)</rp>
 </ruby> se <ruby>quedó<rp>(</rp><rt>verbo</rt><rp>)</rp>
 </ruby> muy sorprendida_".  
-Otro ejemplo: "_<ruby>Peter y Wendy<rp>(</rp><rt>sujeto</rt><rp>)</rp></ruby> <ruby>estaban<rp>(</rp><rt>verbo</rt><rp>)</rp></ruby> conversando_".
+Otro ejemplo: "_<ruby>Peter y Wendy<rp>(</rp><rt>sujeto</rt><rp>)</rp></ruby> <ruby>estaban<rp>(</rp><rt>verbo</rt><rp>)</rp></ruby> conversando_".  
+<br>
 
-- Sin embargo, el sujeto no siempre aparece al principio. En algunas ocasiones el verbo puede aparecer antes que el sujeto.  
+- Sin embargo, **el sujeto no siempre aparece al principio.** En algunas ocasiones el verbo puede aparecer antes que el sujeto.  
 Por ejemplo: _"<ruby>explicó<rp>(</rp><rt>verbo</rt><rp>)</rp></ruby> <ruby> él<rp>(</rp><rt>sujeto</rt><rp>)</rp></ruby> en voz baja"_. Aquí el verbo (*explicó*) aparece antes del sujeto (*él*).  
 Podríamos reordenar esta oración y quedaría: _él explicó en voz baja_.  
+<br>
 
-- En otras ocasiones, el sujeto puede ser tácito, es decir que se omite y no aparece explícito en la oración.  
+- En otras ocasiones, **el sujeto puede ser tácito**, es decir que se omite y no aparece explícito en la oración.  
 Por ejemplo: "_Se <ruby>puso<rp>(</rp><rt>verbo</rt><rp>)</rp></ruby> nerviosísimo_". El sujeto sería Peter Pan, pero en la oración se ha omitido, porque es fácil inferirlo.  
+<br>
 
 Ya te he ayudado resaltando las cuatro primeras oraciones simples que aparecen en el texto. Sólo te falta encontrar otras seis, para completar las 10 que la profe Zelma te pidió escribir en el cuaderno. ;)
 {{< /truco >}}
@@ -85,7 +93,7 @@ Ya te he ayudado resaltando las cuatro primeras oraciones simples que aparecen e
 {{< profe >}}
 ¡Aike!  
 ¡Te estoy viendo!  
-¡Cuidado con seguirles ayudando!  
+¡Cuidadito con seguirles ayudando!  
 {{< /profe >}}
 
 {{< truco >}}
@@ -199,7 +207,7 @@ Se había olvidado momentáneamente de que él no sabía lo que eran los besos.
 
 -¿Qué es eso? 
 
--Es como esto. Le dio un beso.
+-Es como esto -le dio un beso.
 
 -¡Qué curioso! -dijo Peter con curiosidad-. ¿Te puedo dar un dedal yo ahora?
 
