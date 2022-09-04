@@ -15,18 +15,19 @@ description: "Ejercicios de práctica con oraciones simples."
 
 
 {{< profe >}}
-¿Por qué es tan importante identificar las oraciones en un texto?  
+En la lección anterior hablamos de **las oraciones**.  
+Pero, ¿por qué es tan importante identificar las oraciones en un texto?  
 
 Para responder a esta pregunta, primero leeremos el siguiente fragmento de una novela de Gabriel García Márquez: 
 {{< /profe >}}
 
 
-"...había al atardecer unas ráfagas pestilentes de muerto viejo muerto a traición muerto solo en las plantaciones de cacao de grandes hojas persistentes y flores encarnadas y frutos de baya cuyas semillas se usaban como principal ingrediente del chocolate y el sol inmóvil y el polvo ardiente y la cucúrbita pepo y la cucúrbita melo y las vacas flacas y tristes del departamento del atlántico en la única escuela de caridad a doscientas leguas a la redonda y la exhalación de la mula todavía viva que se despanzurró con una explosión de guanábana suculenta entre las matas de guineo y las gallinitas espantadas del fondo del abismo, carajo, lo venadearon, mi general, lo habían cazado con un rifle de tigre en el desfiladero del Ánima Sola a pesar del amparo de mi autoridad..."  
+"…en las plantaciones de cacao de grandes hojas persistentes y flores encarnadas y frutos de baya cuyas semillas se usaban como principal ingrediente del chocolate y el sol inmóvil y el polvo ardiente y la cucúrbita pepo y la cucúrbita melo y las vacas flacas y tristes del departamento del atlántico en la única escuela de caridad a doscientas leguas a la redonda y la exhalación de la mula todavía viva que se despanzurró con una explosión de guanábana suculenta entre las matas de guineo y las gallinitas espantadas del fondo del abismo, carajo, lo venadearon, mi general, lo habían cazado con un rifle de tigre en el desfiladero del Ánima Sola a pesar del amparo de mi autoridad…"  
 (Fragmento de "El otoño del patriarca".)
 
 
 {{< profe >}}
-Como puedes ver en ese fragmento, **la dificultad para identificar cada oración** y sus componentes hace muy complicado comprender el texto.  
+Como podemos ver en ese fragmento, la **dificultad para identificar cada oración** y **sus componentes** hace muy complicado comprender el texto.  
 <br>
 _Las oraciones nos ayudan a organizar y comprender más fácilmente un texto._  
 <br>
@@ -45,8 +46,15 @@ Ahora, trabajemos un poco en mejorar nuestra habilidad para reconocer y comprend
     icono=true
     >}}
 Antes de continuar, vamos a practicar lo que acabamos de ver en el video.  
-Recuerda que una oración simple es aquella que tiene **un solo verbo**.
+Recordemos que una oración simple es aquella que tiene **un solo verbo**.
 {{< /profe-actividad >}}
+
+
+{{< profe >}}
+Ahora, apuntaremos en el cuaderno las oraciones del ejercicio anterior, subrayando **el verbo** en cada una.  
+<br>
+Y, luego, continuaremos con el video.
+{{< /profe >}}
 
 
 {{< youtube O9pj4tKhCyA >}}
@@ -58,20 +66,20 @@ Recuerda que una oración simple es aquella que tiene **un solo verbo**.
     icono=true
     >}}
 Ahora, identificaremos **el sujeto** de cada oración.  
-Te daré algunas pistas:  
+Algunas pistas para este ejercicio:  
 - **El sujeto es quien realiza aquello indicado por el verbo**. Por esto, para identificar el sujeto, primero necesitamos encontrar el verbo conjugado en cada oración.
-- El sujeto puede estar formado por **varias palabras**; en este caso, debes _seleccionarlas todas_.
+- El sujeto puede estar formado por **varias palabras**; en este caso, debemos _seleccionarlas todas_.
 - El sujeto se puede ubicar al principio, en medio, o al final de la oración.
 - El sujeto puede ser **implícito**, es decir, que no aparece en la oración. En este caso, ninguna palabra se selecciona en la oración.
 {{< /profe-actividad >}}
 
 
 {{< profe >}}
-_"Wendy, en lugar de estar durmiendo en esa estúpida cama podrías estar volando conmigo al país de Nunca Jamás"._  
+Apuntamos en el cuaderno las oraciones del ejercicio anterior, subrayando en cada una las palabras que conforman **el sujeto**.  
 <br>
-En nuestra lección anterior Peter Pan había logrado convencer a Wendy para que viajara con él y ella lo convenció de llevar a sus hermanos.  
-
-Continuemos...
+Y, luego, continuaremos con la lectura.  
+<br>
+En nuestra lección anterior Peter Pan había logrado convencer a Wendy para que viajara con él. Y ella lo convenció de llevar a sus hermanos…
 {{< /profe >}}
 
 
@@ -103,7 +111,7 @@ Se lo volvió a demostrar.
 
 -Lo haces muy rápido -dijo John-, ¿no podrías hacerlo una vez muy despacio?
 
-<mark oculta>Peter lo hizo despacio y deprisa.</mark>
+Peter lo hizo despacio y deprisa.
 
 -¡Ya lo tengo, Wendy! -exclamó John, pero pronto descubrió que no era así. Ninguno de ellos conseguía elevarse ni una pulgada, aunque incluso Michael dominaba ya las palabras de dos sílabas, mientras que Peter no sabía ni hacer la O con un canuto.
 
@@ -173,9 +181,9 @@ La segunda a la derecha y todo recto hasta la mañana. Ése, según le había di
 
 Al principio sus compañeros confiaban en él sin reservas y eran tan grandes los placeres de volar que perdían el tiempo girando alrededor de las agujas de las iglesias o de cualquier otra cosa elevada que se encontraran en el camino y les gustara.
 
-John y Michael se echaban carreras, Michael con ventaja. Recordaban con desprecio que no hacía tanto que se habían creído muy importantes por poder volar por una habitación.
+<mark oculta>John y Michael se echaban carreras, Michael con ventaja</mark>. Recordaban con desprecio que no hacía tanto que se habían creído muy importantes por poder volar por una habitación.
 
-No hacía tanto. ¿Pero cuánto realmente? Estaban volando por encima del mar antes de que esta idea empezara a preocupar a Wendy seriamente. A John la parecía que iban ya por su segundo mar y su tercera noche.
+No hacía tanto. ¿Pero cuánto realmente? Estaban volando por encima del mar antes de que esta idea empezara a preocupar a Wendy seriamente. A John le parecía que iban ya por su segundo mar y su tercera noche.
 
 A veces estaba oscuro y a veces había luz y de pronto tenían mucho frío y luego demasiado calor. ¿Sentían hambre a veces realmente, o sólo lo fingían porque Peter tenía una forma tan divertida y novedosa de alimentarlos? Esta forma era perseguir pájaros que llevaran comida en el pico adecuada para los humanos y arrebatársela; entonces los pájaros los seguían y se la volvían a quitar y todos se iban persiguiendo alegremente durante millas, separándose por fin y expresándose mutuamente sus buenos deseos. Pero Wendy se percató con cierta preocupación de que Peter no parecía saber que ésta era una forma bastante rara de conseguir el pan de cada día, ni siquiera que había otras formas.
 
@@ -199,9 +207,9 @@ Y recuerda contestar la encuesta que está más abajo, haciendo clic en la opci�
 {{< truco >}}
 ¿Puedes hacer solo el ejercicio? o ¿quisieras algo de ayuda?  
 
-De acuerdo, no te ayudaré con las palabras raras. (Ya debes ser experto encontrando palabras desconocidas.) Sin embargo, si quieres puedes ver mi selección de oraciones simples, haciendo clic en este botón: &ensp;<button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar oraciones</button>  
+De acuerdo, no te ayudaré con las palabras raras. (Ya debes ser experto encontrando palabras desconocidas.) Sin embargo, si quieres puedes ver algunas de las oraciones simples que encontré en el texto, haciendo clic en este botón: &ensp;<button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar oraciones</button>  
 <br>
-Pero, ten presente que varias de las oraciones que seleccioné tienen el sujeto implícito, es decir, que no está escrito, así que debes escribirlo por aparte.  
+Pero, ten presente que algunas de las oraciones que seleccioné tienen el sujeto implícito, es decir, que no está escrito, así que debes escribirlo por aparte.  
 <br>
 Por ejemplo:  
 <br>
