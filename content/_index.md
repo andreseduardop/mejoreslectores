@@ -11,7 +11,7 @@ description: 'Página inicial del taller experimental de comprensión lectora "M
 <details>
 <summary><span class="bigger">Presentación</span></summary>
 <p>
-A través de 40 lecciones de una hora, los estudiantes realizarán la lectura de la novela "Peter Pan y Wendy". Lección tras lección aprenderán a reconocer los elementos importantes en un texto y practicarán las diferentes estrategias que pueden emplear para mejorar su comprensión lectora.  
+A través de 30 lecciones de una hora, los estudiantes realizarán la lectura de la novela "Peter Pan y Wendy". Lección tras lección aprenderán a reconocer los elementos importantes en un texto y practicarán las diferentes estrategias que pueden emplear para mejorar su comprensión lectora.  
 
 El taller progresa de forma gradual, partiendo de la conciencia léxica y la comprensión sintáctica hasta llegar a estrategias avanzadas de comprensión lectora y toma de notas.
 

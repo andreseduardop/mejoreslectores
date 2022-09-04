@@ -3,7 +3,6 @@
   {{ partial "head.html" . }}
   <body>
     <a href="#main">{{ T "skip_to_content" }}</a>
-    {{ partial "scripts.html" . }}
     {{ partial "noscript.html" . }}
     {{ partial "svg.html" . }}
     {{ partial "css-load-error.html" . }}
@@ -16,7 +15,6 @@
         </div>
       </div>
     </div>
-    {{ partial "script.html" . }}
-    {{ partial "google-analytics-async.html" . }}
+    {{ partial "scripts.html" . }}
   </body>
 </html>

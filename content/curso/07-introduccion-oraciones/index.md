@@ -1,5 +1,5 @@
 ---
-title: "Actividad 07:&ensp;Identificando oraciones simples"
+title: "Actividad 07:&ensp;Identificando las oraciones"
 date: 2022-08-25
 layout: single
 weight: 70
@@ -8,7 +8,7 @@ tags:
 - comprension
 draft: false
 toc: false
-description: "Oraciones simples. Sujeto, verbo y predicado."
+description: "Oraciones simples y sus partes. Sujeto, verbo y predicado."
 ---
 
 {{< imagen >}}

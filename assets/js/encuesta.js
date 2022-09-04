@@ -24,9 +24,7 @@ function sumarVoto(voto) {
     let xhr = new XMLHttpRequest();
     let registro = votoPulsado.parentElement.dataset.actividad;
     registro += "-"+votoPulsado.dataset.calificacion;
-    // Para crear nuevos registros...
-    // url = "https://api.countapi.xyz/create?namespace=mejoreslectores.com&key=voto-"+registro;
-    url = "https://api.countapi.xyz/hit/mejoreslectores.com/voto-"+registro;
+    url = "https://api.countapi.xyz/hit/mejoreslectores.com/encuesta-voto-"+registro;
     xhr.open("GET", url);
     xhr.responseType = "json";
     xhr.onload = function() {
@@ -39,3 +37,4 @@ function sumarVoto(voto) {
 votos.forEach(voto => {
   voto.addEventListener('click', function(voto){sumarVoto(voto)}, true)
 });
+

@@ -36,7 +36,7 @@
             <!-- itera por los números 1 al 5 buscando los contarores almacenados para cada uno -->
           {{ range (slice 1 2 3 4 5) }}
             {{ $funcionNombre := printf "%s%s%v" "cb" $actividadNumero . }}
-            {{ $elemento := printf "voto-%s-%v" $actividadNumero . }}
+            {{ $elemento := printf "encuesta-voto-%s-%v" $actividadNumero . }}
             <td id="{{ $elemento }}">
             <script>
               // Maneja el callback, reemplazndo el contenido de cada celda <td> con el valor devuelto por JSONP
@@ -54,3 +54,37 @@
     </tbody>
   </table>
 </div>
+<script type="text/javascript">
+async function reiniciar_contadores() {
+  console.log("Iniciando conteo...")
+  // Configurar números de actividad
+  for (var actividad = 2; actividad <= 1; actividad++) {
+    for (var calificacion = 1; calificacion <= 5; calificacion++) {
+      let delayres = await delay(150);
+      let registro = actividad + "-" + calificacion;
+      let url = "https://api.countapi.xyz/set/mejoreslectores.com/encuesta-voto-" +registro+"?value=0";
+      if (actividad <10) {
+        url = "https://api.countapi.xyz/set/mejoreslectores.com/encuesta-voto-0" +registro+"?value=0";
+      }
+      let xhr = new XMLHttpRequest();
+      xhr.open("GET", url);
+      xhr.responseType = "json";
+      xhr.onload = function() {
+        console.log();
+        console.log(registro, this.response);
+      }
+      // Quitar comentario para enviar peticiones de reinicio de contador
+      // xhr.send();
+    } 
+  }
+}
+function delay(delayInms) {
+  return new Promise(resolve => {
+    setTimeout(() => {
+      resolve(2);
+    }, delayInms);
+  });
+}
+// Vuelve todos los contadores a cero
+// reiniciar_contadores();
+</script>

@@ -298,6 +298,10 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+button:focus {
+    cursor: default;
+    opacity: 0.5;
+}
 
 /* Forms */
 label {
@@ -311,10 +315,10 @@ table {
     table-layout: auto;
     width: auto;
     border-collapse: collapse;
+    /* para centrar la tabla: */
     margin-left: auto;
     /* para centrar la tabla: */
     margin-right: auto;
-    /* para centrar la tabla: */
 }
 th,
 td {
@@ -968,6 +972,7 @@ p:has(figure) {
 }
 /* end FORMATO PÁRRAFOS */
 
+/* RESALTADO DE TEXTO */
 /* Para resaltar palabras */
 p:hover mark {
     background-color: var(--color-bg-violet);
@@ -991,7 +996,7 @@ p:hover mark[oculta] {
 p mark[visible] {
     background-color: var(--color-bg-violet);
 }
-
+/* end RESALTADO DE TEXTO */
 
 /* Sección de encuesta */
 #encuesta {
@@ -1013,10 +1018,12 @@ p mark[visible] {
     font-size: .8rem;
 }
 #encuesta table {
+    table-layout: fixed;
     font-family: var(--font-sans);
     font-size: .7rem;
     margin: 1.5rem auto 2rem;
     text-align: center;
+    width: 100%;
 }
 #encuesta th {
     border: none;
