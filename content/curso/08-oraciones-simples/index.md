@@ -16,7 +16,7 @@ description: "Ejercicios de práctica con oraciones simples."
 
 {{< profe >}}
 En la lección anterior hablamos de **las oraciones**.  
-Pero, ¿por qué es tan importante identificar las oraciones en un texto?  
+Pero ¿por qué es tan importante identificar las oraciones en un texto?  
 
 Para responder a esta pregunta, primero leeremos el siguiente fragmento de una novela de Gabriel García Márquez: 
 {{< /profe >}}
@@ -75,7 +75,7 @@ Algunas pistas para este ejercicio:
 
 
 {{< profe >}}
-Apuntamos en el cuaderno las oraciones del ejercicio anterior, subrayando en cada una las palabras que conforman **el sujeto**.  
+Apuntamos en el cuaderno las oraciones del ejercicio anterior, subrayando en cada una las palabras que conforman **el sujeto**, lo demás será **el predicado**.  
 <br>
 Y, luego, continuaremos con la lectura.  
 <br>
@@ -198,10 +198,20 @@ Para finalizar, el trabajo para hoy es el siguiente:
 - Busca en el texto 10 oraciones simples (con un solo verbo conjugado) y apuntalas en tu cuaderno, **señalando el sujeto** y **el predicado**.  
 
 Por ejemplo:  
-
+<br>
 <ruby>**Todos los niños**<rt>sujeto</rt></ruby> <ruby><em>estaban de pie en las camas</em><rt>predicado</rt></ruby>.  
 <br>
-Y recuerda contestar la encuesta que está más abajo, haciendo clic en la opción que desees. 
+Si el sujeto se encuentra implícito, escríbelo aparte.  
+Por ejemplo:  
+<br>
+<ruby>_Volvamos ahora al cuarto de los niños._
+<rt>predicado</rt></ruby>
+
+SUJETO: **Nosotros**.  
+
+---
+
+**Y recuerda contestar la encuesta que está más abajo, haciendo clic en la opción que desees.**
 {{< /profe >}}
 
 {{< truco >}}
@@ -210,12 +220,5 @@ Y recuerda contestar la encuesta que está más abajo, haciendo clic en la opci�
 De acuerdo, no te ayudaré con las palabras raras. (Ya debes ser experto encontrando palabras desconocidas.) Sin embargo, si quieres puedes ver algunas de las oraciones simples que encontré en el texto, haciendo clic en este botón: &ensp;<button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar oraciones</button>  
 <br>
 Pero, ten presente que algunas de las oraciones que seleccioné tienen el sujeto implícito, es decir, que no está escrito, así que debes escribirlo por aparte.  
-<br>
-Por ejemplo:  
-<br>
-_"Era un chico muy práctico"_.  
-
-- SUJETO: **él**. (Implícito.)  
-- PREDICADO: _era un chico muy práctico_.
 
 {{< /truco >}}
