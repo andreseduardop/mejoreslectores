@@ -257,20 +257,21 @@ Hemos terminado la lectura por hoy. Ahora, vamos a repasar lo aprendido.
 
 Si estuviste atento a la estructura de las oraciones, tal vez pudiste notar que en su mayoría se presentan oraciones compuestas, de todos los tipos que vimos al principio.  
 
-Copia los siguientes ejemplos en el cuaderno:
-
+<br>
+Copia los siguientes ejemplos en el cuaderno:  
+<br>
 <br>
 
 **EJEMPLOS DE ORACIONES SUBORDINADAS**
 
-- "Tendríamos que seguir, porque no sabemos cómo parar." 
+- "<mark v>Tendríamos</mark> que seguir, porque no <mark v>sabemos</mark> cómo parar." 
 
 En este ejemplo, la primera proposición es independiente: “Tendríamos que seguir”. Por sí sola se entiende completamente.  
 Por el contrario, la segunda proposición es subordinada: “porque no sabemos cómo parar”. Esta necesita de la primera para tener sentido.  
 
 <br>
 
-- "Ellos no podían seguirlo en esto con excesivo éxito, de forma que quizás sí que fuera presumir, especialmente porque no hacía más que volverse para ver cuántas colas se le escapaban."
+- "Ellos no <mark v>podían</mark> seguirlo en esto con excesivo éxito, de forma que quizás sí que <mark v>fuera</mark> presumir, especialmente porque no <mark v>hacía</mark> más que volverse para ver cuántas colas se le <mark v>escapaban</mark>."
 
 En este ejemplo aparecen cuatro proposiciones. La primera es: “Ellos no podían seguirlo en esto con excesivo éxito”.   
 Las tres siguientes están subordinadas a la primera, es decir, que dependen de la primera para tener significado.
@@ -279,7 +280,7 @@ Las tres siguientes están subordinadas a la primera, es decir, que dependen de 
 
 **EJEMPLOS DE ORACIONES YUXTAPUESTAS**
 
-- "Era cierto: Peter se había olvidado de enseñarles a parar."
+- "<mark v>Era</mark> cierto: Peter se <mark v>había olvidado</mark> de enseñarles a parar."
 
 En este ejemplo se presentan dos proposiciones separadas por dos puntos ( : ), cada una con sentido completo e independiente una de la otra.
 
@@ -287,13 +288,13 @@ En este ejemplo se presentan dos proposiciones separadas por dos puntos ( : ), c
 
 **EJEMPLOS DE ORACIONES COORDINADAS**
 
-- "Peter no estaba con ellos en ese momento y se sentían bastante desamparados allí arriba por su cuenta."
+- "Peter no <mark v>estaba</mark> con ellos en ese momento y se <mark v>sentían</mark> bastante desamparados allí arriba por su cuenta."
 
 En este ejemplo se presentan dos proposiciones, separadas por una “y”. Cada proposición tiene sentido completo.  
   
 <br>
 
-- "Realmente habrían dormido más tiempo, pero Peter se aburría rápidamente de dormir."
+- "Realmente <mark v>habrían dormido</mark> más tiempo, pero Peter se <mark v>aburría</mark> rápidamente de dormir."
 
 En este ejemplo se presentan dos proposiciones, separadas por la conjunción “pero”. Cada proposición tiene sentido completo y es independiente de la otra.
 {{< /profe >}}

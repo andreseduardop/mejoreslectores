@@ -982,7 +982,8 @@ p:hover mark[adj] {
     background-color: var(--color-bg-green);
 }
 /* para resaltar verbos */
-p:hover mark[v] {
+p:hover mark[v],
+div:hover mark[v] {
     background-color: var(--color-bg-orange);
 }
 p:hover mark[o] {
