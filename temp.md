@@ -55,3 +55,26 @@ https://www.customguide.com/es/word/buscar-y-reemplazar-avanzado
 Andrese_13
 
 Mcsspd_2*
+
+
+## ORACIONES COORDINADAS
+
+### Copulativas (y, i, e, ni)
+
+En la negra chistera la luz quedaba completamente oculta y siguieron volando en silencio.
+
+El rugido resonó por las montañas y los ecos parecían gritar salvajemente.
+
+Sígueme y todo saldrá bien.
+
+Los oímos antes de verlos y siempre es la misma canción terrible
+
+### Adversativa
+
+Iban dando vueltas y más vueltas por la isla, pero no se encontraban porque todos llevaban el mismo paso.
+
+Ojalá nos pudiera oír, pero nosotros no estamos realmente en la isla y él pasa de largo, mordisqueándose los nudillos.
+
+No obstante, les está permitido cambiar, aunque debe ser un cambio total.
+
+

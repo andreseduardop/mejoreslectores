@@ -983,7 +983,7 @@ p:hover mark[adj] {
 }
 /* para resaltar verbos */
 p:hover mark[v],
-div:hover mark[v] {
+ul:hover mark[v] {
     background-color: var(--color-bg-orange);
 }
 p:hover mark[o] {
