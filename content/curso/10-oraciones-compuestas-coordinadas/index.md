@@ -16,7 +16,7 @@ En la lección anterior vimos de forma general las oraciones compuestas y su cla
 
 Las **oraciones coordinadas** son oraciones conformadas por dos o más proposiciones independientes, que están unidas por conjunciones como: y, o, pero, aunque, sin embargo, es decir, etc.  
 
-Por ejemplo: 
+Ejemplos: 
 
 - <ruby>El rugido resonó<rt>proposición__uno</rt></ruby> **y** <ruby>los ecos parecían gritar.<rt>proposición__dos</rt></ruby>
 
@@ -120,7 +120,7 @@ Está bien, puedes pedir algo de ayuda a Aike. 😉
 {{< truco >}}
 ¡Wow! Hoy la profe Zelma está generosa, je, je.   
 
-Bueno, si quieres mi ayuda, puedes ver las **siete oraciones coordinadas** que encontré en la lectura de hoy, haciendo clic en este botón:
+Entonces, si quieres mi ayuda, puedes ver las **siete oraciones coordinadas** que encontré en la lectura de hoy, haciendo clic en este botón:
 <button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar oraciones coordinadas</button>
 <br><br><br>
 Y, recuerda, copiarlas en tu cuaderno. ✔️
