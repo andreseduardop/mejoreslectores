@@ -249,6 +249,7 @@ hr {
 main ul,
 main ol {
     margin-left: 1.5rem;
+    margin-top: 1.5rem;
 }
 main li+li {
     margin-top: 0.25rem;

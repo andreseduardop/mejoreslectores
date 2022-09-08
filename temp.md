@@ -40,7 +40,10 @@ Andrese_13
 Mcsspd_2*
 
 
- definición de la audiencia, guión del contenido, aplicación, vinculaciones y evaluación. Definir el tipo de RED.
+## YUXTAPUESTAS
+
+Los perseguidores llevaban la lengua fuera; sus aullidos eran espantosos.
+
+¿Pero qué podemos hacer, qué podemos hacer?
 
 
-Un

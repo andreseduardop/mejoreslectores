@@ -1,8 +1,8 @@
 ---
 title: "Actividad 10:&ensp;Oraciones coordinadas"
-date: 2022-09-05
+date: 2022-09-06
 layout: single
-weight: 90
+weight: 100
 tags: 
 - cursos
 - comprension
@@ -85,10 +85,10 @@ El primero en pasar es Lelo, no el menos valiente, pero sí el más desgraciado 
 
 Los chicos desaparecen en la oscuridad y al cabo de un rato, pero no muy largo, ya que las cosas ocurren deprisa en la isla, aparecen los piratas siguiendo su rastro. <mark oculta>Los <mark v>oímos</mark> antes de verlos y siempre <mark v>es</mark> la misma canción terrible</mark>:
 
-_¡Avanza y vira, barco pirata, 
-iza las velas frente al galerno!
-Que si la muerte nos arrebata,
-ya nos veremos en el infierno._
+_¡Avanza y vira, barco pirata,  
+iza las velas frente al galerno!  
+Que si la muerte nos arrebata,  
+ya nos veremos en el infierno._  
 
 Jamás colgó en hilera en el Muelle de las Ejecuciones (Muelle de Wapping donde eran ejecutados los marinos criminales.) una banda de aire más malvado. Aquí, algo adelantado, inclinando la cabeza hacia el suelo una y otra vez para escuchar, con los grandes brazos desnudos y las orejas adornadas con monedas de cobre, llega el guapo italiano Cecco, que grabó su nombre con letras de sangre en la espalda del alcaide de la prisión de Gao. Ese negro gigantesco que va detrás de él ha tenido muchos nombres desde que dejara ése con el que las madres morenas siguen aterrorizando a sus hijos en las riberas del Guidjo-mo. He aquí a Bill Jukes, tatuado de arriba a abajo, el mismo Bill Jukes al que Flint, a bordo del Walrus, propinara seis docenas de latigazos antes de que aquél soltara la bolsa de moidores ; y Cookson, de quien se dice que era hermano de Murphy el Negro (aunque esto nunca se probó); y el caballero Starkey, en otros tiempos portero de un colegio privado y todavía elegante a la hora de matar; y Claraboyas (Claraboyas de Morgan); y Smee, el contramaestre irlandés, un hombre curiosamente afable que acuchillaba, como si dijéramos, sin ofender y era el único disidente  de la tripulación de Garfio; y Noodler, cuyas manos estaban colocadas al revés; y Robert Mullins y Alf Mason y muchos otros rufianes bien conocidos y temidos en el Caribe.
 
