@@ -38,12 +38,3 @@ https://www.customguide.com/es/word/buscar-y-reemplazar-avanzado
 Andrese_13
 
 Mcsspd_2*
-
-
-## YUXTAPUESTAS
-
-Los perseguidores llevaban la lengua fuera; sus aullidos eran espantosos.
-
-¿Pero qué podemos hacer, qué podemos hacer?
-
-
