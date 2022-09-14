@@ -25,7 +25,7 @@ Hoy vamos a iniciar con un corto video sobre los signos de puntuación y su func
 {{< profe >}}
 Continuemos la lectura de “Peter Pan y Wendy”, haciendo las pausas y entonaciones correspondientes a la puntuación. Y prestando atención a la forma en que los signos nos permiten reconocer el sentido del texto.  
 <br>
-Recuerda que los puntos separan oraciones, es decir, los puntos sirven para separar las ideas. Y la comas indican pausas pequeñas.
+Recuerda que los puntos separan oraciones, es decir, los puntos sirven para separar las ideas. Y las comas indican pausas pequeñas.
 {{< /profe >}}
 
 ---

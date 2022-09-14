@@ -1,5 +1,5 @@
 ---
-title: "Actividad 02:&ensp;Antes de comenzar..."
+title: "Actividad 02:&ensp;Conocimientos previos"
 date: 2022-08-17
 layout: single
 weight: 20
