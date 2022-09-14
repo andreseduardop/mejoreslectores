@@ -91,6 +91,8 @@ O pongamos que hablamos de los pájaros que eran amigos de Peter, especialmente 
 He lanzado la moneda y ha ganado la laguna. Esto casi le hace a uno desear que hubiera ganado el barranco o el pastel o la hoja de Campanilla. Claro que podría volver a hacerlo tres veces más y elegir la aventura que se repitiera; no obstante, quizás lo más justo sea quedarse con la laguna.
 
 {{< profe >}}
+Hemos terminado la lectura de hoy.  
+
 Ahora, usando la información que encontraste en el texto y la que inferiste, elabora en el cuaderno un dibujo detallado de la casa subterránea.  
 
 Y, recuerda también apuntar las palabras raras o desconocidas de hoy.
