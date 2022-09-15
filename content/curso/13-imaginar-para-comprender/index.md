@@ -8,7 +8,7 @@ tags:
 - comprension
 draft: false
 toc: false
-description: "Imaginando."
+description: "Imaginar nos ayuda a comprender."
 ---
 
 
