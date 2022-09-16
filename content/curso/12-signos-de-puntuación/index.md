@@ -277,8 +277,8 @@ Con unos buenos puñetazos hicieron las ventanas y unas grandes hojas amarillas 
 
 -Rosas -gritó Peter imperiosamente.
 Rápidamente fingieron que las rosas más hermosas crecían trepando por las paredes.
-¿Bebés?
-Para evitar que Peter pidiera bebés se apresuraron a volver a cantar:
+¿niños con cortesía?
+Para evitar que Peter pidiera más niños se apresuraron a volver a cantar:
 
 _Ya hay ventanas formidables,  
 rosas y niños amables.  
