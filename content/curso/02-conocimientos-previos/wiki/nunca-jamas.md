@@ -12,6 +12,6 @@ Nunca Jamás es una lejana y exótica isla donde los niños no crecen y viven si
 [**VOLVER**](../)
 
 ![](../img/neverland.jpg)
-<small>**Fig.1:** Versión de el país de Nunca Jamás (_Neverland_) en un videojuego.
+<small>**Fig.1:** Versión de el país de Nunca Jamás (_Neverland_) en un videojuego.</small>
 
 [**VOLVER**](../)
