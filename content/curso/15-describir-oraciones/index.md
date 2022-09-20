@@ -55,7 +55,7 @@ Pero, no la puedes copiar.
 <details>
 <summary><span class="bigger">Clic aquí para ver mi dibujo</span></summary>
 <img src="img/nido-en-el-agua.png">
-<em>"Era el nido del que os he hablado, que flotaba en la laguna y el ave de Nunca Jamás estaba posada en él."</em>
+<em>"Era el nido del que os he hablado, que <strong>flotaba</strong> en la laguna y el ave de Nunca Jamás <strong>estaba posada</strong> en él."</em>
 </details>
 <br>
 {{< /truco >}}
