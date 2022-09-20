@@ -28,20 +28,25 @@ Hoy vamos a ver cómo se combinan con otras palabras para formar oraciones.
 {{< profe >}}
 Resumiendo…  
 
-La Oración es el fragmento más pequeño capaz de comunicar una idea completamente y mantener su independencia sintáctica. Está formada por:  
+1. La Oración es el fragmento más pequeño capaz de comunicar una idea completamente y mantener su independencia sintáctica. 
+1. Una oración siempre inicia por con una letra mayúscula y finaliza con un punto o con un signo de interrogación (?) o uno de exclamación (!).  
+1. Las oraciones pueden ser: simples o compuestas. Dependiendo de cuantos verbos conjuados tengan.
+1. Las oraciones simples se distinguen porque tiene por un **único verbo conjugado**. Ejemplo:   
+_Ellos **trajeron** dulces._  
+1. Una oración está formada por:  
+    1. **Sujeto:** Es quien realiza la acción del verbo.  
+    1. **Predicado:** Indica la acción que realiza el sujeto. Se conforma por un verbo conjugado que puede estár acompañado de otras palabras.  
+1. Ejemplo: 
+    _Mi amigo Juan tiene una bicicleta._
+    1. **Sujeto:** _Mi amgio Juan._
+    1. **Predicado:** _tiene una bicicleta._
+
 <br>
-- **Sujeto:** quien realiza la acción del verbo.  
-_(**Mi amigo Juan** tiene una bicicleta.)_  
+Ahora, vamos a continuar leyendo "Peter Pan y Wendy". Y durante la lectura trata de identificar oraciones simples; recuerda que estas se identifican porque tienen un solo verbo conjugado.  
 <br>
-- **Predicado:** indica lo que hace el sujeto.  
-_(Mi amigo Juan **tiene una bicicleta**.)_  
 <br>
 
-Las oraciones pueden ser: simples o compuestas. Las oraciones simples se distinguen porque están formadas por **un único verbo**: _Ellos **trajeron** dulces._  
-<br>
-Ahora, vamos a continuar leyendo "Peter Pan y Wendy". Y durante la lectura trata de identificar oraciones simples, compuestas por sujeto y predicado.  
-<br>
-**El trabajo de hoy es:** 
+**El trabajo para hoy consiste en:** 
 - Copiar en tu cuaderno al menos 10 oraciones simples que encuentres en la lectura.
 - Identificar las palabras desconocidas y copiarlas en el glosario de tu cuaderno, junto con su significado.
 {{< /profe >}}
