@@ -8,7 +8,7 @@ tags:
 - comprension
 draft: false
 toc: false
-description: "Creando historias alternativas."
+description: "Describir oraciones con imágenes."
 ---
 
 {{< profe >}}

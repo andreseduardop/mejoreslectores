@@ -239,6 +239,7 @@ hr {
     color: var(--color-strong);
     background-color: var(--color-strong);
     border: none;*/
+    border: 0;
     border-top: 2px solid var(--color-txt);
 }
 .bigger {

@@ -11,9 +11,7 @@ https://coolors.co/fefbeb-f9c80e-f86624-da4a07-ea3546-9c3dcc
 
 ## H5P
 
-https://h5p.org/h5p/embed/1293487
-https://h5p.org/h5p/embed/1289731
-
+https://h5p.org/h5p/embed/1301780
 
 
 ## countapi.xyz
@@ -36,10 +34,4 @@ https://www.customguide.com/es/word/buscar-y-reemplazar-avanzado
 
 
 
-## COMPRENSIÓN DE ORACIONES. ACTIVIDADES:
 
-- Dibujos de oraciones.
-  - Ordenar secuencias de dibujos.
-  - Seleccionar la oración que describe el dibujo.
-- Análisis de oraciones compuestas complejas. 
-▼

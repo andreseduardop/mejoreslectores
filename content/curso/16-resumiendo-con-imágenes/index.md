@@ -6,15 +6,15 @@ weight: 160
 tags: 
 - cursos
 - comprension
-draft: false
+draft: true
 toc: false
-description: "Creando historias alternativas."
+description: "Resumiendo con imágenes."
 ---
 
 {{< profe >}}
-Lee atentamente, atendiendo al orden en que ocurren los sucesos en la narración de hoy.  
+En el capítulo de hoy continuaremos practicando en uso de imágenes para mejorar la comprensión.  
 
-Al final podrás evaluar tu comprensión...
+Tu trabajo es elaborar un resumen utilizando 
 {{< /profe >}}
 
 
