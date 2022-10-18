@@ -1,6 +1,6 @@
 ---
 title: "Actividad 20:&ensp;Inferencias."
-date: 2022-10-17
+date: 2022-10-18
 layout: single
 weight: 200
 tags: 
@@ -8,7 +8,7 @@ tags:
 - comprension
 draft: false
 toc: false
-description: "Cómo elaborar resúmenes para mejorar nuestra comprensión de un texto. Parte 2."
+description: "Inferencias: Qué son, para qué sirven y cómo realizarlas."
 ---
 
 {{< profe >}}
@@ -114,8 +114,10 @@ Los desafortunados niños respondieron con un grito de júbilo que sonó como m�
 
 {{< profe >}}
 **Quinta inferencia.**  
+\
 ¿Qué sucederá ahora?
 
 Para finalizar la lección de hoy, copia esta última pregunta y respóndela en tu cuaderno.  
-
+\
+También, recuerda copiar en tu glosario las palabras raras o desconocidas que encontraste en la lectura de hoy.
 {{< /profe >}}
