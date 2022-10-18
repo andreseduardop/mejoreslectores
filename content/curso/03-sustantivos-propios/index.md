@@ -69,7 +69,7 @@ Recuerda aplicar lo que aprendiste hace un momento, acerca de los **sustantivos 
     caption="Portada del libro">}}
 
 
-## 1. Aparece Peter
+## Capítulo 1. Aparece Peter
 
 Todos los niños crecen, excepto uno. No tardan en saber que van a crecer y Wendy lo supo de la siguiente manera. Un día, cuando tenía dos años, estaba jugando en un jardín, arrancó una flor más y corrió hasta su madre con ella. Supongo que debía estar encantadora, ya que la señora Darling se llevó la mano al corazón y exclamó:
 

@@ -12,7 +12,7 @@ description: "Práctica. Identificar nuevos personajes, palabras desconocidas, o
 ---
 
 
-## 5. La isla hecha realidad (continuación)
+## Capítulo 5. La isla hecha realidad (continuación)
 
 Tras los pasos de los piratas, deslizándose en silencio por el sendero de la guerra, que no es visible para ojos inexpertos, llegan los pieles rojas, todos ellos ojo avizor. Llevan hachas y cuchillos y sus cuerpos desnudos relucen de pintura y aceite. Atadas a la cintura llevan cabelleras, tanto de niños como de piratas, ya que son la tribu piccaninny y no hay que confundirlos con los delawares o los hurones, más compasivos. En vanguardia, a cuatro patas, va Gran Pantera Pequeña, un valiente con tantas cabelleras que en su postura actual le impiden un poco avanzar. En retaguardia, el puesto de mayor peligro, va Tigridia, orgullosamente erguida, princesa por derecho propio. Es la más hermosa de las Dianas morenas y la beldad de los piccaninnis, coqueta, fría y enamoradiza por turnos: no hay un solo valiente que no quisiera a la caprichosa por mujer, pero ella mantiene a raya el altar con un hacha. Mirad cómo pasan por encima de ramitas secas sin hacer el más mínimo ruido. <mark oculta>Lo único que se <mark v>oye</mark> es su respiración algo jadeante.</mark> La verdad es que en estos momentos están todos un poco gordos después de las comilonas, pero ya perderán peso a su debido tiempo. Por ahora, sin embargo, esto constituye su mayor peligro.
 

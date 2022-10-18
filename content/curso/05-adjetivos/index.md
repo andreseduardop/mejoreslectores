@@ -43,7 +43,7 @@ Comprobaremos que los adjetivos son palabras bastante frecuentes. Y veremos cóm
 ---
 
 
-## 2. La sombra (continuación)
+## Capítulo 2. La sombra (continuación)
 
 -No quiero irme a la cama -chilló Michael, como quien piensa que tiene la <mark adj>última</mark> palabra sobre el asunto-. No quiero, no quiero. Nana, todavía no son las seis. Por favor, por favor, ya no te querré más, Nana. ¡Te digo que no me quiero bañar, no y no!
 

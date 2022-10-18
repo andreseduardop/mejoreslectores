@@ -26,7 +26,7 @@ Al final, selecciona una oración completa de la lectura, escríbela en tu cuade
 ---
 
 
-## 8. La laguna de las sirenas (continuación)
+## Capítulo 8. La laguna de las sirenas (continuación)
 
 
 (En la roca de los Abandonados, Garfio habla con Starkey y Smee. Wendy y Peter los observan desde el agua.)

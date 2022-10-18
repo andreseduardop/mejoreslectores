@@ -21,7 +21,6 @@ Hoy vamos a iniciar con un corto video sobre los signos de puntuación y su func
 
 {{< youtube 5dDFKnCggho >}}
 
-
 {{< profe >}}
 Continuemos la lectura de “Peter Pan y Wendy”, haciendo las pausas y entonaciones correspondientes a la puntuación. Y prestando atención a la forma en que los signos nos permiten reconocer el sentido del texto.  
 <br>
@@ -30,7 +29,7 @@ Recuerda que los puntos separan oraciones, es decir, los puntos sirven para sepa
 
 ---
 
-## 6. La casita
+## Capítulo 6. La casita
 
 (Al final del capítulo anterior: Lelo, engatusado por Campanilla, disparó una flecha a Wendy.)
 

@@ -32,7 +32,7 @@ Pero, no le cuentes a la profe Zelma.
 
 ---
 
-## 1. Aparece Peter (continuación)
+## Capítulo 1. Aparece Peter (continuación)
 
 De todas las islas maravillosas, la de Nunca Jamás es la más <mark>acogedora</mark> y la más <mark>comprimida</mark>: no se trata de un lugar grande y <mark>desparramado</mark>, con incómodas distancias entre una aventura y la siguiente, sino que todo está agradablemente <mark>amontonado</mark>. Cuando se juega en ella durante el día con las sillas y el mantel, no da ningún miedo, pero en los dos minutos antes de quedarse uno dormido se hace casi realidad. Por eso se ponen luces en las mesitas de noche.
 
@@ -111,7 +111,7 @@ El sueño de por sí no habría tenido importancia alguna, pero mientras soñaba
 Se <mark>sobresaltó</mark> soltando un grito y vio al chiquillo y de alguna manera supo al instante que se trataba de Peter Pan. Si vosotros o Wendy o yo hubiéramos estado allí nos habríamos dado cuenta de que se parecía mucho al beso de la señora Darling. Era un niño encantador, vestido con hojas secas adheridas con sabia de árboles, pero la cosa más deliciosa que tenía era que conservaba todos sus dientes de leche. Cuando se dio cuenta de que ella era un adulto, <mark>rechinó</mark> aquellas diminutas perlas, mostrándoselas.
 
 
-## 2. La sombra
+## Capítulo 2. La sombra
 
 La señora Darling gritó y, como en respuesta a una llamada, se abrió la puerta y entró Nana, que volvía de su tarde libre. Gruñó y se lanzó contra el niño, el cual saltó ágilmente por la ventana. La señora Darling volvió a gritar, esta vez angustiada por él, pues pensó que se había matado y bajó corriendo a la calle para buscar su cuerpecito, pero no estaba allí; levantó la vista y no vio nada en la oscuridad de la noche, salvo algo que le pareció una estrella fugaz.
 

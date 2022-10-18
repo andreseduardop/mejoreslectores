@@ -27,7 +27,7 @@ Y, durante la lectura trataremos de identificar la estructura de las oraciones. 
 {{< /profe >}}
 
 
-## 4. El vuelo (continuación)
+## Capítulo 4. El vuelo (continuación)
 
 (Llevaban bastante tiempo volando hacia el país de Nunca Jamás. A John la parecía que iban ya por su segundo mar y su tercera noche. En el momento en que se dormían, empezaban a caer. Lo espantoso era que a Peter eso le parecía divertido.
 -¡Allá va otra vez! -gritaba regocijado, cuando Michael caía de pronto como una piedra.)

@@ -1,4 +1,7 @@
 
+Elaborar el resumen de un texto narrativo: Ejemplo
+
+Para aprender mejor un 
 
 descargar libro Multimedia Learning
 
@@ -33,4 +36,5 @@ https://www.youtube.com/watch?v=El-i2hYbdbU
 https://www.customguide.com/es/word/buscar-y-reemplazar-avanzado 
 
 
+Does the watch cycle thru the Moon phases accurately?
 

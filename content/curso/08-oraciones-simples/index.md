@@ -86,7 +86,7 @@ En nuestra lección anterior Peter Pan había logrado convencer a Wendy para que
 ---
 
 
-## 3. ¡Vámonos, Vámonos! (continuación)
+## Capítulo 3. ¡Vámonos, Vámonos! (continuación)
 
 
 <mark oculta>Volvamos ahora al cuarto de los niños</mark>…
@@ -175,7 +175,7 @@ Entonces Peter supo que no había tiempo que perder.
 El señor y la señora Darling y Nana se precipitaron en el cuarto de los niños demasiado tarde. Los pájaros habían volado.
 
 
-## 4. El vuelo
+## Capítulo 4. El vuelo
 
 La segunda a la derecha y todo recto hasta la mañana. Ése, según le había dicho Peter a Wendy, era el camino hasta el País de Nunca Jamás, pero ni siquiera los pájaros, contando con mapas y consultándolos en las esquinas expuestas al viento, podrían haberlo avistado siguiendo estas instrucciones. Es que Peter decía lo primero que se le ocurría.
 

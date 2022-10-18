@@ -28,7 +28,7 @@ Veamos cuántas oraciones coordinadas puedes encontrar en la lectura.
 
 ---
 
-## 4. El vuelo (continuación)
+## Capítulo 4. El vuelo (continuación)
 
 (-Si al menos uno de nosotros tuviera un bolsillo -dijo Peter- la podríamos llevar con él. Sin embargo, habían salido con tantas prisas que ninguno de los cuatro tenía un solo bolsillo.)
 
@@ -67,7 +67,7 @@ Campanilla no era toda maldad: o, más bien, era toda maldad en ese momento, per
 ¿Qué otra cosa podía hacer la pobre Wendy? Llamó a Peter, a John y a Michael y lo único que obtuvo como respuesta fueron ecos burlones. Aún no sabía que Campanilla la odiaba con el odio feroz de una auténtica mujer. Y por eso, aturdida y volando ahora a trompicones, siguió a Campanilla hacia su perdición.
 
 
-## 5. La isla hecha realidad
+## Capítulo 5. La isla hecha realidad
 
 Al sentir que Peter regresaba, el País de Nunca jamás revivió de nuevo. Deberíamos emplear el pluscuamperfecto y decir que había revivido, pero revivió suena mejor y era lo que siempre empleaba Peter.
 

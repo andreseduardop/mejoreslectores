@@ -1,28 +1,28 @@
 ---
-title: "Actividad 18:&ensp;Resumir para comprender. Parte 1."
+title: "Actividad 19:&ensp;Resumir para comprender. Parte 2."
 date: 2022-09-22
 layout: single
-weight: 180
+weight: 190
 tags: 
 - cursos
 - comprension
 draft: false
 toc: false
-description: "Cómo elaborar resúmenes para mejorar nuestra comprensión de un texto. Parte 1."
+description: "Cómo elaborar resúmenes para mejorar nuestra comprensión de un texto. Parte 2."
 ---
 
 {{< profe >}}
-¿Cómo crees que puedes mejorar tu comprensión lectora?  
-¿Comprender un texto se basa únicamente en leer, leer y leer hasta entenderlo?  
-¿Existirán algunas estrategias que nos faciliten la comprensión de un texto, ahorrándonos tiempo y esfuerzo?   
-<br>
-¡Te tengo buenas noticias! Sí existen técnicas para mejorar nuestros procesos lectores. Una de las claves para comprender un texto es aplicar **estrategias de comprensión**. Así que comenzaremos por aprender la estrategia más sencilla: elaborar resúmenes.  
-<br>
-Esta lección se divide en dos partes. Hoy realizaremos la lectura de un capítulo completo. Y en la siguiente sesión te contaré algunas claves para elaborar el resumen.  
-<br>
-¡Comencemos!
+Hoy continuaremos aprendiendo cómo elaborar un resumen.  
+Para iniciar, veamos el siguientes video.
 {{< /profe >}}
 
+
+{{< youtube 2e8FU82I6oc >}}
+
+
+{{< profe >}}
+A continuación encontramos de nuevo el mismo capítulo de la lección anterior. En esta ocasión, nuestro trabajo será elaborar un resumen de éste, siguiendo las instrucciones que nos han explicado en el video.
+{{< /profe >}}
 
 ---
 
@@ -308,3 +308,9 @@ No parecía que hubiera nada más que decir y se hizo un silencio tenso. Sin emb
 Campanilla subió disparada por el árbol más cercano, pero nadie la siguió, ya que fue en ese momento cuando los piratas desataron su tremendo ataque sobre los pieles rojas. Arriba, donde todo había estado tranquilo, el aire se llenó de alaridos y del choque de las armas. Abajo, había un silencio total. Las bocas se abrieron y se quedaron abiertas. Wendy cayó de rodillas, pero tendió los brazos hacia Peter. Todos los brazos estaban tendidos hacia él, como si de pronto un viento los hubiera llevado en esa dirección: le rogaban sin palabras que no los abandonara. En cuanto a Peter, tomó su espada, la misma con la que creía haber matado a Barbacoa, y sus ojos relampaguearon con el ansia de batalla.
 
 (Continuará.)
+
+{{< profe >}}
+En esta lección hemos aprendido cómo elaborar un resumen y lo practicamos con un capítulo de la novela que estamos leyendo.  
+Esto es todo por hoy.  
+Nos vemos en la siguiente lección. :)
+{{< /profe >}}

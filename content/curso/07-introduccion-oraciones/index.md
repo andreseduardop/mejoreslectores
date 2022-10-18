@@ -54,7 +54,7 @@ Ahora, vamos a continuar leyendo "Peter Pan y Wendy". Y durante la lectura trata
 
 ---
 
-## 3. ¡Vámonos, Vámonos! (continuación)
+## Capítulo 3. ¡Vámonos, Vámonos! (continuación)
 
 
 (<mark o><ruby>Peter y Wendy<rt>sujeto</rt></ruby> <mark v><ruby>estaban<rt>verbo</rt></ruby></mark> conversando</mark>…)

@@ -6,7 +6,7 @@ weight: 160
 tags: 
 - cursos
 - comprension
-draft: true
+draft: false
 toc: false
 description: "Resumiendo con imágenes."
 ---
@@ -14,13 +14,13 @@ description: "Resumiendo con imágenes."
 {{< profe >}}
 En el capítulo de hoy continuaremos practicando en uso de imágenes para mejorar la comprensión.  
 
-Tu trabajo es elaborar un resumen utilizando 
+Tu trabajo es elaborar un resumen de éste capítulo utilizando viñetas como en un comic.
 {{< /profe >}}
 
 
 ---
 
-## 9. El ave de Nunca Jamás
+## Capítulo 9. El ave de Nunca Jamás
 
 
 Lo último que oyó Peter antes de quedarse solo fue a las sirenas retirándose una tras otra a sus dormitorios submarinos. Estaba demasiado lejos para oír cómo se cerraban sus puertas, pero cada puerta de las curvas de coral donde viven hace sonar una campanita cuando se abre o se cierra (como en las casas más elegantes del mundo real) y sí que oyó las campanas.
@@ -67,12 +67,3 @@ Por supuesto, cuando Peter llegó a tierra varó su embarcación en un lugar don
 
 Hubo gran alegría cuando Peter llegó a la casa subterránea casi tan pronto como Wendy, a quien la cometa había llevado de un lado a otro. Cada uno de los chicos tenía una aventura que contar, pero quizás la aventura más grande de todas fuera que se les había pasado con mucho la hora de irse a la cama. Esto los envalentonó tanto que intentaron diversos trucos para conseguir quedarse levantados aún más tiempo, tales como pedir vendas, pero Wendy, aunque se regocijaba de tenerlos a todos de nuevo en casa sanos y salvos, estaba escandalizada por lo tarde que era y exclamó: «A la cama, a la cama» en un tono que no quedaba más remedio que obedecer. Sin embargo, al día siguiente estuvo cariñosísima y les puso vendas a todos y estuvieron jugando hasta la hora de acostarse a andar cojeando y llevar el brazo en cabestrillo.
 
-
-{{< profe-actividad 
-    numero="1" 
-    titulo= ""
-    icono=true
-    >}}
-Ordena las siguientes oraciones en el mismo orden que ocurren en la lectura de hoy.
-
-{{< /profe-actividad >}}

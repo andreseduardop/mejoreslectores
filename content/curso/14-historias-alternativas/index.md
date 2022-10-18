@@ -24,7 +24,7 @@ Comencemos…
 ---
 
 
-## 8. La laguna de las sirenas
+## Capítulo 8. La laguna de las sirenas
 
 
 Si uno cierra los ojos y tiene suerte, puede ver a veces un charco informe de preciosos colores pálidos flotando en la oscuridad; entonces, si se aprietan aún más los ojos, el charco empieza a cobrar forma y los colores se hacen tan vívidos que con otro apretón estallarán en llamas. Pero justo antes de que estallen en llamas se ve la laguna. Esto es lo más cerca que se puede llegar en el mundo real, un momento glorioso; si pudiera haber dos momentos se podría ver el oleaje y oír a las sirenas cantar.

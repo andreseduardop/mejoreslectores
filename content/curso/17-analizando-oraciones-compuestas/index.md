@@ -37,7 +37,7 @@ Comencemos...
 ---
 
 
-## 10. El hogar feliz
+## Capítulo 10. El hogar feliz
 
 Una consecuencia importante de la escaramuza de la laguna fue que los pieles rojas se hicieron sus amigos. Peter había salvado a Tigridia de un horrible destino y ahora no había nada que sus bravos y ella no estuvieran dispuestos a hacer por él. Se pasaban toda la noche sentados arriba, vigilando la casa subterránea y esperando el gran ataque de los piratas que evidentemente ya no podía tardar mucho en producirse. Incluso de día rondaban por ahí, fumando la pipa de la paz y con el aire más amistoso del mundo.
 

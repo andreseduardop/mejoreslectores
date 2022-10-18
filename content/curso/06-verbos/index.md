@@ -41,7 +41,7 @@ Y, si encuentras alguna palabra rara o desconocida, recuerda que puedes hacer do
 ---
 
 
-## 2. La sombra (continuación)
+## Capítulo 2. La sombra (continuación)
 
 -Ése no <mark v>es</mark> el ladrido de queja de Nana -dijo Wendy, sin <mark v>sospechar</mark> lo que <mark v>estaba</mark> a punto de <mark v>ocurrir</mark>-, ése <mark v>es</mark> el ladrido de cuando <mark v>huele</mark> algún peligro…
 
@@ -70,7 +70,7 @@ El número 27 sólo <mark v>estaba</mark> a unas cuantas yardas de distancia, pe
 -¡Ahora, Peter!
 
 
-## 3. ¡Vámonos, Vámonos!
+## Capítulo 3. ¡Vámonos, Vámonos!
 
 Durante un rato después de que el señor y la señora Darling se <mark v>fueran</mark> de la casa, las lamparillas que <mark v>estaban</mark> junto a las camas de los tres niños <mark v>siguieron</mark> <mark v>ardiendo</mark> alegremente. <mark v>Eran</mark> unas lamparillas encantadoras y <mark v>habría</mark> <mark v>sido</mark> de <mark v>desear</mark> que <mark v>pudieran</mark> <mark v>haberse</mark> <mark v>mantenido</mark> despiertas para <mark v>ver</mark> a Peter, pero la lamparilla de Wendy <mark v>parpadeó</mark> y <mark v>soltó</mark> un bostezo tal que las otras dos también <mark v>bostezaron</mark> y antes de <mark v>cerrar</mark> la boca las tres se <mark v>habían</mark> <mark v>apagado</mark>.
 

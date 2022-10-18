@@ -20,7 +20,7 @@ Buena suerte en tu búsqueda de pistas.
 {{< /profe >}}
 
 
-## 7. La casa subterránea
+## Capítulo 7. La casa subterránea
 
 Una de las primeras cosas que hizo Peter al día siguiente fue tomar medidas a Wendy, John y Michael para unos árboles huecos. Recordaréis que Garfio se había burlado de los chicos por creer que necesitaban un árbol por persona, pero lo hizo por ignorancia, ya que a menos que el árbol se adecuase a las medidas de uno costaba subir y bajar y no había dos chicos que fueran exactamente del mismo tamaño. Una vez que se encajaba, uno tomaba aliento en la superficie y bajaba justo a la velocidad apropiada, mientras que para ascender se tomaba aliento y se soltaba alternativamente y de esta forma se subía serpenteando. Naturalmente, cuando uno domina el asunto se pueden hacer estas cosas sin pensarlas y entonces nada resulta más elegante.
 
