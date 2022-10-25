@@ -21,8 +21,6 @@ Para comenzar, veamos un breve video.
 {{< youtube FLnIzteKZsQ >}}
 
 
----
-
 {{< profe >}}
 **Primera inferencia.**  
 En el capítulo anterior los piratas tomaron por sorpresa a los pieles roja y ahora esperan escondidos a que los niños salgan de la casa subterránea.  
@@ -32,6 +30,8 @@ Copia la siguiente pregunta y respóndela en tu cuaderno:
 <br>
 {{< /profe >}}
 
+
+---
 
 ## Capítulo 13. ¿Creéis en las hadas?
 
@@ -209,6 +209,6 @@ Entonces avanzó arrastrándose como una serpiente y luego, erguido, cruzó como
 {{< profe >}}
 **Última inferencia.**  
 Copia la pregunta y respóndela en tu cuaderno:  
-**¿Si fueras Peter Pan, la última esperanza de los niños, cómo los salvarías?**  
+**Si fueras Peter Pan, la última esperanza de los niños, ¿cómo los salvarías?**  
 <br>
 {{< /profe >}}
