@@ -1,11 +1,5 @@
-
-Elaborar el resumen de un texto narrativo: Ejemplo
-
-Para aprender mejor un 
-
 descargar libro Multimedia Learning
 
-Contraseña Office: mcsspo_2**
 
 ## Colores
 
@@ -31,10 +25,8 @@ BUSCAR Y REEMPLAZAR
 ===================
 
 Hacer grupos y escapar caracteres < > con \< y \>
-(\<mark oculta\>)(*)(\</mark\>)
+(\<mark oculta\>)(*)(\</mark\>) 
+---
+## Tutoriales
 https://www.youtube.com/watch?v=El-i2hYbdbU
 https://www.customguide.com/es/word/buscar-y-reemplazar-avanzado 
-
-
-Does the watch cycle thru the Moon phases accurately?
-

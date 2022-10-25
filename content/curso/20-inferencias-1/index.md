@@ -1,5 +1,5 @@
 ---
-title: "Actividad 20:&ensp;Inferencias."
+title: "Actividad 20:&ensp;Inferencias. Parte 1."
 date: 2022-10-18
 layout: single
 weight: 200
@@ -38,7 +38,7 @@ Luego, a partir de lo que nos expliquen en el video, vamos a ejercitar nuestra h
 {{< profe >}}
 **Primera inferencia.**  
 Copia la siguiente pregunta y responde en tu cuaderno.  
-De acuerdo con el título de este capítulo: "El rapto de los niños", ¿qué crees que va a ocurrir?
+De acuerdo con el título de este capítulo, "El rapto de los niños", ¿qué crees que va a ocurrir?
 {{< /profe >}}
 
 
