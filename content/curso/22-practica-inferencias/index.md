@@ -82,13 +82,13 @@ Es curioso que pensara en esto, que antes jamás lo había preocupado: quizás l
 
 
 {{< profe >}}
-Truco!!  
+¡¡Truco!!  
 
 ¿¡Tú de nuevo por aquí haciéndoles el trabajo!?  
 
-¡Ya no mas!  
+¡Ya no más!  
 De aquí en adelante debes encontrar las palabras raras sin ayuda.  
-Y recuerda, también, ir elaborando las inferencias sobre lo que va a pasar.
+Y recuerda, también, ir elaborando las inferencias sobre lo que va a pasar, a medida que avanzas en la lectura.
 {{< /profe >}}
 
 ¡Decirle al pobre Smee que lo encontraban simpático! Garfio ardía en deseos de decírselo, pero le parecía demasiado brutal. En cambio, dio vueltas en la cabeza a este misterio: ¿por qué encuentran simpático a Smee? Rastreó el problema como el sabueso que era. Si Smee era simpático, ¿qué era lo que le hacía ser así? De pronto surgió una horrible respuesta: «¿Buena educación?».
