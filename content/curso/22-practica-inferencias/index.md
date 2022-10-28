@@ -28,23 +28,23 @@ Para demostrar tu habilidad lectora, a lo largo del capítulo deberás ir realiz
 ## Capítulo 14. El barco pirata
 
 
-Una luz verde que pasaba como de soslayo por encima del Riachuelo de Kidd, cercano a la desembocadura del río de los piratas, señalaba el lugar donde estaba el bergantín, el Jolly Roger, en aguas bajas: un navío de mástiles inclinados, de casco sucio, cada bao aborrecible, como un suelo cubierto de plumas destrozadas. Era el caníbal de los mares y apenas le hacía falta ese ojo vigilante, pues flotaba inmune en el terror de su nombre.
+Una luz verde que pasaba como de <mark oculta>soslayo</mark> por encima del Riachuelo de Kidd, cercano a la <mark oculta>desembocadura</mark> del río de los piratas, señalaba el lugar donde estaba el bergantín, el Jolly Roger, en aguas bajas: un navío de <mark oculta>mástiles</mark> inclinados, de casco sucio, cada bao <mark oculta>aborrecible</mark>, como un suelo cubierto de plumas destrozadas. Era el caníbal de los mares y apenas le hacía falta ese ojo vigilante, pues flotaba <mark oculta>inmune</mark> en el terror de su nombre.
 
-Estaba arropado en el manto de la noche, a través del cual ningún ruido procedente de él podría haber llegado a la orilla. Apenas se oía nada y lo que se oía no era agradable, salvo el zumbido de la máquina de coser del barco ante la cual estaba sentado Smee, siempre trabajador y servicial, la esencia de lo trivial, el patético Smee. No sé por qué resultaba tan inmensamente patético, a menos que fuera porque era tan patéticamente inconsciente de ello, pero incluso los hombres más aguerridos tenían que apartar la mirada de él apresuradamente y en más de una ocasión, en las noches de verano, había removido el manantial de las lágrimas de Garfio, haciéndolas correr. De esto, como de casi todo lo demás, Smee era totalmente inconsciente.
+Estaba arropado en el manto de la noche, a través del cual ningún ruido procedente de él podría haber llegado a la orilla. Apenas se oía nada y lo que se oía no era agradable, salvo el zumbido de la máquina de coser del barco ante la cual estaba sentado Smee, siempre trabajador y servicial, la esencia de lo <mark oculta>trivial</mark>, el <mark oculta>patético</mark> Smee. No sé por qué resultaba tan inmensamente patético, a menos que fuera porque era tan patéticamente inconsciente de ello, pero incluso los hombres más <mark oculta>aguerridos</mark> tenían que apartar la mirada de él apresuradamente y en más de una ocasión, en las noches de verano, había removido el manantial de las lágrimas de Garfio, haciéndolas correr. De esto, como de casi todo lo demás, Smee era totalmente inconsciente.
 
-Unos cuantos piratas estaban apoyados en las bordas aspirando el malsano aire nocturno, otros estaban echados junto a unos barriles jugando a los dados y las cartas y los cuatro hombres agotados que habían transportado la casita yacían sobre la cubierta, donde incluso dormidos rodaban hábilmente de un lado a otro para apartarse de Garfio, no fuera a ser que les atizara maquinalmente un zarpazo al pasar.
+Unos cuantos piratas estaban apoyados en las <mark oculta>bordas</mark> aspirando el malsano aire nocturno, otros estaban echados junto a unos barriles jugando a los dados y las cartas y los cuatro hombres agotados que habían transportado la casita yacían sobre la cubierta, donde incluso dormidos rodaban hábilmente de un lado a otro para apartarse de Garfio, no fuera a ser que les <mark oculta>atizara</mark> maquinalmente un <mark oculta>zarpazo</mark> al pasar.
 
-Garfio pasaba ensimismado por la cubierta. Qué hombre tan insondable. Era la hora de su triunfo. Peter había sido apartado para siempre de su camino y todos los demás chicos estaban a bordo del bergantín a punto de ser pasados por la plancha. Era su hazaña más siniestra desde los tiempos en que venció a Barbacoa y sabiendo como sabemos lo vanidoso que es el hombre, ¿nos habríamos sorprendido si hubiera caminado por la cubierta con paso vacilante, henchido de la gloria de su éxito?
+Garfio pasaba <mark oculta>ensimismado</mark> por la cubierta. Qué hombre tan insondable. Era la hora de su triunfo. Peter había sido apartado para siempre de su camino y todos los demás chicos estaban a bordo del <mark oculta>bergantín</mark> a punto de ser pasados por la <mark oculta>plancha</mark>. Era su hazaña más siniestra desde los tiempos en que venció a Barbacoa y sabiendo como sabemos lo vanidoso que es el hombre, ¿nos habríamos sorprendido si hubiera caminado por la cubierta con paso vacilante, <mark oculta>henchido</mark> de la gloria de su éxito?
 
-Pero en su paso no había júbilo, lo cual reflejaba el derrotero de su mente sombría. Garfio se sentía profundamente abatido.
+Pero en su paso no había <mark oculta>júbilo</mark>, lo cual reflejaba el <mark oculta>derrotero</mark> de su mente <mark oculta>sombría</mark>. Garfio se sentía profundamente <mark oculta>abatido</mark>.
 
-Con frecuencia se sentía así cuando conversaba consigo mismo a bordo del barco en la quietud de la noche. Era porque estaba horriblemente solo. Este hombre inescrutable jamás se sentía tan solo como cuando estaba rodeado de sus perros. ¡Eran tan inferiores socialmente a él!
+Con frecuencia se sentía así cuando conversaba consigo mismo a bordo del barco en la quietud de la noche. Era porque estaba horriblemente solo. Este hombre <mark oculta>inescrutable</mark> jamás se sentía tan solo como cuando estaba rodeado de sus perros. ¡Eran tan inferiores socialmente a él!
 
-Garfio no era su auténtico nombre. Incluso en estos días revelar quién era en realidad provocaría un enorme escándalo en el país, pero como aquellos que leen entre líneas habrán adivinado ya, había asistido a un famoso colegio privado y las tradiciones de éste seguían cubriéndolo como ropajes, con los cuales efectivamente están muy relacionadas. Por ello aún le resultaba ofensivo subir a un barco con la misma ropa con que lo había capturado y todavía conservaba en su caminar el distinguido aire desgarbado de su colegio. Pero sobre todo conservaba el amor a la buena educación.
+Garfio no era su auténtico nombre. Incluso en estos días revelar quién era en realidad provocaría un enorme escándalo en el país, pero como aquellos que leen entre líneas habrán adivinado ya, había asistido a un famoso colegio privado y las tradiciones de éste seguían cubriéndolo como ropajes, con los cuales efectivamente están muy relacionadas. Por ello aún le resultaba ofensivo subir a un barco con la misma ropa con que lo había capturado y todavía conservaba en su caminar el distinguido aire <mark oculta>desgarbado</mark> de su colegio. Pero sobre todo conservaba el amor a la buena educación.
 
 ¡La buena educación! Por muy bajo que hubiera caído, todavía sabía que esto es lo que realmente cuenta.
 
-Desde su interior oía un chirrido como de portalones oxidados y a través de ellos se oía un severo golpeteo, como martillazos en la noche que impiden dormir. Su eterna pregunta era: «¿Te has comportado hoy con buena educación?»
+Desde su interior oía un chirrido como de <mark oculta>portalones</mark> oxidados y a través de ellos se oía un severo golpeteo, como martillazos en la noche que impiden dormir. Su eterna pregunta era: «¿Te has comportado hoy con buena educación?»
 
 -La fama, la fama, brillante oropel, es mía -exclamaba él. 
 
@@ -56,11 +56,11 @@ Desde su interior oía un chirrido como de portalones oxidados y a través de el
 
 La idea más inquietante de todas era si no sería de mala educación pensar sobre la buena educación.
 
-Se le revolvían las entrañas con este problema. Era una garra que llevaba dentro más afilada que la de hierro y mientras lo desgarraba, el sudor resbalaba por su rostro cetrino y le manchaba el jubón. A menudo se pasaba la manga por la cara, pero no había forma de detener el goteo.
+Se le revolvían las entrañas con este problema. Era una garra que llevaba dentro más afilada que la de hierro y mientras lo desgarraba, el sudor resbalaba por su rostro <mark oculta>cetrino</mark> y le manchaba el <mark oculta>jubón</mark>. A menudo se pasaba la manga por la cara, pero no había forma de detener el goteo.
 
 Ah, no envidiéis a Garfio.
 
-Le sobrevino un presentimiento sobre su pronto final. Era como si el terrible juramento de Peter hubiera abordado el barco. Garfio sintió el lúgubre deseo de pronunciar su último discurso, no fuera a ser que pronto ya no hubiera tiempo para ello.
+Le sobrevino un presentimiento sobre su pronto final. Era como si el terrible juramento de Peter hubiera abordado el barco. Garfio sintió el <mark oculta>lúgubre</mark> deseo de pronunciar su último discurso, no fuera a ser que pronto ya no hubiera tiempo para ello.
 
 -Habría sido mejor para Garfio -exclamó- haber tenido menos ambición.
 
@@ -68,9 +68,28 @@ Sólo en sus momentos más negros se refería a sí mismo en tercera persona.
 
 -Los niños no me quieren.
 
-Es curioso que pensara en esto, que antes jamás lo había preocupado: quizás la máquina de coser le diera la idea. Estuvo largo rato mascullando para sus adentros, contemplando a Smee, que cosía plácidamente, convencido de que todos los niños tenían miedo de él.
+Es curioso que pensara en esto, que antes jamás lo había preocupado: quizás la máquina de coser le diera la idea. Estuvo largo rato <mark oculta>mascullando</mark> para sus adentros, contemplando a Smee, que cosía <mark oculta>plácidamente</mark>, convencido de que todos los niños tenían miedo de él.
 
-¡Que tenían miedo de él! ¡Miedo de Smee! No había un solo niño a bordo del bergantín esa noche que no le tuviera cariño ya. Les había dicho cosas espantosas y los había golpeado con la palma de la mano, porque no podía golpearlos con el puño, pero ellos simplemente se habían encariñado aún más con él. Michael se había probado sus gafas.
+¡Que tenían miedo de él! ¡Miedo de Smee! No había un solo niño a bordo del <mark oculta>bergantín</mark> esa noche que no le tuviera cariño ya. Les había dicho cosas espantosas y los había golpeado con la palma de la mano, porque no podía golpearlos con el puño, pero ellos simplemente se habían encariñado aún más con él. Michael se había probado sus gafas.
+
+{{< truco >}}
+¿Te has fijado en la gran cantidad de palabras raras o desconocidas que aparecen en este capítulo?  
+
+¡Ya llevo más de 20!  
+\
+¿Quieres ver las que he encontrado hasta ahora? Haz clic en este botón: &ensp;<button onclick="document.querySelectorAll('[oculta]').forEach(e => {e.setAttribute('visible','');e.removeAttribute('oculta')})">Resaltar palabras raras</button>
+{{< /truco >}}
+
+
+{{< profe >}}
+Truco!!  
+
+¿¡Tú de nuevo por aquí haciéndoles el trabajo!?  
+
+¡Ya no mas!  
+De aquí en adelante debes encontrar las palabras raras sin ayuda.  
+Y recuerda, también, ir elaborando las inferencias sobre lo que va a pasar.
+{{< /profe >}}
 
 ¡Decirle al pobre Smee que lo encontraban simpático! Garfio ardía en deseos de decírselo, pero le parecía demasiado brutal. En cambio, dio vueltas en la cabeza a este misterio: ¿por qué encuentran simpático a Smee? Rastreó el problema como el sabueso que era. Si Smee era simpático, ¿qué era lo que le hacía ser así? De pronto surgió una horrible respuesta: «¿Buena educación?».
 
@@ -213,7 +232,7 @@ Sin pararse a pensar en lo que podría sentir un prójimo privado tan bruscament
 
 Peter llegó a la playa sin problemas y siguió adelante sin pararse, metiendo las piernas en el agua como si no se diera cuenta de que había entrado en un elemento nuevo. De esta forma pasan muchos animales de la tierra al agua, pero ningún otro humano que yo conozca. Mientras nadaba sólo pensaba en una cosa: «Esta vez o Garfio o yo.» Llevaba tanto tiempo haciendo tic tac que seguía haciéndolo sin percatarse de ello. Si lo hubiera sabido se habría parado, ya que subir al bergantín con ayuda del tic tac, aunque era una idea ingeniosa, no se le había ocurrido.
 
-Por el contrario, creía que había trepado por su costado silencioso como un ratón y se sorprendió al ver a los piratas apartándose de él, con Garfio en medio de ellos tan abatido como si hubiera oído al cocodrilo.
+Por el contrario, creía que había trepado por su costado silencioso como un ratón y se sorprendió al ver a los piratas apartándose de él, con Garfio en medio de ellos tan <mark oculta>abatido</mark> como si hubiera oído al cocodrilo.
 
 ¡El cocodrilo! Tan pronto como Peter lo recordó oyó el tic tac. Al principio creyó que el ruido sí que procedía del cocodrilo y miró hacia atrás rápidamente. Luego cayó en la cuenta de que lo estaba haciendo él mismo y al instante se hizo cargo de la situación. «Qué listo soy», pensó de inmediato y les hizo señas a los chicos de que no prorrumpieran en aplausos.
 
@@ -232,5 +251,5 @@ Poco a poco Garfio fue sacando la cabeza de la gorguera y escuchó tan atentamen
 (Continuará…)
 
 {{< truco >}}
-¿Recordaste copiar las palabras raras o desaconocidas?
+
 {{< /truco >}}
