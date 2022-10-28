@@ -82,9 +82,7 @@ Es curioso que pensara en esto, que antes jamás lo había preocupado: quizás l
 
 
 {{< profe >}}
-¡¡Truco!!  
-
-¿¡Tú de nuevo por aquí haciéndoles el trabajo!?  
+¡Aike! ¿Tú de nuevo por aquí haciéndoles el trabajo?  
 
 ¡Ya no más!  
 De aquí en adelante debes encontrar las palabras raras sin ayuda.  
