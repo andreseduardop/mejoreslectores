@@ -434,7 +434,7 @@ Por supuesto, la señora Darling dijo inmediatamente que se los quería quedar, 
 
 Le dijo a Wendy:
 
--Debo decir que las cosas no se hacen a medias -un comeníario poco generoso que a los gemelos les pareció que iba por ellos.
+-Debo decir que las cosas no se hacen a medias -un comentario poco generoso que a los gemelos les pareció que iba por ellos.
 
 El primer gemelo era el atrevido y preguntó, ruborizándose:
 
