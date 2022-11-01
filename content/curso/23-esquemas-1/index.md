@@ -1,6 +1,6 @@
 ---
 title: "Actividad 23:&ensp;Elaboración de esquemas."
-date: 2022-10-24
+date: 2022-10-31
 layout: single
 weight: 230
 tags: 
@@ -23,7 +23,7 @@ Hoy vamos a ver un tipo especial de resumen: El esquema. Para entender de qué s
 
 
 {{< profe >}}
-Hoy finalizaremos la lectura de la novela y en la siguiente clase elaboraremos un esquema de ésta.
+Ahora, finalizaremos la lectura de la novela y en la siguiente clase elaboraremos un esquema de ésta.
 {{< /profe >}}
 
 
