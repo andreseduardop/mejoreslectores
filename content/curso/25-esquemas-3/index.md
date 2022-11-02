@@ -44,11 +44,12 @@ Hola.
 ¿Te gustaría ver cómo quedó mi organizador gráfico?
 Pero, ¡no la puedes copiar! Es únicamente para guiarte en una de tantas formas de hacerlo.
 <details>
-<summary><span class="bigger">Clic aquí para ver mi dibujo</span></summary>
+<summary><span class="bigger">Clic aquí para ver mi organizador gráfico.</span></summary>
 <a href="img/mapa-mental-1.jpg">
   <img src="img/mapa-mental-1.jpg">
 </a>
 <p>Lo elaboré como una mezcla entre mapa mental y línea de tiempo.
+<p>Puedes hacer clic en la imagen para ampliarla.</p>
 </details>
 <br>
 {{< /truco >}}
