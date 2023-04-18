@@ -18,6 +18,8 @@ Vamos terminando la lectura de la novela "Peter Pan y Wendy".
 Y también vamos terminando nuestro taller. Espero que tu comprensión lectora haya ido mejorando. Para comprobarlo, hoy serás tú quien realice las preguntas.  
 \
 Para demostrar tu habilidad lectora, a lo largo del capítulo deberás ir realizando inferencias (suposiciones) sobre lo que ocurrirá más adelante. Y toma nota de estas en el cuaderno.  
+\
+En el capítulo anterior los piratas han capturado a los niños y Peter buscaba salvarlos. ¿Qué pasará a continuación?
 {{< /profe >}}
 
 ---
