@@ -15,7 +15,7 @@ A través de 25 lecciones de una hora, los estudiantes realizarán la lectura de
 
 El taller progresa de forma gradual, partiendo de la conciencia léxica y la comprensión sintáctica hasta llegar a estrategias avanzadas de comprensión lectora y toma de notas.
 
-Este curso ha sido creado como parte del proyecto de investigación sobre multimedia, interactividades en línea y comprensión lectora, en el marco de la Maestría en Diseño y Gestión de Escenarios Virtuales de Aprendizaje, de la Universidad de La Salle, Bogotá.
+Este curso ha sido creado como parte del proyecto de investigación sobre multimedia y comprensión lectora, en el marco de la Maestría en Diseño y Gestión de Escenarios Virtuales de Aprendizaje, de la Universidad de La Salle, Bogotá.
 </p>  
 </details>
 
