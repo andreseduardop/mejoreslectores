@@ -17,6 +17,6 @@ Este curso ha sido creado como parte del proyecto de investigación sobre multim
 ## Versión impresa
 
 Una copia completa de la **versión impresa** utilizada en la investigación, se encuentra en la ubicación: 
-[https://mejoreslectores.netlify.app/version-para-imprimir.pdf](https://mejoreslectores.netlify.app/version-para-imprimir.pdf)
+[https://mejoreslectores.netlify.app/version-impresa.PDF](https://mejoreslectores.netlify.app/version-impresa.pdf)
 
 ## Lista de actividades
