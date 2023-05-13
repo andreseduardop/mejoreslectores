@@ -36,7 +36,12 @@ Veamos ahora un breve video sobre la forma en que se ordenan alfabéticamente la
 Recuerda colocarte tus audífonos. 🎧  
 {{< /profe >}}
 
-{{< youtube "g9h2V77uDoA" >}}
+{{< video 
+	"OskfBGraJZk"
+	"Cómo Usar el Diccionario | Videos Educativos Aula365"
+	"Aula365 – Los Creadores"
+ 	"g9h2V77uDoA" 
+ >}}
 
 <br>
 
@@ -50,7 +55,11 @@ Ahora que dominas la organización alfabética de palabras, continuemos.
 El diccionario es una herramienta muy importante, veamos un video un poco más avanzado sobre el uso de este. 
 {{< /profe >}}
 
-{{< youtube "aPJYl285VQY" >}}
+{{< video 
+	"Iyij_OoFqCI"
+	"65. Uso del diccionario"
+	"acervo - aprende_mx"
+	"aPJYl285VQY" >}}
 
 {{< profe >}}
 Ahora vamos a leer un texto y buscaremos en el diccionario todas las palabras raras o desconocidas que vayamos encontrando en él.

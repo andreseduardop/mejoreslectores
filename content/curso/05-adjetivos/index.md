@@ -22,7 +22,11 @@ Veámoslo primero con un video.
 {{< /profe >}}
 
 
-{{< youtube svcNlzvcbDo >}}
+{{< video 
+    "s2KUBF-Ef3U"
+    "¿Qué son los Adjetivos Calificativos? | Videos Educativos Aula365"
+    "Aula365 – Los Creadores"
+    "svcNlzvcbDo" >}}
 
 
 {{< profe >}}
@@ -31,7 +35,11 @@ Entonces, el adjetivo es una clase de palabra que modifica o nos da más informa
 Veamos en el siguiente video los tipos de adjetivos y algunos ejemplos.
 {{< /profe >}}
 
-{{< youtube W7BexjuLaQ8 >}}
+{{< video 
+    "aYAQEvETCcA"
+    "Adjetivos en español con ejemplos - Videos Aprende"
+    "Videos Aprende"
+    "W7BexjuLaQ8" >}}
 
 
 {{< profe >}}

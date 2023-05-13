@@ -18,7 +18,11 @@ En verdad, la mayoría de oraciones de un texto son mucho más complejas. Para c
 {{< /profe >}}
 
 
-{{< youtube dJht980OGts >}}
+{{< video
+	"6DncBiQwG6c"
+	"La oración compuesta"
+	"Stav Guxt"
+	"dJht980OGts" >}}
 
 {{< profe >}}
 Ahora, continuaremos leyendo la historia de "Peter Pan y Wendy".  

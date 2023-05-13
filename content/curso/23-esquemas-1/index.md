@@ -19,7 +19,11 @@ Como vimos anteriormente, la elaboración de resúmenes facilita y mejora la com
 Hoy vamos a ver un tipo especial de resumen: El esquema. Para entender de qué se trata, veamos el siguiente video.
 {{< /profe >}}
 
-{{< youtube z7KlbwvNieY >}}
+{{< video
+    "z7KlbwvNieY"
+    "¿Qué es un esquema de llaves? Características, cómo se hace y ejemplos"
+    "Lifeder Educación"
+    "z7KlbwvNieY" >}}
 
 
 {{< profe >}}

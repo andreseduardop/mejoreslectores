@@ -38,7 +38,11 @@ Los nombres de los personajes y lugares en un relato se componen de sustantivos 
 {{< /truco >}}
 
 
-{{< youtube 0cR02kExPu8 >}}
+{{< video 
+    "g6Vzr0d7i84"
+    "Los Sustantivos Propios y Comunes | Videos Educativos Aula365"
+    "Aula365 – Los Creadores"
+    "0cR02kExPu8" >}}
 
 
 {{< profe-actividad 

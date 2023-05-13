@@ -33,11 +33,15 @@ _Las oraciones nos ayudan a organizar y comprender más fácilmente un texto._
 <br>
 Por esto, saber identificar las oraciones nos ayudará a mejorar nuestra comprensión lectora.  
 
-Ahora, trabajemos un poco en mejorar nuestra habilidad para reconocer y comprender oraciones. Iniciaremos con un corto  video.
+Ahora, trabajemos un poco en mejorar nuestra habilidad para reconocer y comprender oraciones. Iniciaremos con un corto video.
 {{< /profe >}}
 
 
-{{< youtube kLr11L_2yDE >}}
+{{< video
+    "S1b30NXoUbA"
+    "La oración simple: sujeto, verbo y predicado"
+    "Tu clase de Español"
+    "kLr11L_2yDE" >}}
 
 
 {{< profe-actividad 
@@ -57,7 +61,11 @@ Y, luego, continuaremos con el video.
 {{< /profe >}}
 
 
-{{< youtube O9pj4tKhCyA >}}
+{{< video
+    "S1b30NXoUbA"
+    "La oración simple: sujeto, verbo y predicado"
+    "Tu clase de Español"
+    "O9pj4tKhCyA" >}}
 
 
 {{< profe-actividad 

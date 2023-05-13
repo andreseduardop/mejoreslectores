@@ -110,7 +110,11 @@ Tal vez el siguiente video te ayude a comprenderlas mejor.
 {{< /profe >}}
 
 
-{{< youtube 5DOrOko70WM >}}
+{{< video
+	"K0KTiMFY2Qs"
+	"Oraciones COORDINADAS: sus tipos"
+	"Artemisa Sangerman"
+	"5DOrOko70WM" >}}
 
 {{< profe >}}
 ¿Ahora tienes un poco más claro el tema?  

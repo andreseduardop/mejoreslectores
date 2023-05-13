@@ -18,14 +18,22 @@ Hoy vamos a avanzar en nuestro objetivo de comprender mejor cada una de las pala
 {{< /profe >}}
 
 
-{{< youtube XXAILb0xu2c >}}
+{{< video 
+	"F31XS-rjABA"
+	"¿Qué es un Verbo? | Videos Educativos Aula365"
+	"Aula365 – Los Creadores"
+	"XXAILb0xu2c" >}}
 
 
 {{< profe >}}
 Ahora, veamos en detalle cómo se conjugan los verbos. 
 {{< /profe >}}
 
-{{< youtube 3gLmIURkUkI >}}
+{{< video
+	"3fDfxrRn8Vk"
+	"¿Cómo se Conjugan los Verbos? | Videos Educativos Aula365"
+	"Aula365 – Los Creadores"
+	"3gLmIURkUkI" >}}
 
 
 {{< profe >}}
@@ -233,4 +241,8 @@ Luego, copia el párrafo completo en el cuaderno, subrayando los 18 verbos que c
 Sólo para estudiantes avanzados. ;)
 {{< /truco >}}
 
-{{< youtube fi1oNeRlJ8U >}}
+{{< video 
+	"fi1oNeRlJ8U"
+	"🇪🇸🇪🇸¿Pretérito INDEFINIDO o Pretérito PERFECTO?🇪🇸🇪🇸NIVEL A2 👍🏾 Con ACTIVIDADES en PDF 👍🏾"
+	"Linguriosa"
+	"fi1oNeRlJ8U" >}}

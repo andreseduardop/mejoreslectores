@@ -22,7 +22,10 @@ Observaremos **completamente** el siguiente video y luego responderemos el ejerc
 **Recordemos** colocarnos los audífonos antes de iniciar el video. 🎧
 {{< /truco >}}
 
-{{< youtube "iwPj0qgvfIs?controls=0" >}}
+{{< video 
+	"iwPj0qgvfIs" 
+	"Popularlibros.com - BOOK - Versión completa"
+	"leerestademoda">}}
 
 {{< profe >}}
 Ahora que hemos comprobado el funcionamiento correcto del video y el audio, vamos a apuntar en el cuaderno los materiales que necesitaremos a partir de mañana.  

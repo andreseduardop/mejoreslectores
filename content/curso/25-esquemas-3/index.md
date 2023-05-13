@@ -19,7 +19,11 @@ Para comenzar, veamos el siguiente video con ejemplos.
 {{< /profe >}}
 
 
-{{<youtube Xm_fLHUJ8Fc >}}
+{{<video
+  "Xm_fLHUJ8Fc"
+  "ORGANIZADORES GRÁFICOS - MAPA CONCEPTUAL,MENTAL, LÍNEA DEL TIEMPO, CUADRO SINÓPTICO, ORGANIGRAMA."
+  "Rocio Carreon"
+  "Xm_fLHUJ8Fc" >}}
 
 
 

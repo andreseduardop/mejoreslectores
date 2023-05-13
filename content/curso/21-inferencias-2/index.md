@@ -18,7 +18,11 @@ Para comenzar, veamos un breve video.
 {{< /profe >}}
 
 
-{{< youtube FLnIzteKZsQ >}}
+{{< video
+	"04Y12e-5bhU"
+	"HACER INFERENCIAS"
+	"Lenguaje TV"
+	"FLnIzteKZsQ" >}}
 
 
 {{< profe >}}

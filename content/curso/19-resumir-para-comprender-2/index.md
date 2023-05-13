@@ -17,7 +17,11 @@ Para iniciar, veamos el siguientes video.
 {{< /profe >}}
 
 
-{{< youtube 2e8FU82I6oc >}}
+{{< video
+	"V-_mK93PLH4"
+	"Cómo resumir un texto (1). Cuentos o textos narrativos breves."
+	"La lengua en el oído"
+	"2e8FU82I6oc" >}}
 
 
 {{< profe >}}

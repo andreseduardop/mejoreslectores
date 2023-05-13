@@ -27,7 +27,11 @@ Luego, a partir de lo que nos expliquen en el video, vamos a ejercitar nuestra h
 {{< /profe >}}
 
 
-{{< youtube FLnIzteKZsQ >}}
+{{< video
+	"04Y12e-5bhU"
+	"HACER INFERENCIAS"
+	"Lenguaje TV"
+	"FLnIzteKZsQ" >}}
 
 
 ---

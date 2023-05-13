@@ -22,7 +22,11 @@ Hoy vamos a ver cómo se combinan con otras palabras para formar oraciones.
 {{< /profe >}}
 
 
-{{< youtube ob3tDIPZEFo >}}
+{{< video
+    "W9vn4PU7e9Y"
+    "La oración, el sujeto y el predicado | Vídeos Educativos para Niños"
+    "Happy Learning Español"
+    "ob3tDIPZEFo" >}}
 
 
 {{< profe >}}
@@ -353,5 +357,9 @@ Si te queda algo de tiempo, te dejo un video para que te hagas experto en oracio
 Y más abajo encontrarás una breve encuesta para que respondas haciendo clic sobre alguna de las opciones. 
 {{< /profe >}}
 
-{{< youtube K_bFNniZh0M >}}
+{{< video
+    "K_bFNniZh0M"
+    "La oración simple y sus características"
+    "unProfesor"
+    "K_bFNniZh0M" >}}
 
