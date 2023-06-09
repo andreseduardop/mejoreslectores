@@ -16,3 +16,5 @@ Este curso ha sido creado como parte del proyecto de investigación sobre multim
 
 
 ## Lista de actividades
+
+---
