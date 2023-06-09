@@ -40,7 +40,7 @@ params:
   description: Taller Experimental de Comprensión Lectora.
   homeMetaContent: Taller Experimental de Comprensión Lectora.
   footer: ""
-  footer2: "© <a href='https://www.linkedin.com/in/andreseduardop/' target='perfil_autor'>Andrés Peña</a> y Jeysson Martín, 2022.<br>MAESTRÍA EN DISEÑO Y GESTIÓN DE ESCENARIOS VIRTUALES DE APRENDIZAJE.<BR> UNIVERSIDAD DE LA SALLE."
+  footer2: "© <a href='https://www.linkedin.com/in/andreseduardop/' target='perfil_autor'>Andrés Peña</a>, 2022-2023."
   dateFormat: 'Jan 2, 2006'
   author: Andrés Eduardo Peña
   images:

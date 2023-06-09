@@ -14,9 +14,5 @@ El taller progresa de forma gradual, partiendo de la conciencia léxica y la com
 
 Este curso ha sido creado como parte del proyecto de investigación sobre multimedia y comprensión lectora, en el marco de la Maestría en Diseño y Gestión de Escenarios Virtuales de Aprendizaje, de la Universidad de La Salle, Bogotá.
 
-## Versión impresa
-
-Una copia completa de la **versión impresa** utilizada en la investigación, se encuentra en la ubicación: 
-[https://mejoreslectores.netlify.app/version-impresa.PDF](https://mejoreslectores.netlify.app/version-impresa.pdf)
 
 ## Lista de actividades
