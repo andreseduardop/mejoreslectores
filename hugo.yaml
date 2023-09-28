@@ -1,4 +1,4 @@
-baseURL: 'https://mejoreslectores.com'
+baseURL: 'https://mejoreslectores.netlify.app/'
 title: MEJORES&nbsp;LECTORES
 theme: cupper-hugo-theme
 googleAnalytics: 'G-DGH72DH8MG'
