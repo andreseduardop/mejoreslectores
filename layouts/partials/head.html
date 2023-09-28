@@ -52,6 +52,20 @@
   {{ $title = $title | plainify | safeHTML }}
   <title>{{ $title }}</title>
 
+  <!-- thumbnail  -->
+  {{- $images := $.Resources.ByType "image" -}}
+  {{- $featuredImage := $images.GetMatch "*feature*" -}}
+  {{- with $featuredImage }}
+    {{- $image := $featuredImage.Permalink -}}
+    <meta name="thumbnail" content='{{ $image }}'>
+  {{- else -}}
+    {{ with $.Site.Params.Images }}
+      {{- $image := index . 0 | absURL -}}
+      <meta name="thumbnail" content='{{ $image }}'>
+    {{ end }}
+  {{ end }}
+  <!-- end thumbnail  -->
+
   <!-- Define favicon e íconos -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
